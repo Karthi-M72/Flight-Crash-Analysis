@@ -6,25 +6,30 @@ st.set_page_config(page_title="Flight Crash Analysis", layout="wide")
 st.title("✈️ Flight Crash Analysis Dashboard")
 
 # ----------------- Load Data -----------------
+csv_path = "data/flight_crash_data.csv"  # adjust if needed
+
 try:
-    df = pd.read_csv("data/flight_crash_data.csv")  # adjust path if needed
-except FileNotFoundError:
-    st.error("CSV file not found. Please check the file path.")
-    st.stop()
-
-# ----------------- Clean Columns -----------------
-df.columns = df.columns.str.strip().str.lower()
-
-# ----------------- Ensure Expected Columns -----------------
-expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
-missing_cols = [col for col in expected_cols if col not in df.columns]
-
-if missing_cols:
-    st.error(f"Missing expected columns: {', '.join(missing_cols)}")
-    st.stop()
+    # Try reading CSV with headers first
+    df = pd.read_csv(csv_path)
+    df.columns = df.columns.str.strip().str.lower()
+    
+    expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
+    if not all(col in df.columns for col in expected_cols):
+        raise ValueError("Some expected columns are missing; trying without headers...")
+except (FileNotFoundError, ValueError):
+    try:
+        # Read CSV assuming no header and assign column names manually
+        df = pd.read_csv(csv_path, header=None)
+        df.columns = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
+        st.info("Loaded CSV without headers and assigned default column names.")
+    except FileNotFoundError:
+        st.error("CSV file not found. Please check the file path.")
+        st.stop()
 
 # ----------------- Parse Date Column -----------------
 df["date"] = pd.to_datetime(df["date"], errors="coerce", dayfirst=True)
+if df["date"].isna().any():
+    st.warning("Some dates could not be parsed and are set as NaT.")
 
 # ----------------- Sidebar Filters -----------------
 st.sidebar.header("🔍 Filters")
