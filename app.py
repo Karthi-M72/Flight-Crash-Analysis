@@ -6,16 +6,11 @@ st.set_page_config(page_title="Flight Crash Analysis", layout="wide")
 st.title("✈️ Flight Crash Analysis Dashboard")
 
 # ----------------- Load Data -----------------
-csv_path = "data/flight_crash_data.csv"  # adjust if needed
+csv_path = "data/flight_crash_data.csv"
 
 try:
-    # Read CSV with proper handling of quotes and commas inside fields
-    df = pd.read_csv(
-        csv_path,
-        sep=",",
-        quotechar='"',
-        engine="python"
-    )
+    # Tab-separated CSV with headers
+    df = pd.read_csv(csv_path, sep="\t", engine="python")
 except FileNotFoundError:
     st.error("CSV file not found. Please check the file path.")
     st.stop()
@@ -23,24 +18,18 @@ except pd.errors.ParserError as e:
     st.error(f"Error parsing CSV: {e}")
     st.stop()
 
-# ----------------- Assign Column Names -----------------
-expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
-if df.shape[1] == len(expected_cols):
-    df.columns = expected_cols
-else:
-    st.warning(f"CSV has {df.shape[1]} columns, expected {len(expected_cols)}. Assigning first {df.shape[1]} names.")
-    df.columns = expected_cols[:df.shape[1]]
-
-# Clean column names
+# ----------------- Normalize Columns -----------------
+df = df.rename(columns={
+    "fatalities": "fat",
+    "damage_level": "dmg_level"
+})
 df.columns = df.columns.str.strip().str.lower()
 
-# ----------------- Parse Date Column -----------------
+# ----------------- Parse Date -----------------
 if "date" in df.columns:
-    df["date"] = pd.to_datetime(df["date"], errors="coerce", dayfirst=True)
+    df["date"] = pd.to_datetime(df["date"], dayfirst=True, errors="coerce")
     if df["date"].isna().any():
         st.warning("Some dates could not be parsed and are set as NaT.")
-else:
-    st.warning("'date' column not found in CSV.")
 
 # ----------------- Sidebar Filters -----------------
 st.sidebar.header("🔍 Filters")
@@ -78,33 +67,32 @@ col4.metric("Unique Aircraft Types", df["type"].nunique() if "type" in df.column
 # ----------------- Interactive Charts -----------------
 st.subheader("📈 Crash Analysis")
 
-# 1. Crashes by Aircraft Type
+# Crashes by Aircraft Type
 if "type" in df.columns:
     fig_type = px.histogram(df, x="type", title="Crashes by Aircraft Type", color="type")
     st.plotly_chart(fig_type, use_container_width=True)
 
-# 2. Crashes by Damage Level
+# Crashes by Damage Level
 if "dmg_level" in df.columns:
     fig_dmg = px.histogram(df, x="dmg_level", title="Crashes by Damage Level", color="dmg_level")
     st.plotly_chart(fig_dmg, use_container_width=True)
 
-# 3. Fatalities over Time
+# Fatalities over Time
 if "date" in df.columns and "fat" in df.columns:
     fig_fat = px.line(df.groupby("date")["fat"].sum().reset_index(),
                       x="date", y="fat", title="Fatalities Over Time")
     st.plotly_chart(fig_fat, use_container_width=True)
 
-# 4. Crashes by Location (Top 10)
+# Top 10 Crash Locations
 if "location" in df.columns:
     top_locations = df["location"].value_counts().nlargest(10).reset_index()
     top_locations.columns = ["location", "count"]
     fig_loc = px.bar(top_locations, x="location", y="count", title="Top 10 Crash Locations", color="location")
     st.plotly_chart(fig_loc, use_container_width=True)
 
-# ----------------- Raw Data Display -----------------
+# ----------------- Raw Data -----------------
 st.subheader("📋 Raw Data")
 st.dataframe(df)
 
-# ----------------- Footer -----------------
 st.markdown("---")
 st.markdown("© 2025 Flight Crash Analysis Dashboard")
