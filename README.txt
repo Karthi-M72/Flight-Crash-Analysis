@@ -1,6 +1,5 @@
-
 Flight Crash Dashboard - scaffold
---------------------------------
+
 Files created at: /mnt/data/flight_dashboard_app
 
 1) extract_data.py - helper to pull CSV/JSON from uploaded archives in /mnt/data into ./data/
