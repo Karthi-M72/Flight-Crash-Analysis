@@ -1,0 +1,1232 @@
+date,type,reg,operator,location,fatalities,damage_level
+03-01-2022,British Aerospace 4121 Jetstream 41,ZS-NRJ,SA Airlink,near Venetia Mine Airport,0,Medium
+04-01-2022,British Aerospace 3101 Jetstream 31,HR-AYY,LANHSA - Línea Aérea Nacional de Honduras S.A,Roatán-Juan Manuel Gálvez International Airport (RTB),0,Medium
+05-01-2022,Boeing 737-4H6,EP-CAP,Caspian Airlines,Isfahan-Shahid Beheshti Airport (IFN),0,Medium
+08-01-2022,Tupolev Tu-204-100C,RA-64032,"Cainiao, opb Aviastar-TU",Hangzhou Xiaoshan International Airport (HGH),0,High
+12-01-2022,Beechcraft 200 Super King Air,others,private,"Machakilha, Toledo District, Grahem Creek area",0,High
+16-01-2022,Airbus A320-214 (WL),JA24MC,Star Flyer,near Okayama City,0,Low
+19-01-2022,Cessna 208B Grand Caravan EX,YV3033,Mahan Air,"near Vakilabad, Arzuiyeh",0,Medium
+22-01-2022,Airbus A320-232,N760JB,JetBlue Airways,"Hayden-Yampa Valley Airport, CO (HDN)",0,Medium
+27-01-2022,Bombardier CL-600-2B16 Challenger 604,2-SLOW,Volare Aviation,Heraklion-N. Kazantzakis Airport (HER/LGIR),0,Medium
+31-01-2022,Bombardier CL-600-2B16 Challenger 604,N999PX,Lima Delta Co Trustee,London-Stansted Airport (STN),0,Medium
+31-01-2022,Beechcraft B300 King Air 350,C-GEAS,"Air Tindi, opf Royal Canadian Air Force - RCAF","Thunder Bay Airport, ON (YQT)",0,Medium
+02-02-2022,Hawker 1000,N207K,Skyview LLC,"Islip-Long Island MacArthur Airport, NY (ISP)",0,Medium
+05-02-2022,Cessna 208B Grand Caravan,5H-TAZ,Care Aviation,New Fangak Airstrip,0,Medium
+07-02-2022,Embraer ERJ-190-100LR,OH-LKK,Finnair,KÃ¸benhavn-Kastrup Airport (CPH),0,Medium
+08-02-2022,Antonov An-26,SP-402,South Sudanese Air Force,Agok Airstrip,0,Medium
+11-02-2022,Cessna 501 Citation I/SP,LV-JUO,Aviajet SA,"Morón-Ituzaingo Airport, BA",0,Medium
+11-02-2022,Antonov An-2R,RA-33599,Kamchatsky Krechet,"1 km SW of Koryaki, Yelizovsky district, Kamchatka",2,High
+14-02-2022,Let L-410UVP-E3,9S-GFA,Doren Air Congo,Bukavu-Kavumu Airport (BKY),0,High
+15-02-2022,ATR 42-500,JA04JC,Japan Air Commuter,55 km NNW of Osaka Airport,0,Low
+15-02-2022,Britten-Norman BN-2A-9 Islander,N821RR,Air Flamenco,Culebra Airport (CPX),0,Medium
+16-02-2022,Swearingen SA226-AT Merlin IV,HK-5225,Colcharter,San Andres Island-Gustavo Rojas Pinilla Airport (ADZ),0,Medium
+18-02-2022,Embraer EMB-500 Phenom 100E,N68NH,Eclipse Transport LLC,"Detroit-Coleman A. Young International Airport, MI (DET)",0,Medium
+21-02-2022,de Havilland Canada DHC-3T Texas Turbine Otter,N413JP,Bald Mountain Air Services,"Umiat Airport, AK (UMT)",0,Medium
+21-02-2022,Raytheon Hawker 800XP,N99AP,Roper Aviation LLC,"Aspen-Pitkin County Airport, CO (ASE/KASE)",0,Medium
+23-02-2022,Cessna 208B Grand Caravan,5X-ASD,Air Serv Limited,Bor Airport (HSBR),0,Medium
+23-02-2022,Antonov An-2,others,Taraz Zhana Alem,10 km S of Aralsk,0,High
+24-02-2022,Antonov An-22A,UR-09307,Antonov Airlines,Kyiv-Gostomel Airport (GML),0,Medium
+24-02-2022,Antonov An-26-100,UR-13395,Antonov Airlines,Kyiv-Gostomel Airport (GML),0,High
+24-02-2022,Antonov An-74T,UR-74010,Antonov Airlines,Kyiv-Gostomel Airport (GML),0,High
+24-02-2022,Cessna 208B Supervan 900,N10JA,GoJump Oceanside,"0,4 km NE of Oceanside Municipal Airport, CA (OCN/KOKB)",0,Medium
+24-02-2022,Antonov An-26,RF-36074,Russian Air Force,"near Ostrogozhsk, Voronezh Region",0,High
+24-02-2022,Antonov An-26,59 blue,Ukraine Air Force,ca 2 km N of Zhukivtsi,5,High
+26-02-2022,Cessna 208B Grand Caravan,5H-MZA,AB Aviation,"2,5 km NW off Mohéli-Bandar es Eslam Airport (NWA)",14,High
+27-02-2022,Antonov An-124-100,UR-82009,Antonov Airlines,Kyiv-Gostomel Airport (GML),0,Medium
+27-02-2022,Antonov An-225,UR-82060,Antonov Airlines,Kyiv-Gostomel Airport (GML),0,High
+28-02-2022,Cessna 208B Grand Caravan,N108RF,Revolution Flight,"Campbellton, TX",0,Medium
+28-02-2022,Embraer ERJ 170-200 LR (ERJ-175LR),N402YX,"American Eagle, opb Republic Airlines","Washington-Ronald Reagan National Airport, DC (DCA)",0,Low
+28-02-2022,Cessna 208B Grand Caravan EX,PK-FSW,Spirit Avia Sentosa,Bilogai/Sugapa Airport (ZGP),0,Medium
+01-03-2022,Shaanxi Y-8Q,others,China Naval Air Force - Unit 92967,"off Sanya, Hainan Province",11,High
+02-03-2022,Embraer EMB-500 Phenom 100,LV-GQN,Flyzar,"Angra dos Reis Airport, RJ (SDAG)",0,Medium
+03-03-2022,Boeing 737-8AS (WL),EI-DHH,Ryanair,Ibiza Airport (LEIB),0,Low
+05-03-2022,Dornier 228-101,CG756,Indian Coast Guard,Kanpur Air Force Station (VICX),0,Medium
+06-03-2022,Beechcraft 200 Super King Air,N8170J,HLAF AETA LLC,"Gulfport-Biloxi International Airport, MS (GPT)",0,Medium
+07-03-2022,Cessna 525B CitationJet CJ3,N22AU,Ozark Air Services,"Baltimore-Martin State Airport, MD (MTN)",0,Medium
+08-03-2022,Cessna 208 Caravan I,C-GIPR,Bamaji Air,"17 km NNW of Sioux Lookout Airport, ON (YXL)",0,High
+09-03-2022,Honda HA-420 HondaJet,N903JT,Jet It LLC,"Pittsburgh-Allegheny County Airport, PA (AGC)",0,Medium
+12-03-2022,Beechcraft 1900D,HP-1948BT,Bocas Air,Panama City Albrook-Marcos A. Gelabert International Airport (PAC),0,Medium
+17-03-2022,Cessna 208B Super Cargomaster,N78SA,Martinaire,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",0,Low
+17-03-2022,Cessna 208B Super Cargomaster,N9469B,Martinaire,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",0,Medium
+21-03-2022,Boeing 737-89P (WL),B-1791,China Eastern Airlines,"20 km SW of Wuzhou, Tengxian County",132,High
+26-03-2022,Boeing 767-346ER,JA603J,Japan Airlines (JAL),90 km E of Nagoya,0,Low
+30-03-2022,Cessna 208 Caravan I,D-FLIC,"Skydive Costa d'Argento, lsf Gladwings",SÃ¤ntis Mountain,1,High
+01-04-2022,Embraer EMB-110P2 Bandeirante,TG-TAN,TAG Airlines,Belize City-Philip S.W. Goldson International Airport (BZE),0,Medium
+02-04-2022,Learjet 75,N877W,Georgia Crown Distributing Co.,"Morristown Municipal Airport, NJ (MMU)",0,Medium
+07-04-2022,Boeing 757-27A (PCF),HP-2010DAE,DHL Aero Expreso,San José-Juan Santamaria International Airport (SJO),0,High
+08-04-2022,Aero Modifications AMI DC-3-65TP,HK-5016,ALIANSA Colombia,San Felipe Airport,0,Medium
+11-04-2022,Beechcraft A100 King Air,C-GYQK,Thunder Airlines,"Timmins Airport, ON (YTS)",0,Medium
+13-04-2022,Gulfstream American G-1159 Gulfstream II B,N511PK,private,within Venezuela,0,High
+13-04-2022,Basler BT-67 Turbo 67,PNC0257,Servicio Aéreo de Policia,Villavicencio-La Vanguardia Airport (VVC),0,Medium
+13-04-2022,Cessna 208B Grand Caravan,N928JP,Gem Air,"0,7 km NE of Burley Municipal Airport, ID (BYI)",1,High
+14-04-2022,Fairchild SA227-DC Metro 23,N820DC,Denver Air Connection,"Denver International Airport, CO (DEN/KDEN)",0,Medium
+17-04-2022,Embraer EMB-505 Phenom 300,PP-LGD,VOAR Cooperativa,"Maraú-Barra Grande Airport, BA (SIRI)",0,Medium
+17-04-2022,Cessna 525B CitationJet CJ3,N225SC,GP Aviation LLC,"Caldwell Wright Airport, NJ (CDW)",0,Medium
+22-04-2022,Antonov An-26B-100,UR-UZB,Constanta Airlines,Mykhailivka,1,High
+26-04-2022,Boeing 737-8AS (WL),EI-ENK,Ryanair,Almería Airport (LEI),0,Low
+30-04-2022,Beechcraft 99A Airliner,N699CZ,Freight Runners Express,"Milwaukee-General Mitchell Airport (MKE/KMKE), Milwaukee, WI",0,Medium
+30-04-2022,Cessna 208B Grand Caravan,F-GXMP,Centre Ecole de Parachutisme Sportif de l'AriÃ¨ge,Pamiers/Les Pujols Airport,0,Medium
+03-05-2022,Shorts 360-300,N744LG,Air Cargo Carriers,San Juan-Luis Muñoz Marín International Airport (SJU),0,Medium
+06-05-2022,Beechcraft 200 Super King Air,CC-CDY,Sociedad De Transporte Aéreo Movi Air SPA,Santiago-Arturo Merino Benitez Airport (SCL),0,Medium
+06-05-2022,Boeing 737-82R (WL),YR-BMM,Blue Air,Napoli-Capodichino Airport (NAP),0,Medium
+10-05-2022,Boeing 737-883 (WL),LN-RRH,SAS Scandinavian Airlines,between Stavanger and Oslo,0,Low
+11-05-2022,Viking Air DHC-6 Twin Otter 400,TJ-TIM,Caverton Helicopters (Cameroun) Ltd.,near Nanga Eboko,11,High
+11-05-2022,Cessna 208 Caravan I,PT-OQR,"LBK ServiÃ§o Aéreo Especializado, opf Skydive4Fun","Boituva, SP",2,Medium
+12-05-2022,Airbus A319-115 (WL),B-6425,Tibet Airlines,Chongqing Jiangbei International Airport (CKG/ZUCK),0,High
+20-05-2022,Embraer EMB-110P1 Bandeirante,PT-SHN,Sales Taxi Aéreo,"Eldorado do Sul, RS",0,Medium
+21-05-2022,Boeing 737-7H4 (WL),N256WN,Southwest Airlines,"Tacoma, Washington",0,Low
+24-05-2022,de Havilland Canada DHC-3T Turbine Otter,N703TH,Yakutat Coastal Airlines,"near Dry Bay Airport, AK",0,Medium
+25-05-2022,Airbus A320-232,N483UA,United Airlines,"Springfield, MO",0,Low
+28-05-2022,Beechcraft B200 King Air,ZS-PTE,Unknown,near Lynedoch Private Airfield,0,Medium
+29-05-2022,de Havilland Canada DHC-6 Twin Otter 300,9N-AET,Tara Air,Sanosware,22,High
+02-06-2022,Cessna 525 CitationJet,N131PL,Kam Aviation LLC,"Natchitoches Regional Airport, LA",0,Medium
+03-06-2022,Cessna 208B Supervan 900,N7581F,GoJump Oceanside,"0,5 km E of Oceanside Municipal Airport, CA (OCN/KOKB)",1,Medium
+04-06-2022,Cessna 208 Caravan I,N90JF,Connecticut Parachutists,"Ellington Airport, CT (7B9)",0,Medium
+07-06-2022,Shorts SC.7 Skyvan 3-200,N731E,Alaskan Air Charter,"Chisana Field, AK (CZN)",0,Medium
+07-06-2022,Bombardier BD-100-1A10 Challenger 300,N694PD,Pacific Dental Services,"Hawthorne Airport, CA (HHR)",0,Low
+10-06-2022,Airbus A319,others,others,near DÃ¼sseldorf,0,Low
+13-06-2022,Cessna 550 Citation II,N550GX,Northern Meridian LLC,"Fargo-Hector International Airport, ND (FAR)",0,Medium
+15-06-2022,Beechcraft B200 Super King Air,OO-LET,ASL - Air Service Liege,LiÃ¨ge Airport (LGG),0,Medium
+16-06-2022,Boeing 737-3M8 (QC),9S-ABJ,Gomair,Kananga Airport (KGA),0,Medium
+17-06-2022,Boeing 777-228ER,F-GSPQ,Air France,"New York-John F. Kennedy International Airport, NY (JFK)",0,Low
+17-06-2022,Airbus A330-202,EI-EJL,ITA Airways,"New York-John F. Kennedy International Airport, NY (JFK)",0,Low
+21-06-2022,McDonnell Douglas MD-82,HI1064,RED Air,"Miami International Airport, FL (MIA)",0,High
+21-06-2022,Antonov An-2R,RA-17742,Techservice,"46 km SE of Sebyan-Kyuel, Kobyaysky District",2,High
+22-06-2022,Learjet 55C,YV3304,private,7 km SSE of Charallave-Ã“scar Machado Zuloaga Airport,6,High
+22-06-2022,Antonov An-30M,30001,NPP Mir,70 km SE of Olenyok Airport (ONK),0,Medium
+24-06-2022,Ilyushin Il-76MD,RF-78778,Russian Air Force,5 km ESE of Ryazan-Dyagilevo Air Base,5,High
+25-06-2022,de Havilland Canada DHC-8-402Q Dash 8,JA854A,"All Nippon Airways - ANA, opb ANA Wings",40 km WSW of Tokushima Airport,0,Low
+26-06-2022,Cessna 208 Supervan 900,N265KP,Alaska Seaplanes,"Elfin Cove Seaplane Base, AK (ELV)",0,Medium
+01-07-2022,Antonov An-12BK,UR-11316,Motor Sich,Uzhgorod Airport (UKLU),0,Medium
+01-07-2022,Boeing 737-7H4 (WL),N480WN,Southwest Airlines,"Santa Ana-John Wayne International Airport, CA (SNA/KSNA)",0,Low
+01-07-2022,Learjet 35A,LV-BPA,Flying America SA,"Río Grande-Gobernador Ramón Trejo Noel International Airport, TF (RGA)",4,High
+13-07-2022,Gulfstream G450,HZ-A23,Alpha Star Aviation Services,Jeddah-King Abdulaziz International Airport (JED),0,Medium
+13-07-2022,Cessna 208B Super Cargomaster,N877FE,Corporate Air,"Salt Lake City International Airport, UT (SLC)",0,Medium
+15-07-2022,Raytheon Beechjet 400A,N400MX,"Aircraft Management Group, Inc","Brunswick-Glynco Jetport, GA (BQK)",0,Medium
+15-07-2022,Antonov An-2R,RA-02240,private,"Prochnookopskaya, Novokubansky district, Krasnodar region",2,Medium
+16-07-2022,Boeing 737-81D (WL),JA807X,Solaseed Air,120 km SW of Naha Airport,0,Low
+16-07-2022,Fokker 50,5Y-JSN,Icon Aviation,Rubkona Airport,0,Medium
+16-07-2022,Antonov An-12BK,UR-CIC,Meridian,16 km W of Kavala,8,High
+18-07-2022,Fokker 50,5Y-JXN,Jubba Airways,Mogadishu Aden Adde International Airport (MGQ),0,High
+20-07-2022,Airbus A321-271NX,HA-LGA,Wizz Air,Budapest Ferenc Liszt International Airport (BUD/LHBP),0,Low
+21-07-2022,Cessna 680 Citation Sovereign,C-GDCP,Anderson Air,"Kotzebue-Ralph Wien Memorial Airport, AK (OTZ)",0,Medium
+22-07-2022,Antonov An-2,ST-AUD,Crop Protection Company,W of Omdurman Al Hara,0,Medium
+24-07-2022,Boeing 717-2BD,N945AT,Delta Air Lines,"Montreal-Pierre Elliott Trudeau International Airport, QC (YUL)",0,Medium
+25-07-2022,Airbus A320-214,N950AV,Avianca,Rionegro/Medellín-José María Córdova Airport (MDE/SKRG),0,Low
+27-07-2022,Bombardier BD-100-1A10 Challenger 300,N557XJ,VistaJet,"San Francisco, CA",0,Low
+28-07-2022,de Havilland Canada DHC-3T Vazar Turbine Otter,N320KT,Rust's Flying Service,"Talkeetna Airport, AK (TKA)",0,Medium
+29-07-2022,CASA C-212 Aviocar 200,N497CA,Rampart Aviation,"Raleigh/Durham Airport, NC (RDU)",1,Medium
+30-07-2022,Boeing 737-86N (WL),HS-DBR,Nok Air,Chiang Rai-Mae Fah Luang International Airport (CEI),0,Medium
+05-08-2022,Boeing 777-FDZ,A7-BFH,Qatar Airways Cargo,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+06-08-2022,Boeing 757-251 (WL),N540US,Delta Air Lines,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",0,Medium
+07-08-2022,IAI 1124 Westwind,PR-OMX,Brasil Vida Táxi Aéreo,"GoiÃ¢nia-Nacional de AviaÃ§Ã£o Aerodrome, GO (SBNV)",0,Medium
+15-08-2022,Cessna 560 Citation Encore,N977MR,"Raber Flight Services, LLC","Aspen-Pitkin County Airport, CO (ASE/KASE)",0,Medium
+17-08-2022,Antonov An-24B,RA-47848,Angara Airlines,Ust-Kut Airport (UKX),0,Medium
+19-08-2022,Boeing 737-824 (WL),N73270,United Airlines,"Pharisburg, OH",0,Low
+20-08-2022,Beechcraft 99,N399TS,PACC Air,"Oshkosh-Wittman Field, WI (OSH)",0,Medium
+29-08-2022,Boeing 717-2BD,N946AT,Delta Air Lines,"E of Detroit, MI",0,Low
+30-08-2022,Cessna 208B Grand Caravan EX,PK-SNW,Smart Cakrawala Aviation,Sinak Airport (NKD),0,Medium
+31-08-2022,Cessna 208B Grand Caravan EX,N208JM,Private,ca 1 km S of Abu Dhabi-Bateen Airport (AZI),0,High
+01-09-2022,Boeing 737-824 (WL),N76529,United Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Low
+02-09-2022,Airbus A320-251N,CS-TVI,TAP Air Portugal,Conakry-Gbessia International Airport (CKY),2,Medium
+02-09-2022,Antonov An-2R,RA-56534,2nd Arkhangelsk United Aviation Division,Nes,0,Medium
+03-09-2022,Shorts SC.7 Skyvan 3M-400,SP-HIP,SkyForce,2 km SSW of Piotrków Trybunalski-Bujny Airport,2,High
+04-09-2022,Airbus A220-100,N113DQ,Delta Air Lines,"near New York-La Guardia Airport, NY (LGA/KLGA)",0,Low
+04-09-2022,Boeing 777-F1H,D-AALU,AeroLogic,Frankfurt International Airport (FRA/EDDF),0,Low
+04-09-2022,de Havilland Canada DHC-3T Turbine Otter,N725TH,Friday Harbor Seaplane Tours,"3 km SW off Freeland, WA",10,High
+04-09-2022,Cessna 551 Citation II/SP,OE-FGR,GG Rent,37 km NW off Ventspils (Baltic Sea),4,High
+07-09-2022,Cessna 750 Citation X,N15TZ,"BVS, Inc","Phoenix-Mesa Gateway Airport, AZ (AZA)",0,Medium
+09-09-2022,Learjet 36,N26FN,Strategic Airborne Operations,"San Diego-North Island NAS, CA (NZY)",0,Medium
+09-09-2022,Cirrus SF50 Vision Jet,N77VJ,TAC9 Inc.,"10 km SSW of Kissimmee Gateway Airport, FL (ISM)",0,Medium
+10-09-2022,Antonov An-28,9S-GAX,TRACEP-Congo Aviation,13 km W of Bukavu-Kavumu Airport (BKY),3,High
+10-09-2022,Cessna 208B Grand Caravan,PT-MES,Piquiatuba Táxi Aéreo,"near Porto Trombetas, PA",1,High
+15-09-2022,Fairchild SA227-AC Metro III,XA-UMW,Aeronaves TSM,near Ramos Arizpe,0,Medium
+19-09-2022,Beechcraft 1900C-1,TN-AIQ,Equaflight Services,Pointe-Noire Agostinho-Neto International Airport (PNR),0,Medium
+20-09-2022,Dassault Falcon 2000,ZS-PKR,Pepkor Group,Pietermaritzburg Airport (PZB),0,Medium
+20-09-2022,Cessna 525B CitationJet CJ3,N528DV,Pacific Cataract & Laser Institute Inc Pc,"Pasco-Tri-Cities Airport, WA (PSC)",0,High
+20-09-2022,British Aerospace 3201 Jetstream 32EP,OB-2152,SAETA Peru,El Estrecho Airport (SPEE),1,Medium
+21-09-2022,Britten Norman BN-2A-8 Islander,8R-GGT,Jags Aviation,Eteringbang Airport (SYET),0,Medium
+21-09-2022,Rockwell Sabreliner 65,XB-RXG,private,within Zulia,0,High
+22-09-2022,Boeing 737-8HC (WL),TC-SOG,SunExpress,KÃ¶ln/Bonn-Konrad Adenauer Airport (CGN/EDDK),0,Medium
+22-09-2022,Antonov An-2R,ST-AUE,Crop Protection Company,"Yassin, east Darfur",0,Medium
+24-09-2022,Boeing 737-436 (SF),EC-NLS,"Swiftair, opf West Atlantic (UK)",Montpellier-Méditerranée Airport (MPL),0,Medium
+25-09-2022,Boeing 737-8V3 (WL),HP-1539CMP,Copa Airlines,Panama City-Tocumen International Airport (PTY),0,Medium
+25-09-2022,Fokker 50,5Y-FAI,Freedom Airline Express,Nairobi-Jomo Kenyatta International Airport (NBO/HKJK),0,Medium
+27-09-2022,Cessna 550 Citation II,N409ST,ABS Equipment Leasing,"Waco-McGregor Executive Airport, TX (KPWG)",0,Medium
+28-09-2022,Boeing 757-256 (WL),TF-FIK,Icelandair Flugfélag Islands,London-Heathrow Airport (LHR),0,Medium
+28-09-2022,Boeing 777-3B5ER,HL7782,Korean Air,London-Heathrow Airport (LHR),0,Medium
+29-09-2022,Boeing 737-7CT (WL),N7881A,Southwest Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Low
+01-10-2022,Boeing 737-8GJ (WL),F-GZHA,Transavia France,Nantes Atlantique Airport (NTE),0,Medium
+03-10-2022,Boeing 737-8Q3 (WL),JA07RK,Japan Transocean Air,near Miho Airport,0,Low
+03-10-2022,Embraer EMB-545 Legacy 450,N179SP,Partee Aviation LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,Medium
+03-10-2022,Britten-Norman BN-2A-21 Islander,VH-WQA,Torres Strait Air,"Moa Island, Torres Strait",0,Medium
+05-10-2022,ATR 42-500,SX-EIT,Sky Express,Athens-Elefthérios Venizélos International Airport (ATH/LGAV),0,Medium
+12-10-2022,Honda HA-420 HondaJet,N704JT,Jupiter Aviation LLC,"West Michigan Regional Airport (BIV/KBIV), Holland, MI",0,Medium
+13-10-2022,de Havilland Canada DHC-3T Vazar Turbine Otter,C-FDDX,True North Airways,"Lac PLuto, QC",0,High
+13-10-2022,Cessna 208B Grand Caravan,OB-2228,SAETA Peru,near Jeberos,0,High
+16-10-2022,Cirrus SF50 Vision Jet G2,HK-5342G,Panamerican Training Center - PTC,Santa Marta-Simón Bolívar Airport (SMR),1,Medium
+18-10-2022,Beechcraft 99 Airliner,C6-OFM,Flamingo Air Charter,Black Point Airstrip (MYEB),0,Medium
+19-10-2022,de Havilland Canada DHC-8-314 Dash 8,C-GJYZ,Perimeter Aviation,"Sandy Lake Airport, ON (ZSJ)",0,Medium
+22-10-2022,Boeing 737-8AS (WL),EI-EKJ,Ryanair,Agadir-Al Massira International Airport (AGA/GMAA),0,Low
+23-10-2022,Airbus A330-322,HL7525,Korean Air,Mactan-Cebu International Airport (CEB),0,Medium
+25-10-2022,Cessna 208B Grand Caravan,PK-RVA,Reven Global Transpor,Ilaga Airport (ILA/WABL),0,Medium
+27-10-2022,Canadair CL-215-6B11 (CL-415),I-DPCN,Vigili del Fuoco,"near Linguaglossa, Sicily",2,High
+28-10-2022,Embraer EMB-110C Bandeirante,FAU-583,Fuerza Aérea Uruguaya - FAU,Montevideo-Carrasco Airport (MVD),0,Medium
+02-11-2022,Airbus A319-132,N519NK,Spirit Airlines,"near New Orleans, LA",0,Low
+03-11-2022,Eclipse 550,N150NE,Elite Flight Travel,"Mesa-Falcon Field, AZ (MSC)",0,Medium
+03-11-2022,Let L-410UVP-E20,9S-GPK,Goma Express,c 115 km ESE of Kasese,3,High
+06-11-2022,Cessna 208B Grand Caravan,AMB 0956,Aviación Militar Bolivariana,3 km from Puerto Ayacucho Airport (PYH),5,High
+06-11-2022,ATR 42-500,5H-PWF,Precision Air,off Bukoba Airport (BKZ),19,Medium
+07-11-2022,ATR 72-600 (72-212A),JA06JC,Japan Air Commuter,Kagoshima Airport (KOJ/RJFK),0,Low
+09-11-2022,Boeing 737-7H4 (WL),N963WN,Southwest Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+09-11-2022,Boeing 737-823 (WL),N909NN,American Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+10-11-2022,Boeing 737 MAX 8,N316SE,American Airlines,"SE of Miami, FL",0,Low
+12-11-2022,Boeing B-17G Flying Fortress,N7227C,American Airpower Heritage Museum,"Dallas Executive Airport, TX (RBD/KRBD)",6,High
+14-11-2022,Antonov An-2,CU-A1885,Risk Mondial Aviation & Recovery,"W of Miami-Dade County, FL",0,Medium
+15-11-2022,Honda HA-420 HondaJet,N789RJ,Andersen Air LLC,"Salt Lake City International Airport, UT (SLC)",0,Medium
+15-11-2022,Fairchild SA227-AT Expediter,N247DH,Ameriflight,"Pewaukee, WI",0,Medium
+17-11-2022,Embraer EMB-110P1 Bandeirante,C6-CAB,LeAir Charter Services,Nassau-Lynden Pindling International Airport (NAS/MYNN),0,Low
+17-11-2022,Beechcraft 1900D,VH-NYA,Penjet Pty Ltd,"Fortnum Airport (YFOR), Fortnum, WA",0,Medium
+18-11-2022,Airbus A320-271N,CC-BHB,LATAM Perú,Lima-Jorge Chávez International Airport (LIM),2,High
+18-11-2022,Cessna 208B Grand Caravan EX,N2069B,Raisbeck Engineering,"near Snohomish, WA",4,High
+19-11-2022,Airbus A320-211,N330NW,Delta Air Lines,"near Omaha-Eppley Airfield (OMA/KOMA), Omaha, NE",0,Medium
+20-11-2022,Boeing 737-4Q8 (SF),TF-BBM,"Bluebird Cargo, opf ASL Airlines Belgium",Paris-Charles de Gaulle Airport (CDG),0,Medium
+25-11-2022,Cirrus SF50 Vision Jet G2,N15VJ,Verijet,"1,6 km SW of Indianapolis Regional Airport, IN",0,Medium
+28-11-2022,Airbus A330-243,PR-AIY,Azul Linhas Aéreas Brasileiras,"near Manaus, AM",0,Low
+29-11-2022,Boeing 737-7H4 (WL),N946WN,Southwest Airlines,"near Denver, CO",0,Low
+29-11-2022,Learjet 45,N988MC,Jett Aircraft,"Batesville Regional Airport, AR (BVX)",0,Medium
+30-11-2022,Learjet 36,N12FN,Aery Aviation,"Newport News/Williamsburg International Airport, VA (PHF)",0,Medium
+01-12-2022,Learjet 35A,N979RF,"REVA, Inc.",Guantánamo Naval Air Station (NBW),0,Medium
+03-12-2022,Embraer ERJ-175LR,N85356,Mesa Airlines,"Taneytown, MD",0,Low
+07-12-2022,British Aerospace BAe-146-200,CC-ACO,Antarctic Airways,Iquique-Diego Aracena International Airport (IQQ/SCDA),0,Medium
+08-12-2022,Boeing 767-322ER (WL),N649UA,United Airlines,"near Albany, NJ",0,Low
+15-12-2022,Swearingen SA226-TC Metro II,N398KL,Key Lime Air,"Wichita Dwight D. Eisenhower National Airport, KS (ICT)",0,Medium
+17-12-2022,de Havilland Canada DHC-8-402QPF Dash 8,5Y-VVY,Blue Bird Aviation,Abudwak Airstrip,0,Medium
+18-12-2022,Airbus A330-243,N393HA,Hawaiian Airlines,"65 nm NNE of Maui, HI",0,Low
+18-12-2022,Boeing 737-824 (WL),N87531,United Airlines,"near Cobán, Alta Verapaz",0,Low
+23-12-2022,de Havilland Canada DHC-6 Twin Otter 300,PK-OTY,Rimbun Air,Moanemani Airport (ONI),0,Medium
+24-12-2022,Gulfstream GIV-X (G450),N456FX,Flexjet LLC,"Miami, Florida",0,Low
+26-12-2022,Boeing 737-860 (WL),ET-APL,Ethiopian Airlines,Mogadishu Aden Adde International Airport (MGQ/HCMM),0,Medium
+26-12-2022,Boeing 737 MAX 8-200,EI-HEY,Ryanair,Bremen Airport (BRE/EDDW),0,Low
+26-12-2022,Boeing 737-3Z0,C5-MAB,"Tarco Aviation, lsf Mid Africa Aviation",Mogadishu Aden Adde International Airport (MGQ),0,Medium
+27-12-2022,Embraer EMB-505 Phenom 300,N16DF,Skystallion LLC,"Hawthorne Airport, CA (HHR)",0,Medium
+30-12-2022,Canadair CL-600S Challenger 600,XB-SGV,private,near Venado,2,High
+31-12-2022,Embraer ERJ-175LR (ERJ-170-200 LR),N264NN,"American Eagle, opb Envoy Air","Montgomery Regional Airport (MGM/KMGM), Montgomery, AL",1,Low
+31-12-2022,Cessna 208B Grand Caravan,5X-GBR,BAR Aviation,Mweya Airport (HUMW),0,High
+02-01-2021,Beechcraft 200 Super King Air,N831WP,"Vagus Group, Inc.","White Plains-Westchester County Airport, NY (HPN)",0,Low
+02-01-2021,Learjet 31A,PP-BBV,Brasil Vida Táxi Aéreo,"Diamantina Airport, MG (DTI)",0,Medium
+09-01-2021,Cessna 560 Citation V,N3RB,SX Transport LLC,"23 km SE of Pine Grove, OR",1,High
+09-01-2021,Boeing 737-524 (WL),PK-CLC,Sriwijaya Air,19 km NE of Jakarta-Soekarno-Hatta International Airport (CGK),62,High
+12-01-2021,Harbin Y-12-II,others,Kenya Air Force - KAF,ca 10 km N of Voi,4,High
+17-01-2021,Boeing 777-31HER,A6-EPN,Emirates,Nicosia FIR,0,Low
+19-01-2021,Avro RJ85,G-JOTR,Jota Aviation,London-Biggin Hill Airport (BQH),0,Medium
+19-01-2021,Boeing 737-4Q8 (SF),G-JMCY,West Atlantic UK,Exeter Airport (EXT/EGTE),0,Medium
+23-01-2021,North American Rockwell Sabreliner 60,XB-JMR,Aviacion Ejecutiva del Bajio,"Rocky Point, Clarendon",0,Medium
+24-01-2021,Raytheon Beechjet 400A,N476BJ,Martinair Inc.,"Binghamton Airport, NY (BGM)",0,Medium
+26-01-2021,Harbin Y-12E,AF-222,Zambian Air Force,Mukinge Mission Airstrip,0,Medium
+28-01-2021,Beechcraft B300 King Air 350,N217US,MM-Air LLC,"Davenport Airport, IA (DVN)",0,Medium
+29-01-2021,Beechcraft 100 King Air,others,private,"Crooked Tree, Orange Walk",0,High
+01-02-2021,Boeing 747-8KZF,JA13KZ,Nippon Cargo Airlines,Tokyo-Narita International Airport (NRT/RJAA),0,Medium
+08-02-2021,Airbus A320-271N,N918NK,Spirit Airlines,"Fort Lauderdale, Florida",0,Low
+08-02-2021,Embraer EMB-500 Phenom 100,9H-FAM,Luxwing,Paris-Le Bourget Airport (LBG),0,Medium
+09-02-2021,Antonov An-12BK,RF-95416,Russian Air Force,Iturup Airport (ITU),0,Medium
+10-02-2021,Airbus A320-214 (WL),HZ-FAB,Flyadeal,Abha International Airport (OHB),0,Medium
+13-02-2021,Dassault Falcon 900EX EASy,N823RC,Aerospike Iron LLC,"San Diego-Montgomery-Gibbs Executive Airport, CA (MYF)",0,Medium
+14-02-2021,de Havilland Canada DHC-6 Twin Otter 300,8Q-RAE,Manta Air,Malé-Velana International Airport (MLE),0,Medium
+15-02-2021,de Havilland Canada DHC-6 Twin Otter 300,F-RACA,Armée de l'air et de l'espace,Blois-Le-Breuil airfield (LFOQ),0,Medium
+18-02-2021,Learjet 55C,N559RA,Royal Air Freight,"Jeffersonville-Clark Regional Airport, IN (JVY)",0,Medium
+20-02-2021,Boeing 737-86N (WL),VT-GHE,Air India Express,Vijayawada Airport (VGA),0,Medium
+20-02-2021,de Havilland Canada DHC-3T Vazar Turbine Otter,C-FFVZ,Wings Over Kississing,"Kaskattama Airstrip, MB",0,Medium
+21-02-2021,Beechcraft 200 Super King Air,others,private,"San Andrés, Petén",0,High
+21-02-2021,Learjet 45XR,3912,Fuerza Aérea Mexicana,near Xalapa Airport (JAL),6,High
+21-02-2021,Beechcraft B300 King Air 350,NAF201,Nigerian Air Force - NAF,NE of Abuja-Nnamdi Azikiwe International Airport (ABV),7,High
+26-02-2021,Antonov An-2T,UP-A0351,Asia Continental Airlines,near Boraldai,0,Medium
+28-02-2021,Douglas DC-3C,HK-2006,ALIANSA Colombia,Monfort Airport (MFB),0,Medium
+01-03-2021,Beechcraft B300 King Air 350i,B-10GD,"Beidahuang General Airlines, opf China Met, Administration","Shanghu, Ji'an County",5,High
+02-03-2021,Let L-410UVP-E,(HK-4274),South Sudan Supreme Airlines,Pieri,10,High
+04-03-2021,Fokker 100,EP-CFM,Iran Air,Isfahan Airport,0,Low
+07-03-2021,Embraer EMB-120ER Brasilia,N233SW,Berry Aviation,"Detroit-Willow Run Airport, MI (YIP)",0,Medium
+10-03-2021,Cessna 208B Grand Caravan,PK-MAD,Mission Aviation Fellowship - MAF,Angguruk Airstrip,0,Medium
+12-03-2021,Cessna 208B Grand Caravan,N407GV,Grant Aviation,"Chevak Airport, AK (VAK)",0,Medium
+13-03-2021,Antonov An-26,02 white,Kazakhstan Border Guards,Almaty Airport (ALA),4,High
+15-03-2021,Boeing 777-223ER,N789AN,American Airlines,"Fort Worth, Texas",0,Low
+16-03-2021,Bombardier CRJ-701ER,N706SK,Skywest Airlines,"Los Angeles International Airport, CA (LAX/KLAX)",0,Low
+18-03-2021,Airbus A320-232,XA-VAZ,Viva Aerobus,Puerto Vallarta-Gustavo D. Ordaz Airport (PVR),0,Medium
+19-03-2021,Antonov An-2T,YV3312,Venezuela Flight Canaima,Kapaure,0,Medium
+20-03-2021,Cessna 208B Grand Caravan,5Y-JKN,Aeronav Air Services,"3,5 km SW of Marsabit Airport (RBT)",2,High
+20-03-2021,Boeing 737-4Y0,PK-YSF,Trigana Air Service,Jakarta-Halim Perdana Kusuma Airport (HLP),0,Medium
+23-03-2021,Saab 340AF,SP-KPU,SprintAir,Gdansk-Lech Walesa Airport (GDN),0,Medium
+25-03-2021,Embraer,others,Mauritania Airlines International,Nouakchott-Oumtounsy International Airport (NKC),0,Low
+26-03-2021,Beechcraft B200 Super King Air,5Y-NJS,West Wind Aviation Ltd.,Nairobi,0,High
+28-03-2021,Embraer EMB-145LR,N650AE,"American Eagle , opb Piedmont Airlines","Charlotte-Douglas International Airport, NC (CLT/KCLT)",0,Low
+02-04-2021,Boeing 737-8AS (WL),9H-QCJ,Malta Air,Malta-Luqa Airport (MLA),0,Low
+03-04-2021,Cessna 208B Grand Caravan,N215MC,Everts Air Cargo,"Fairbanks International Airport, AK (FAI/PAFA)",0,Medium
+08-04-2021,Antonov An-2,RA-40...,Unknown,Omsk,0,High
+09-04-2021,Boeing C-17A Globemaster III,10-0223,United States Air Force - USAF,"Charleston AFB, SC (CHS)",0,Medium
+14-04-2021,Cessna 525A CitationJet CJ2+,JA001T,private,"3,7 km W of Osaka/Yao Airport (RJOY)",0,Medium
+15-04-2021,Learjet 35A,N354EF,Med Air Inc,"Colorado Springs Airport, CO (COS/KCOS)",0,Medium
+16-04-2021,Beechcraft B99 Airliner,N991AK,Lake Clark Air,"Chignik-Lagoon Airport, AK (KCL)",0,Medium
+18-04-2021,Learjet 25B,XB-PIZ,Unknown,Toluca-Licenciado Adolfo López Mateos International Airport (TLC),0,Medium
+20-04-2021,Learjet 35A,PR-MLA,Eletric Power ConstruÃ§Ã£o,"Belo Horizonte/Pampulha - Carlos Drummond de Andrade Airport, MG (PLU)",1,High
+26-04-2021,Cessna 208B Grand Caravan EX,N143CA,Haugland Group Aviation LLC,"near Laceyville, PA",0,Medium
+01-05-2021,Cessna 550 Citation II,N803SC,STB Aviation LLC,"Charleston Executive Airport, SC (KJZI)",0,Medium
+05-05-2021,Gulfstream G150,N22ST,TLD Aviation I LLC,"Ridgeland Airport, SC",0,Medium
+06-05-2021,Beechcraft B200GT King Air 250,VT-MPQ,Government of Madhya Pradesh,Gwalior Airport (GWL),0,Medium
+10-05-2021,ATR 72-600 (72-212A),B-17010,Uni Air,Nangang Island-Matsu Nangan Airport (LZN),0,Medium
+12-05-2021,Boeing 737-8AS (WL),EI-EGA,Ryanair,Alicante Airport (ALC/LEAL),0,Low
+12-05-2021,Swearingen SA226-TC Metro II,N280KL,Key Lime Air,"5,9km N of Denver-Centennial Airport, CO (APA)",0,Medium
+19-05-2021,Hawker 800,XB-R..,private,"Sayaxché, Petén",0,High
+20-05-2021,IAI 1125 Astra,N388WA,private,"Parque Laguna del Tigre, San Andrés, Petén",0,Medium
+21-05-2021,Boeing 737-7H4,N289CT,Southwest Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+21-05-2021,Antonov An-2R,RA-33373,Utair,Laytamak Airstrip,0,Medium
+21-05-2021,Beechcraft B300 King Air 350i,NAF203,Nigerian Air Force - NAF,near Kaduna Airport (KAD),11,High
+28-05-2021,Boeing 767-38E,HL7528,Asiana Airlines,"over Yesan , Chungcheongnam-do",0,Low
+28-05-2021,Boeing 737-823 (WL),N834NN,American Airlines,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",0,Medium
+29-05-2021,Cessna 501 Citation I/SP,N66BK,JL&GL Productions LP,"near Smyrna Airport, TN (MQY)",7,High
+30-05-2021,ATR 72-500 (72-212A),SX-THR,Sky Express,Alexandroupolis-Demokritos Airport (AXD),0,Medium
+02-06-2021,Beechcraft 1900C,N219VP,Alpine Air Express,"Denver International Airport, CO (DEN/KDEN)",0,Medium
+03-06-2021,Cessna 208B Grand Caravan EX,PK-DPT,Dabi Air Nusantara,Ilaga Airport (ILA),0,High
+04-06-2021,Honda HA-420 HondaJet,N10XN,GF Aviation LLC,"Atlanta-Cobb County-Mc Collum Field, GA (KRYY)",0,Medium
+05-06-2021,Cessna 208B Supervan 900,N103AN,Paraclub Wiener Neustadt,Wiener Neustadt West Air Base,0,Medium
+07-06-2021,Boeing 737-8AL (WL),VT-TGE,Vistara,W of Kolkata,0,Low
+10-06-2021,Beechcraft 1900D,4610,Tatmadaw Lei (Myanmar Air Force),near Pyin Oo Lwin,12,High
+13-06-2021,Boeing 737-8AS (WL),EI-EVE,Ryanair,Málaga-Costa del Sol Airport (AGP/LEMG),0,Low
+14-06-2021,ATR 72-600 (72-212A),VT-IYX,IndiGo Airlines,Hubli Airport (HBX),0,Medium
+16-06-2021,Let L-410UVP-E,9S-GRJ,Kin Avia,near Bukavu-Kavumu Airport (BKY),3,High
+18-06-2021,Boeing 787-8 Dreamliner,G-ZBJB,British Airways,London Heathrow Airport (LHR),0,Medium
+19-06-2021,Let L-410UVP-E,RF-94603,DOSAAF,near Tanay Airfield,5,High
+21-06-2021,Rockwell Sabreliner 65,XB-OXV,private,within Jesús María Semprún,0,High
+23-06-2021,Gulfstream G280,M-ISTY,INEOS Aviation,GenÃ¨ve-Cointrin Airport (GVA/LSGG),0,Medium
+23-06-2021,Lockheed L-100-30 Hercules,others,Ethiopian Air Force,near Gijet,0,High
+24-06-2021,Antonov An-2R,RA-01430,private,"3,5 km W of Zaboyskiy, Slavyansky district",0,Medium
+25-06-2021,Airbus A321-231,N926UW,American Airlines,"New Orleans, Louisiana",0,Low
+25-06-2021,Shorts 360-300,N970AA,Air Cargo Carriers,"Las Vegas-McCarran International Airport, NV (LAS)",0,Medium
+25-06-2021,Cessna 208B Supervan 900,PH-FST,Skydive Teuge,2 km W of Teuge Airport,0,Medium
+29-06-2021,Airbus A350-941,F-HTYH,Air France,Paris-Charles de Gaulle Airport (CDG/LFPG),0,Low
+01-07-2021,Convair CV-580 Airtanker,C-FKFL,Conair,"Penticton Airport, BC (YYF)",0,Medium
+01-07-2021,Convair CV-580 Airtanker,C-FHKF,Conair,"Penticton Airport, BC (YYF)",0,Low
+02-07-2021,Boeing 737-275C Adv.,N810TA,Transair (Cargo),"9 km WSW off Honolulu-Daniel K. Inouye International Airport, HI (HNL)",0,High
+02-07-2021,Cessna 750 Citation X,SX-ECI,Hellenic CAA,Paphos International Airport (PFO/LCPH),0,Medium
+04-07-2021,Airbus A321-231,N156AN,American Airlines,"Miami, Florida",0,Low
+04-07-2021,Antonov An-2R,UP-A0135,ELISA,"12 km from Karaultobe, Kyzylorda",0,Medium
+04-07-2021,Lockheed C-130H Hercules,5125,Hukbong Himpapawid ng Pilipinas (Philippine Air Force),"Patikul, Sulu",53,High
+05-07-2021,IAI 1124A Westwind II,N790JR,Transenergie Inc,near Treasure Cay Airport (TCB),2,High
+06-07-2021,ATR 42-320,C-GLDE,Transwest Air,"120 nm from Saskatoon, SK",0,Low
+06-07-2021,Antonov An-26B-100,RA-26085,Kamchatka Aviation Enterprise,"3,8 km NW of Palana Airport",28,High
+07-07-2021,Cessna 208B Grand Caravan,others,Ryan Air,"near Aniak Airport, AK (ANI)",0,Low
+08-07-2021,Douglas DC-3C,HK-2820,ALIANSA Colombia,"13,5 km N of Villavicencio-La Vanguardia Airport (VVC)",3,High
+11-07-2021,Airbus A320-214,D-AICP,Condor Flugdienst,Kavala-Megas Alexandros Airport (KVA),0,Medium
+11-07-2021,de Havilland Canada DHC-3T Vazar Turbine Otter,C-FLLL,Northwestern Air,"31,5 km ENE of Fort Smith, NT",0,Medium
+11-07-2021,Cessna 208 Caravan I,C-GUAY,Air Tunilik,"Rex North Mining Camp, QC",0,Medium
+14-07-2021,Cessna 208B Grand Caravan EX,8R-ABK,Jags Aviation,Eteringbang Airport (SYET),0,Medium
+15-07-2021,de Havilland Canada DHC-3T Vazar Turbine Otter,C-GUTW,Harbour Air,"Ganges Harbor Airport, BC (YGG)",0,Medium
+15-07-2021,Cessna 208 Caravan I,C-GIGO,Seair Seaplanes,"Ganges Harbor Airport, BC (YGG)",0,Medium
+16-07-2021,Antonov An-28,RA-28728,SiLA - Siberian Light Aviation,52 km SE of Kedrovo,0,Medium
+17-07-2021,Cessna 208B Supervan 900,G-OJMP,GoSkydive,Old Sarum Airfield,0,Medium
+18-07-2021,ATR 72-500 (72-212A),EC-MSN,"Air Europa Express, opb Aeronova",Madrid-Barajas Adolfo Suárez Airport (MAD),0,Medium
+20-07-2021,British Aerospace BAe-125-700A,N611MC,private,"Jesús María Semprún, Zulia",0,High
+21-07-2021,Cessna 560XL Citation Excel,N46CF,PV Transport Inc,"Reading Regional Airport/Spaatz Field, PA (RDG)",0,Medium
+21-07-2021,de Havilland Canada DHC-8-106,5Y-GRS,Skyward Express,Burahache Airstrip,0,Medium
+22-07-2021,Airbus A321-211,N376DN,Delta Air Lines,"Detroit-Metropolitan Wayne County Airport, MI (DTW/KDTW)",0,Low
+25-07-2021,Boeing 737-8JP (WL),SE-RPE,Norwegian Air Sweden,near Nice Airport,0,Low
+26-07-2021,Bombardier CL-600-2B16 Challenger 605,N605TR,Aeolus Air Charter,"Truckee Airport, CA (TKF)",6,High
+26-07-2021,Cessna 208 Supervan 900,D-FLEC,Skydive Binz,S off Norderney Airfield (NRD),1,High
+27-07-2021,Cessna 208B Grand Caravan,ET-AMI,"Abyssinian Flight Services, opf UNWorld Food Programme",near Kombolcha,0,High
+31-07-2021,Boeing 737-8AS (WL),EI-EPC,Ryanair,near Barcelona-El Prat Josep Tarradellas Airport (BCN/LEBL),0,Low
+03-08-2021,Airbus A300B4-622R (F),D-AEAE,European Air Transport,Lagos-Murtala Muhammed International Airport (LOS),0,Medium
+09-08-2021,Gulfstream American G-1159A Gulfstream III,XB-OZA,private,within Jesús María Semprún,0,High
+11-08-2021,McDonnell Douglas MD-11F,N296UP,United Parcel Service - UPS,"Phoenix-Sky Harbor International Airport, AZ (PHX)",0,Medium
+12-08-2021,Shijiazhuang Y-5B(D),B-8440,Northeast General Aviation Co.,"Nengbei Farm, Heilongjiang Province",0,High
+14-08-2021,Britten-Norman BN-2A-III-2 Trislander,8R-GRE,Roraima Airways,7 nm S of Georgetown International Airport (OGL),0,Low
+14-08-2021,Bombardier DHC-8-402Q Dash 8,9S-AAN,Congo Airways,Lubumbashi International Airport (FBM/FZQA),0,Low
+14-08-2021,Beriev Be-200ChS,RF-88450,Russian Navy,near Kahramanmaras,8,High
+16-08-2021,Cessna 208B Grand Caravan,N97HA,Wright Air Service,"near Fairbanks, AK",0,Medium
+17-08-2021,Ilyushin Il-112V,41400,United Aircraft Corporation,near Kubinka AFB,3,High
+21-08-2021,Airbus A319-132,N806AW,American Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+21-08-2021,de Havilland Canada DHC-3T Turbine Otter,N560TR,Brooks Range Aviation,"near Bethel, AK",0,Medium
+21-08-2021,Gulfstream G-IV,N277GM,SN 1124 LLC,"Fort Lauderdale-Executive Airport, FL (FXE)",0,Medium
+23-08-2021,Boeing 737-990ER,N479AS,Alaska Airlines,"Seattle/Tacoma International Airport, WA (SEA/KSEA)",0,Low
+24-08-2021,Cirrus SF50 Vision Jet,N1GG,N1GG LLC,"Lansing-Capital Region International Airport, MI (LAN)",0,High
+25-08-2021,Beechcraft 1900D,C-GDSG,SkyJet,"Chevery Airport, QC (YHR/CYHR)",0,Medium
+26-08-2021,Embraer EMB-505 Phenom 300,N413N,Nicholas Services LLC,"Elk River, NC (NC06)",0,Medium
+27-08-2021,Bombardier CRJ-900LR,C-FOJZ,Air Canada,"Vancouver International Airport, BC (YVR/CYVR)",0,Low
+01-09-2021,Boeing 767-332ER (WL),N196DN,Delta Air Lines,"Seattle/Tacoma International Airport, WA (SEA/KSEA)",0,Low
+02-09-2021,Cessna 560XLS+ Citation XLS+,N560AR,Brook Haven Properties LLC,"0,4 km N of Plainville-Robertson Airport, CT",4,High
+03-09-2021,Raytheon 390 Premier I,N351CW,PB Air LLC,"Naples Airport, FL (APF)",0,Medium
+04-09-2021,ATR 72-600 (72-212A),VT-IYM,IndiGo Airlines,en route Tiruchirappalli-Bengaluru,0,Low
+04-09-2021,Cessna 560XL Citation Excel,N827JS,Fly Exclusive,"near Salt Lake City International Airport, UT (SLC)",0,Medium
+12-09-2021,British Aerospace BAe-125,others,private,Río Catatumbo,0,High
+12-09-2021,Let L-410UVP-E20,RA-67042,"Aeroservice, opf SiLA - Siberian Light Aviation",3 km N of Kazachinskoye Airport,4,High
+14-09-2021,Raytheon Beechjet 400A,N100FN,Meander Air II LLC,"between Youngstown, OH and Charleston, SC",0,Medium
+14-09-2021,Beechcraft B200GT King Air 250,PS-CSM,CSM Agropecuária,"1,5 km N of Piracicaba Airport, SP (QHB)",7,High
+15-09-2021,Airbus A320-214,OE-LBY,Austrian Airlines,Berlin Brandenburg-Willy Brandt Airport (BER),0,Medium
+15-09-2021,de Havilland Canada DHC-6 Twin Otter 300,PK-OTW,Rimbun Air,"3,4 km from Bilogai/Sugapa Airport (ZGP)",3,High
+17-09-2021,Canadair CRJ-200LR,N444ZW,"United Express, opb Air Wisconsin","Asheville Regional Airport, NC (AVL)",0,Medium
+20-09-2021,Learjet 35A,ZS-SFV,Impuma Group,Lanseria International Airport (HLA),0,Medium
+22-09-2021,Antonov An-26KPA,RA-26673,LPS Flight Checks & Systems,40 km SW of Khabarovsk,6,High
+23-09-2021,Airbus A321-271N,N208HA,Hawaiian Airlines,"Honolulu-Daniel K. Inouye International Airport, HI (HNL)",0,Medium
+25-09-2021,Cessna 208B Supervan 900,OO-FFB,Paracentrum Vlaanderen,Moorsele Airfield (EBMO),0,Medium
+27-09-2021,Saab 340B,UR-ALG,"STP Airways, lsf AeroJet",SÃ£o Tomé Island Airport (TMS/FPST),0,Medium
+27-09-2021,Boeing 757-224 (WL),N12125,United Airlines,"Newark-Liberty International Airport, NJ (EWR)",0,Medium
+28-09-2021,IAI 1124A Westwind II,PR-BVB,Brasil Vida Táxi Aéreo,"GoiÃ¢nia-Santa Genoveva Airport, GO (GYN)",0,Medium
+29-09-2021,Britten-Norman BN-2B-26 Islander,J8-VBI,SVG Air,Montserrat-John A. Osborne Airport (MNI),0,Medium
+01-10-2021,Embraer ERJ-175LR,N730YX,"United Express, opb Republic Airlines","Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+01-10-2021,Embraer ERJ-175LR,N142SY,"United Express, opb SkyWest Airlines","Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+05-10-2021,Dassault Falcon 20C,N283SA,Sierra West Airlines,"1,3 km W of Thomson-McDuffie County Airport, GA",2,High
+08-10-2021,Boeing 737-8H4 (WL),N8642E,Southwest Airlines,"Lexington, Virginia",0,Low
+08-10-2021,Learjet 35A,unreg.,private,"near Little Belize, Corozal",0,High
+10-10-2021,Let L-410UVP-E3,RF-94591,DOSAAF,"1,7 km E of Menzelinsk Airport",16,High
+13-10-2021,Bombardier BD-700-1A10 Global 6000,9H-VJM,VistaJet,Johannesburg-O.R. Tambo International Airport (JNB),0,Medium
+14-10-2021,Antonov An-2T,N857PF,private,"near Wilton-Alta Mesa Airpark, CA",0,High
+15-10-2021,Cessna 208B Grand Caravan,8R-GFA,Air Services Limited - ASL,Kamarang Airport (KAR/SYKM),1,Low
+18-10-2021,Beechcraft 200 Super King Air,N996LM,Lowcountry Aviation Co Brokerage LLC,"Mount Pleasant Regional-Faison field, SC (KLRO)",0,Medium
+19-10-2021,Antonov An-2R,RA-33350,AeroUral,"near Alapayevsk, Sverdlovsk region",0,Medium
+19-10-2021,Rockwell Sabreliner 60,XB-ETV,private,Jacmel Airport (JAK),0,Medium
+19-10-2021,McDonnell Douglas MD-87,N987AK,987 Investments LLC,"Houston Executive Airport, TX (KTME)",0,High
+22-10-2021,Embraer EMB-500 Phenom 100,N925DR,Scout About LLC,"Orlando International Airport, FL (MCO)",0,Medium
+22-10-2021,Cessna 208B Supervan 900,N754KP,Alaska Seaplanes,"Juneau International Airport, AK (JNU)",0,Medium
+23-10-2021,Embraer ERJ-175LR,N252NN,"Envoy Air, opf American Eagle","Miami International Airport, FL (MIA/KMIA)",0,Low
+25-10-2021,Cessna 208 Caravan I,PK-SNN,Smart Cakrawala Aviation,Ilaga Airport (ILA),1,High
+29-10-2021,Cessna 208B Grand Caravan,PK-RVH,Reven Global Transpor,Dagi Baru Airstrip,0,High
+30-10-2021,Beechcraft 200 King Air,C-GEHS,"PAL Airlines, opf EHS LifeFlight Services","Halifax-Stanfield International Airport, NS (YHZ/CYHZ)",0,Medium
+01-11-2021,de Havilland Canada DHC-6 Twin Otter 300,C-GNPS,Air Tindi,"12,4 km NW of Fort Providence, NT",0,Medium
+02-11-2021,Antonov An-26,TR-NGT,"Optimum Aviation, opf Euro Airlines","2,5 km N of Juba Airport (JUB)",5,High
+03-11-2021,Beechcraft Super King Air,others,private,western Venezuela,0,High
+03-11-2021,Antonov An-12BK,EW-518TI,Grodno Aircompany,3 km SE of Irkutsk Airport (IKT),9,High
+03-11-2021,Transall C-160NG,EY-360,Safe Air Company (SAC),Dolow Airport,0,High
+05-11-2021,Gulfstream ?,others,private,western Venezuela,0,High
+05-11-2021,Gulfstream Aerospace G-1159A Gulfstream III,N42FL,private,"near Victoria 3, Retalhuleu",0,High
+06-11-2021,Antonov An-2R,YR-PMW,Asociatia Club Sportiv Skydiving Center,Letca Noua Airfield,0,Medium
+13-11-2021,Britten-Norman BN-2A-6 Islander,N866JA,Island Airways,"0,1 km S of Beaver Island-Welke Airport, MI",4,High
+14-11-2021,IAI 1125 Astra SP,N771DX,EMD Astra Holdings LLC,"Las Vegas-North Air Terminal, NV (VGT)",0,Medium
+21-11-2021,Bombardier BD-100-1A10 Challenger 350,N743QS,NetJets,50 km N of Turks and Caicos Islands,0,Low
+25-11-2021,Airbus A320-251N,PR-YRH,Azul Linhas Aéreas Brasileiras,"Cuiabá-Marechal Rondon International Airport, MT (CGB/SBCY)",0,Low
+28-11-2021,Beechcraft 200 Super King Air,N71VT,Western Wings Corp,"Eugene Airport, OR (EUG)",0,Medium
+29-11-2021,Boeing 747-4B5F,N705CK,Kalitta Air,"between Santiago and Miami, FL",0,Medium
+01-12-2021,Cessna 510 Citation Mustang,N81CB,private,"Lake Havasu City Airport, AZ (KHII)",0,Medium
+01-12-2021,Cessna 208 Caravan I,N9602F,Lake & Peninsula Airlines,"W of Port Alsworth Airport, AK (PTA)",0,Medium
+05-12-2021,Airbus A350-941,F-HNET,Air CaraÃ¯bes Atlantique,near Cayenne,0,Low
+05-12-2021,Cessna 560XL Citation Excel,G-IPAX,Air Charter Scotland Ltd.,Kemi/Tornio Airport (KEM),0,Medium
+10-12-2021,Swearingen SA-226AT Merlin IV,N54GP,Castle Aviation,"0,6 km SW of Manchester-Boston Regional Airport, NH (MHT/KMHT)",1,High
+11-12-2021,Boeing 737-8AS (WL),EI-EMM,Ryanair,Dublin Airport (DUB/EIDW),0,Low
+12-12-2021,Airbus A320-251N,N307FR,Frontier Airlines,"Las Vegas-McCarran International Airport, NV (LAS)",0,Medium
+14-12-2021,Embraer EMB-500 Phenom 100,PR-TDV,Dimed SA Distribuidora da Medicamentos,"Santa Rosa Airport, RS (SRA)",0,Medium
+15-12-2021,Gulfstream G-IVSP,HI1050,Helidosa Aviation Group,Santo Domingo-Las Américas International Airport (SDQ),9,High
+17-12-2021,Beechcraft B200 Super King Air,C-FSKO,Keewatin Air,"Sanikiluaq Airport, NU (YSK)",0,Medium
+20-12-2021,Cessna 525 CitationJet,N287CB,Cottingham & Butler Insurance Services,"Dubuque, IA",0,Medium
+21-12-2021,Airbus A321-271NX,N2084J,JetBlue Airways,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",0,Low
+21-12-2021,Learjet 35A,XA-VDK,private,Cancún Airport (CUN/MMUN),0,High
+21-12-2021,Cessna 208B Super Cargomaster,N1116N,Martinaire,"Fulshear, TX",2,High
+23-12-2021,Shorts 360-300,9S-GPS,Malu Aviation,"14,8 km NW of Shabunda",5,High
+25-12-2021,Airbus A330-343,C-GFAF,Air Canada,"Montreal-Pierre Elliott Trudeau International Airport, QC (YUL)",0,Medium
+27-12-2021,Learjet 35A,N880Z,Aeromedevac Air Ambulance,"El Cajon, San Diego",4,High
+28-12-2021,Beechcraft A100 King Air,N93GT,Sky-Bound Aviation LLC,"Helena-Thompson-Robbins Airport, AR (HEE)",0,Medium
+28-12-2021,Cessna 208B Grand Caravan,Z-HAC,Halsted Aviation Corporation (HAC),Bazaruto Island Airport (BZB),0,High
+30-12-2021,Embraer ERJ-170SE,N633RW,"United Express, opb Republic Airlines","Newark-Liberty International Airport, NJ (EWR)",0,Medium
+30-12-2021,Airbus A330-303,TC-JOK,THY Turkish Airlines,"Newark-Liberty International Airport, NJ (EWR)",0,Low
+30-12-2021,Beechcraft 300 Super King Air,TG-MAM,"Empresas Ginro, S.A.",Rio Dulce-Las Vegas Airport (LCF),0,High
+01-01-2020,Gulfstream G IV,N962SS,Executive Charters Inc,"Van Nuys, CA",0,Low
+02-01-2020,Antonov An-12A,-,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),5 km from Geneina Airport (EGN),18,High
+03-01-2020,Hawker 900XP,N805D,Million Air San Juan,San Juan-Fernando Luis Ribas Dominicci Airport (SIG),0,Medium
+03-01-2020,Harbin Y-12-II,SCL-857,Sri Lanka Air Force,"Haputale, Badulla",4,High
+04-01-2020,Beechcraft B200 King Air,N200HF,"L.C. Whitford Co., Inc.","Morristown Municipal Airport, NJ (MMU)",0,Medium
+05-01-2020,de Havilland Canada DHC-8-202Q,N8200L,US Special Operations Command (USSOCOM),Manda Bay-Camp Simba Air Base,0,High
+05-01-2020,Beechcraft B300 King Air 350,others,L3 Technologies,Manda Bay-Camp Simba Air Base,2,High
+08-01-2020,Boeing 737-823 (WL),N929NN,American Airlines,"New York-La Guardia Airport, NY (LGA)",0,Medium
+08-01-2020,Boeing 737-8KV (WL),UR-PSR,Ukraine International Airlines,near Sabashahr,176,High
+09-01-2020,Lockheed C-130BZ Hercules,403,South African Air Force - SAAF,Goma Airport (GOM),0,Medium
+10-01-2020,Airbus A320-232,N1902U,United Airlines,"New Orleans, Louisiana",0,Low
+10-01-2020,Airbus A321-231 (WL),VQ-BRS,Nordwind Airlines,Antalya Airport (AYT),0,Medium
+12-01-2020,Boeing 737-8Q8 (WL),HL8243,Jin Air,30 km northwest of Fukuoka Airport,0,Low
+13-01-2020,Airbus A320-214,OH-LXD,Finnair,Helsinki-Vantaa Airport (HEL/EFHK),0,Low
+16-01-2020,Airbus A380-861,A6-EEN,Emirates,Beira FIR,0,Low
+16-01-2020,Beechcraft B200 King Air,N547LM,LifeMed Alaska,"NW off Unalaska-Tom Madsen Airport, AK (DUT)",0,High
+19-01-2020,Fairchild SA227-AC Metro III,C-GWVH,Perimeter Aviation,"Shamattawa Airport, MB (ZTM)",0,Medium
+20-01-2020,Boeing 767-232 (BDSF),SE-RLC,West Air Sweden,Roma-Ciampino Airport (CIA/LIRA),0,Medium
+20-01-2020,de Havilland Canada DHC-8-314 Dash 8,C-GXAI,Air Inuit,"Schefferville Airport, QC (YKL)",0,Medium
+23-01-2020,Cessna S550 Citation S/II,ZS-CAR,South African Civil Aviation Authority,5 km NW of Friemersheim,3,High
+23-01-2020,Lockheed EC-130Q Hercules,N134CG,Coulson Aviation,"near Cooma, NSW",3,High
+24-01-2020,Gulfstream G150,N373ML,Compass Aviation LLC,San Juan-Fernando Luis Ribas Dominicci Airport (SIG),0,Medium
+27-01-2020,Bombardier E-11A (Global Express),Nov-58,US Air Force (USAF),39 km NNW of Sharana FOB,2,High
+27-01-2020,McDonnell Douglas MD-83,EP-CPZ,Caspian Airlines,Bandar Mahshahr Airport (MRX),0,High
+28-01-2020,Boeing 737-6CT,C-GWJU,WestJet,"Vancouver International Airport, BC (YVR/CYVR)",0,Medium
+28-01-2020,Boeing 737-76N (WL),C-FZWS,WestJet,"Vancouver International Airport, BC (YVR/CYVR)",0,Medium
+30-01-2020,Hawker 900XP,XA-BNG,ALE - Aerolineas Ejecutivas,Monterrey-Aeropuerto Del Norte (NTR),0,High
+31-01-2020,Bombardier DHC-8-402Q Dash 8,C-FKWE,WestJet Encore,"Terrace Airport, BC (YXT)",0,Medium
+01-02-2020,Boeing 747-412F (SCD),TC-MCT,"ACT Airlines, opf Saudi Arabian Airlines",Dammam-King Fahad International Airport (DMM/OEDF),0,Medium
+02-02-2020,Airbus A380-861,A6-EON,Emirates,"over Rocky Mountains, Wyoming",0,Low
+03-02-2020,Boeing 747-412 (BCF),N703CK,Kalitta Air,"Los Angeles International Airport, CA (LAX)",0,Medium
+03-02-2020,Boeing 767-375ER,C-GHOZ,Air Canada,Madrid-Barajas Adolfo Suárez Airport (MAD),0,Low
+04-02-2020,Cessna 208B Grand Caravan,N454SF,Grant Aviation,"Hooper Bay Airport, AK (HPB)",0,Medium
+05-02-2020,Boeing 737-86J (WL),TC-IZK,Pegasus Airlines,Istanbul-Sabiha GÃ¶kÃ§en International Airport (SAW),3,High
+06-02-2020,Cessna 208B Grand Caravan,N24MG,Redding Aero Enterprises Inc.,"NW off Eureka-Murray Field, CA (EKA)",0,Medium
+07-02-2020,Bombardier CRJ-900LR,N610NN,"PSA Airlines, opf American Eagle","Waynesville, North Carolina",0,Medium
+07-02-2020,Cessna 208B Super Cargomaster,N988FX,"Mountain Air Cargo, opf FedEx","Baltimore/Washington International Thurgood Marshall Airport, MD (BWI)",0,Medium
+08-02-2020,Beechcraft 200 Super King Air,CC-COT,Transportes Torreon,Rio Bueno-Fundo Cuincahuin Airstrip,0,High
+08-02-2020,Cessna 501 Citation I/SP,N501RG,Remonia Air,"near Fairmount, GA",4,High
+09-02-2020,Boeing 737-524 (WL),VQ-BPS,Utair,Usinsk Airport (USK),0,Medium
+12-02-2020,Cessna 560 Citation Encore,N654CE,SC Cole Aviation LLC,"over Benbrook, TX",0,Medium
+14-02-2020,Cessna 208 Caravan I,P2-MAI,Mission Aviation Fellowship - MAF,Miyanmin Airstrip (MPX),0,Medium
+15-02-2020,Boeing 737-8KN (WL),HL8342,Eastar Jet,120NM south of Incheon International Airport,0,Low
+20-02-2020,Cessna 510 Citation Mustang,N163TC,Private,"Daytona Beach International Airport, FL (DAB)",0,Medium
+20-02-2020,Beechcraft B200 King Air,N860J,"Lauren Engineers & Constructors, Inc.","near Lake Coleman, TX",3,High
+20-02-2020,Antonov An-2T,RA-40642,T-Cement,Magadan-13 Airport (UHMT),0,Medium
+21-02-2020,de Havilland Canada DHC-3T Vazar Turbine Otter,C-FIUZ,Harbour Air,"Vancouver-Coal Harbour SPB, BC (CXH)",0,Medium
+23-02-2020,Bombardier CL-600-2B16 Challenger 605,C-GKCP,Canadian Pacific Railway Company,"Calgary International Airport, AB (YYC)",0,Medium
+24-02-2020,de Havilland Canada DHC-6 Twin Otter 300,8Q-MBC,Trans Maldivian Airways,"Kuredu Island Resort, Lhaviyani Atoll",0,Medium
+24-02-2020,Fairchild SA227-DC Metro 23,C-GJVB,"Bearskin Airlines, opb Perimeter Aviation","Dryden Regional Airport, ON (YHD)",0,Medium
+25-02-2020,Boeing 737-301 (BDSF),PK-YSG,Trigana Air Service,Jayapura-Sentani Airport (DJJ),0,Medium
+25-02-2020,Learjet 55,N135LR,Expectra Aviation Inc.,"Belmar/Farmingdale-Monmouth Executive Airport, NJ (BLM)",0,Medium
+26-02-2020,Antonov An-2P,UP-A0001,Orlan 2000,"1,5 km NW of Ust-Kamenogorsk Airport (UKK)",0,High
+27-02-2020,Dassault Falcon 50,N951DJ,private,"Toronto-Buttonville Airport, ON (YKZ)",0,High
+28-02-2020,Airbus A300B4-203 (F),UP-A3003,Sigma Airlines,Sharjah Airport (SHJ),0,Medium
+29-02-2020,Learjet 35A,N721EC,East Coast Jets,"Altoona Airport, PA (AOO)",0,Medium
+03-03-2020,Dassault Falcon 7X,N377EF,private,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Cessna 560 Citation Encore,N43NC,private,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Cirrus SF50 Vision Jet,N217CB,BBR Air,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Learjet 55,N890AC,Jetleg Management,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Beechcraft 200 Super King Air,N2PY,AT Aero LLC,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Beechcraft 200 Super King Air,N186EB,Executive Business Aviation Inc,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Bombardier BD-100-1A10 Challenger 300,N819RS,Legacy Air LLC,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Cessna 525C Citation CJ4,N989CJ,Textron Inc.,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Cessna 525 CitationJet CJ1,N177VV,"Crye-Leike South, Inc","Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Beechcraft B300 King Air 350i,N615CL,Carol 1 LLC,"Nashville-John C. Tune Airport, TN (KJWN)",0,High
+03-03-2020,Dassault Falcon 2000,N519JD,"Caridad Aviation, LLC","Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+03-03-2020,Cessna S550 Citation S/II,N45NC,private,"Nashville-John C. Tune Airport, TN (KJWN)",0,Medium
+05-03-2020,Cessna 208B Super Cargomaster,N706FX,"FedEx Express, opb CSA Air","Rhinelander-Oneida County Airport, WI (RHI)",0,Medium
+06-03-2020,de Havilland Canada DHC-6 Vista Liner 300,N72GC,Grand Canyon Airlines,"Boulder City Municipal Airport, NV (BLD)",0,Medium
+08-03-2020,Boeing 767-3Q8ER,N477AX,Omni Air International,Shannon Airport (SNN),0,Medium
+09-03-2020,Airbus A330-343,HS-TEU,Thai Airways International,Vientiane-Wattay Airport (VTE),0,Medium
+09-03-2020,Gulfstream G-IVSP,M-YWAY,"Platinum Jet Co., Ltd.",Vientiane-Wattay Airport (VTE),0,Medium
+12-03-2020,de Havilland Canada DHC-3T Vazar Turbine Otter,C-GTMW,Martini Aviation Ltd.,"Fort Langley Airport, BC (CBQ2)",0,Medium
+12-03-2020,Beechcraft 200 Super King Air,HK-5075,private,"Claura Arriba, Iriona, Colón",2,High
+13-03-2020,Cessna 525 CitationJet,YV3452,Servicios 5250084,Porlamar-del Caribe Santiago Mariño International Airport (PMV),2,High
+14-03-2020,Raytheon Hawker 800XP,N100AG,Gemini Air Group,"Phoenix-Scottsdale Municipal Airport, AZ (SCF)",0,Medium
+17-03-2020,Cessna 208B Super Cargomaster,N274PM,Planemasters,"NW of La Crosse, Rush County, KS",1,High
+19-03-2020,Cessna 208 Caravan I,P2-MAF,Mission Aviation Fellowship - MAF,Yenkisa Airstrip (YEQ),0,Medium
+21-03-2020,Boeing 757-223 (WL),N193AN,American Airlines,"Las Vegas-McCarran International Airport, NV (LAS)",0,Medium
+22-03-2020,Hawker Siddeley HS-125-F400B,(XB-PNK),private,"near Caballo Blanco, Retalhuleu",0,Medium
+28-03-2020,Cessna 501 Citation I/SP,N810LG,RBR Development LLC,"Jonesboro Municipal Airport, AR (JBR)",0,High
+28-03-2020,Cessna 525A CitationJet CJ2+,N457MD,Hog Air Aviation LLC,"Jonesboro Municipal Airport, AR (JBR)",0,High
+29-03-2020,IAI 1124A Westwind II,RP-C5880,Lionair Inc.,Manila-Ninoy Aquino International Airport (MNL),8,High
+05-04-2020,Antonov An-26,UP-AN601,Libyan National Army,near Tarhuna,0,High
+12-04-2020,Boeing 737-881 (WL),JA64AN,"All Nippon Airways - ANA, opb ANA Wings",30 km south-southwest of Matsuyama Airport (MYJ/RJOM),0,Low
+16-04-2020,Cessna 208 Caravan I,C-GBIT,Mike's Oilfield Services Ltd.,"Maurice Lake, SK",0,Medium
+19-04-2020,British Aerospace BAe-125-700A,N700NW,private,"near Las Cruces, Petén",2,High
+20-04-2020,British Aerospace BAe-125-800A,N375TC,private,Laguna del Tigre National Park,0,High
+23-04-2020,Lockheed C-130J-30 Super Hercules,Nov-36,United States Air Force - USAF,Ramstein AFB (RMS),0,Medium
+24-04-2020,IAI 1125 Astra SP,YV3427,Inversiones SC 2012,"Fort Lauderdale-Executive Airport, FL (FXE)",0,Medium
+28-04-2020,Beechcraft A100 King Air,C-FCBZ,Buffalo Airways,"Kugaaruk Airport, NU (YBB)",0,Medium
+02-05-2020,Beechcraft B200 Super King Air,C-GSAE,Province of Saskatchewan Ministry of Central Services,"SE of Lloydminster Airport, AB (YLL)",0,Medium
+04-05-2020,Learjet 25D,LV-WOC,Dos Mil Aerosistema,"San Fernando Airport, BA (FDO)",0,Medium
+04-05-2020,Embraer EMB-120RT Brasilia,5Y-AXO,African Express Airways,near Bardale Airstrip,6,High
+05-05-2020,Learjet 35A,LV-BXU,MD Fly,"near Esquel Airport, CB (EQS)",3,High
+07-05-2020,Hawker Siddeley HS-125,XB-RBF,private,southern Zulia state,0,High
+08-05-2020,Beechcraft 1900C,N31704,Ameriflight,"San Antonio International Airport, TX (SAT)",0,Medium
+09-05-2020,Ilyushin Il-78,no reg.,Libyan Air Force,Tripoli-Mitiga International Airport (MJI),0,High
+09-05-2020,Learjet 60XR,5A-UAE,United Aviation,Tripoli-Mitiga International Airport (MJI),0,High
+16-05-2020,Let L-410MA,RA-67066,Unknown,Ulang Airstrip,0,Medium
+19-05-2020,Cessna 501 Citation I/SP,N501KM,McWilliams LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,Medium
+19-05-2020,Boeing 737-8Q8 (WL),N820TJ,Swift Air,"W of Victorville-Southern California Logistics Airport, CA (VCV)",0,Medium
+21-05-2020,Beechcraft 400A Beechjet,VT-RPG,Sanjiv Goenka Group,Kolkata-Netaji Subhas Chandra Bose International Airport (CCU),0,Medium
+21-05-2020,Embraer C-95BM Bandeirante (EMB-110),FAB2347,ForÃ§a Aérea Brasileira - FAB,"Natal Air Force Base, RN (SBNT)",0,Medium
+22-05-2020,Airbus A320-214,AP-BLD,Pakistan International Airlines - PIA,"1,4 km E of Karachi-Jinnah International Airport (KHI)",98,High
+26-05-2020,Beechcraft 200 Super King Air,others,private,"near Morocoy, Quintana Roo",0,High
+28-05-2020,British Aerospace BAe-125-700A,N720PT,private,near Sarteneja,0,Medium
+30-05-2020,Antonov An-2,others,Taraz Zhana Alem,Urzhar Airport (UZR),0,Medium
+30-05-2020,de Havilland Canada DHC-6 Twin Otter 100,N52FW,"Kapowsin Air Sports, opf Skydive San Diego","San Diego-Brown Field Municipal Airport, CA (SDM)",0,Medium
+30-05-2020,Beechcraft 200 Super King Air,others,private,Región Costa Montaña ?,0,High
+08-06-2020,Dornier 228-212,PH-CGN,Netherlands Coast Guard (Kustwacht),Eindhoven Airport (EIN/EHEH),0,Low
+08-06-2020,Lockheed C-130H3 Hercules,94-6706,United States Air Force - USAF,Al Taji Army Air Field (ORTI),0,Medium
+09-06-2020,Beechcraft 1900D,C-GSLX,Sunwest Aviation,"near Lac la Biche (CYLB), AB",0,Medium
+13-06-2020,Beechcraft 300 Super King Air 350,N858UP,Gama Aviation Signature,"Bedford-Hanscom Field, MA (BED)",0,Medium
+14-06-2020,Airbus A320-271N,VT-IJT,IndiGo Airlines,near Cochin Airport,0,Low
+14-06-2020,Airbus A320-232,VP-BDL,Ural Airlines,Saint Petersburg-Pulkovo Airport (LED),0,Medium
+14-06-2020,Airbus A320-271N,VP-BWC,S7 Airlines,Saint Petersburg-Pulkovo Airport (LED),0,Low
+15-06-2020,Grumman G-1159 Gulfstream II,N27SL,private,"Machiques de Perijá, Zulia",1,High
+16-06-2020,Embraer ERJ-145EP,G-SAJS,Loganair,Aberdeen International Airport (ABZ/EGPD),0,Low
+16-06-2020,de Havilland Canada DHC-8-402Q Dash 8,G-JECK,Nordic Aviation Capital,Aberdeen International Airport (ABZ/EGPD),0,Medium
+19-06-2020,Gulfstream Aerospace G-1159A Gulfstream III,N516TR,private,"El Chico, Retalhuleu",0,High
+28-06-2020,Cessna 560XL Citation XLS,VT-JSS,Jindal Steel & Power Ltd.,Vijayanagar Aerodrome (VDY),0,Medium
+02-07-2020,Grumman G-1159 Gulfstream II SP,XB-NRX,Private,Mapastepec,0,High
+05-07-2020,Boeing 737-7H4,N254WN,Southwest Airlines,"Orlando, Florida",0,Low
+05-07-2020,British Aerospace BAe-125-700A,XB-RCM,private,"10 km from José Maria Morelos, Quintana Roo",0,High
+07-07-2020,Airbus A319-111,HB-JOH,Chair Airlines,Napoli-Capodichino Airport (NAP),0,High
+07-07-2020,Hawker 800XP,N339AV,private,within Venezuela,0,High
+09-07-2020,Embraer ERJ-175LR,N226NN,"Envoy Air, opf American Eagle","Plainfield, Illinois",0,Low
+09-07-2020,Airbus A319-132,PT-TMO,LATAM Airlines Brasil,"near Guarulhos, SP",0,Low
+10-07-2020,Learjet 45,XA-CAO,Aeroparadise SA,Toluca-Licenciado Adolfo López Mateos International Airport (TLC),0,Medium
+13-07-2020,Britten-Norman BN-2A-27 Islander,N200MU,Tropic Air Charters,"Fort Lauderdale-Executive Airport, FL (FXE)",0,Medium
+13-07-2020,Antonov An-2R,RA-40851,Zeus-Avia,"0,4 km SE of Kistenevo, Bolsheboldinsky district, Nizhny Novgorod region",2,High
+14-07-2020,Boeing 737-8S3 (WL),ZS-SJB,Mango,N of Durban,0,Low
+14-07-2020,de Havilland Canada DHC-8-402Q (PF) Dash 8,5Y-VVU,Blue Bird Aviation,Beledweyne-Ugas Khalif Airport (HCMN),0,High
+15-07-2020,Beechcraft B300 King Air 350i,EM-809,Turkish Police,30 km SW of Van-Ferit Melen Airport (VAN),7,High
+17-07-2020,Beechcraft 200 Super King Air,C-FSKQ,Skyjet Aviation,"Rouyn Airport, QC (YUY)",0,Medium
+19-07-2020,Antonov An-2R,RA-71276,Phoenix,"30 km W of Tagarkhay, Buryatia region",6,High
+20-07-2020,Beechcraft B200 Super King Air,N740P,private,35 km SW of Brus Laguna,0,Medium
+22-07-2020,Beechcraft 400A Beechjet,N425BJ,N425BJ LLC,"Montgomery Regional Airport, AL (MGM)",0,Medium
+22-07-2020,Boeing 777-F60,ET-ARH,Ethiopian Airlines,Shanghai Pudong International Airport (PVG),0,High
+23-07-2020,Airbus A310-304,EP-MNF,Mahan Air,Syrian airspace,0,Low
+25-07-2020,Cessna 208B Grand Caravan,XA-FTG,AX Transporter,Holbox Airstrip,0,Medium
+26-07-2020,Gulfstream Aerospace G-1159A Gulfstream III,N450BD,private,"near El Chal, Petén Department",0,High
+28-07-2020,Boeing 737-3Z0 (SF),PK-YSZ,Trigana Air Service,Wamena Airport (WMX/WAJW),0,Low
+30-07-2020,Beechcraft 200 Super King Air,N515BA,private,"Rio Negro, Zulia",0,High
+01-08-2020,Airbus A321-211 (WL),VP-BAX,Aeroflot Russian International Airlines,Moskva-Sheremetyevo Airport (SVO),0,Medium
+03-08-2020,Antonov An-74TK-100,RA-74044,"UTair-Cargo, opf United Nations - UN",Gao Airport (GAQ),0,High
+04-08-2020,Harbin Y-12-II,KAF128,Kenya Air Force - KAF,Dhobley Airstrip,0,Medium
+07-08-2020,Boeing 737-8HG (WL),VT-AXH,Air India Express,Kozhikode-Calicut Airport (CCJ),21,High
+08-08-2020,British Aerospace BAe-125,others,private,Ixcán,0,High
+08-08-2020,Canadair CL-215-1A10,EC-HET,"Aut, Nacional de EmergÃªncia e ProteÃ§Ã£o Civil, opb Babcock",Lobios,1,High
+09-08-2020,British Aerospace BAe-125-800A,XB-RAY,private,near Maracaibo-La Chinita International Airport (MAR),0,High
+10-08-2020,Rockwell Sabreliner 75A,N400RS,private,W off Paraguaná,2,High
+12-08-2020,Airbus A320-214,EC-IEF,Iberia,near Barcelona Airport (LEBL),0,Low
+12-08-2020,Beechcraft B200 King Air,N316JP,private,"Santa Ana, Bartolomé de Las Casas, Zulia",0,High
+13-08-2020,Let L-410UVP-E3,9S-GEN,Doren Air Congo,28 km from Bukavu-Kavumu Airport (BKY),4,High
+16-08-2020,Cessna 208B Grand Caravan,5Y-SAV,City Link,New Fangak Airstrip,0,High
+18-08-2020,ATR 72-600 (72-212A),6V-ASN,Air Senegal,Ziguinchor Airport (ZIG),0,Medium
+19-08-2020,Boeing 767-3S2FER,N146FE,FedEx,"Los Angeles International Airport, CA (LAX)",0,Medium
+20-08-2020,Beechcraft 200 Super King Air,N198DM,Bomac Air,"Chicago/Rockford International Airport, IL (RFD/KRFD)",1,High
+22-08-2020,Antonov An-26B,EX-126,"South West Aviation, lsf Skyway Air",ca 4 km NW of Juba Airport (JUB),9,High
+27-08-2020,Boeing 747SP-21,VQ-BMS,Las Vegas Sands Corporation,"Lake Charles-Chennault International Airport, LA (CWF)",0,Medium
+28-08-2020,Boeing 767-324ER,N423AX,Omni Air International,Bucharest Baneasa Aurel Vlaicu International Airport (BBU),0,Medium
+29-08-2020,Boeing 737-81D (WL),JA73NM,Skymark Airlines,15 km ENE of Tokyo-Haneda International Airport (HND),0,Medium
+29-08-2020,Dassault Falcon 200,XB-OAP,private,Palenque Airport (PQM),0,Medium
+04-09-2020,Fairchild SA227-AC Metro III,N362AE,Ameriflight,"San Antonio International Airport, TX (SAT)",0,Medium
+07-09-2020,Cessna 208B Grand Caravan,N186GC,Grand Canyon Airlines,"Whitmore-Grand Canyon Bar Ten Airstrip, AZ (GCT)",0,Medium
+07-09-2020,Gulfstream G200 Galaxy,PR-AUR,W.R.V. Empreendimentos e Participacoes Ltda.,"Belo Horizonte/Pampulha - Carlos Drummond de Andrade Airport, MG (PLU)",0,Medium
+11-09-2020,Cessna 208B Grand Caravan,5Y-CDH,Unknown,Maji Moto area in Narok South,0,High
+15-09-2020,Beechcraft 200 King Air,others,private,Machiques de Perija,0,High
+16-09-2020,Cessna 560 Citation Encore,N254DR,Connair Consulting LLC,"Jackson-McKellar-Sipes Regional Airport, TN (MKL)",0,Medium
+18-09-2020,Learjet,others,private,Zanja,0,High
+19-09-2020,Fokker 50,5Y-MHT,"Silverstone Air Services, opf Saacid Airlines",Mogadishu Aden Adde International Airport (MGQ),0,High
+21-09-2020,Learjet 35,false reg.,private,Santha Martha,0,High
+22-09-2020,Cessna 208B Grand Caravan,HK-4669-G,private,near Guaymaral Airport,0,Medium
+23-09-2020,British Aerospace BAe-125-800A,XB-PYZ,private,"Alta Verapaz, Santa Marta Salina",4,High
+25-09-2020,British Aerospace BAe-125,others,private,"Catatumbo, Edo, Zulia",0,High
+25-09-2020,Antonov An-26Sh,76 yellow,Ukraine Air Force,"1,1 km N of Chuhuiv Air Base",26,High
+27-09-2020,Canadair CL-600-1A11 Challenger 600,N100QR,private,"Sur del Lago region, Zulia",0,High
+28-09-2020,Antonov An-2,others,Unknown,near Martuni,0,High
+29-09-2020,Lockheed KC-130J Hercules,166765,United States Marine Corps,"near Salton City, CA",0,Medium
+30-09-2020,Boeing 777-232ER,N860DA,Delta Air Lines,"Anchorage, Alaska",0,Low
+04-10-2020,Gulfstream American G-1159A Gulfstream III,N305LR,private,"Machiques, Zulia",0,High
+05-10-2020,de Havilland Canada DHC-6 Twin Otter 300,8Q-TMF,Trans Maldivian Airways,Malé-Velana International Airport (MLE),0,Medium
+05-10-2020,British Aerospace BAe-125,others,private,"Sergio Butrón Casas, Quintana Roo",0,High
+05-10-2020,Hawker 850XP,HS-WTH,Ratchthani Leasing Public Company Limited,Pattani Airport (PAN/VTSK),0,Medium
+06-10-2020,Boeing 737-4B6 (SF),HK-5228,AerCaribe Cargo,San José-Juan Santamaria International Airport (SJO/MROC),0,High
+10-10-2020,Douglas C-54E (DC-4),N96358,Alaska Air Fuel,"Yakataga Airport, AK",0,Medium
+10-10-2020,Cessna 208B Grand Caravan,5H-NWA,Duk Air Travel,Mundri Airstrip,0,Medium
+14-10-2020,Airbus A320-200,others,others,over Germany,0,Low
+14-10-2020,Beechcraft 99A Airliner,N499CZ,Freight Runners Express,"Waterville-Robert Lafleur Airport, ME (WVL)",0,Medium
+14-10-2020,Antonov An-32A,OB-2120-P,AerCaribe Peru,Iquitos-Coronel Francisco Secada Vignetta International Airport (IQT),0,High
+16-10-2020,Britten-Norman BN-2A-27 Islander,V6-01FM,Caroline Islands Air,"Mwoakilloa Airfield, Caroline Islands",0,Medium
+21-10-2020,Learjet 60,N1128M,Worldwide Jet Charter Inc,"Chicago-Executive Airport, IL (PWK)",0,Medium
+22-10-2020,de Havilland Canada DHC-6 Twin Otter 300,8Q-TMR,Trans Maldivian Airways,Medhafushi Water Aerodrome,0,Medium
+23-10-2020,Bombardier DHC-8-402Q Dash 8,JA845A,Oriental Air Bridge,Fukue Airport (FUJ),0,Medium
+24-10-2020,Embraer ERJ-145LR,N674RJ,"American Eagle, opb Envoy Air",Freeport-Grand Bahama International Airport (FPO),0,Medium
+29-10-2020,Gulfstream American G-1159A Gulfstream III,N461AR ?,private,Laguna del Tigre,3,High
+29-10-2020,Britten-Norman BN-2A-26 Islander,N706MC,St. Bernard Parish Government,"New Orleans-Lakefront Airport, LA (NEW)",0,Medium
+30-10-2020,Antonov An-2,PT-ZNQ,private,"Brasília-Piquet Airport, DF (SSGP)",0,Medium
+30-10-2020,Embraer EMB-500 Phenom 100,PR-LMP,TRACBEL,"Igaratinga-SÃ£o Pedro Airport, MG (SSDK)",0,High
+31-10-2020,Cessna AC-208B Combat Caravan,YI-118,Al Quwwat al Jawwiya al Iraqiya (Iraqi Air Force),near Balad,2,High
+01-11-2020,Raytheon Beechjet 400A,N456FL,Georgia Jet,"Fernandina Beach Municipal Airport, FL (KFHB)",0,Medium
+05-11-2020,Fairchild SA227-AC Metro III,LV-VDJ,Dos Mil Aerosistema,"Mendoza-El Plumerillo Airport, MD (MDZ)",0,Medium
+09-11-2020,Rockwell Sabreliner 65,XA-VD.,private,"El Chico, Champerico, Retalhuleu",1,High
+11-11-2020,British Aerospace BAe-125-800B,others,private,Parque Nacional Laguna del Tigre,0,High
+12-11-2020,British Aerospace 3201 Jetstream 32EP,OB-2152,SAETA Peru,Iquitos International Airport (IQT),0,Medium
+13-11-2020,Bombardier CRJ-701ER,N778SK,"SkyWest Airlines, opf American Eagle","Phoenix-Sky Harbor International Airport, AZ (PHX/KPHX)",0,Low
+13-11-2020,Antonov An-124-100,RA-82042,Volga-Dnepr Airlines,Novosibirsk-Tolmachevo Airport (OVB),0,Medium
+15-11-2020,Grumman G-1159 Gulfstream II SP,N104VV,private,"Caño Amarillo, Catatumbo",0,High
+16-11-2020,ATR 72-500 (72-212A),VT-TMM,TruJet,Mysore Airport (MYQ),0,Medium
+23-11-2020,Beechcraft 200 King Air,HB-GJM,Air-Glaciers,Sion Airport (SIR),0,Medium
+23-11-2020,de Havilland Canada DHC-8-314 Dash 8,C-FEXZ,Voyageur Airways,"North Bay Airport, ON (YYB)",0,Medium
+23-11-2020,de Havilland Canada DHC-7-110,VP-FBQ,British Antarctic Survey,"North Bay Airport, ON (YYB)",0,Medium
+26-11-2020,ATR 42-300,C-FAFS,Calm Air International,"Naujaat Airport, NU (YUT)",0,Medium
+28-11-2020,Embraer EMB-110P1 Bandeirante,CU-T1541,Cubana de Aviación,Havana-José Martí International Airport (HAV),0,Medium
+30-11-2020,Cessna 208B Grand Caravan,C6-AWO,Royal Bahamas Defence Force,George Town-Exuma International Airport (GGT),0,Medium
+01-12-2020,de Havilland Canada DHC-6 Vista Liner 300,P2-ASM,Air Sanga,Wobagen Airstrip,0,Medium
+02-12-2020,Cessna 551 Citation II/SP,N48DK,Aviation Star S II LLC,"Lufkin Angelina County Airport, TX (LFK)",0,Medium
+02-12-2020,Boeing 737-529,EY-560,Air Djibouti,Garowe Airport (GGR),0,Medium
+05-12-2020,British Aerospace BAe-125-800A,N484AR,private,Jesús María Semprúm,0,High
+05-12-2020,Beechcraft A100 King Air,C-FWYO,Airco Aircraft Charters,"Edmonton International Airport, AB (YEG)",0,Medium
+09-12-2020,Shijiazhuang Y-5B,B-8242,Xinjiang General Aviation,Urumqi-Yaxin General Airport,0,High
+09-12-2020,Antonov An-2R,UR-33642,private,"near Zolota Sloboda, Kozova Raion, Ternopil Oblast",1,High
+10-12-2020,Gulfstream Aerospace G-1159A Gulfstream III,(N370JL),private,southern Belize,0,High
+13-12-2020,Eclipse 500,N686TM,private,"Leadville Airport, CO (LXV)",0,Medium
+16-12-2020,Embraer EMB-500 Phenom 100,N661EP,Executive Aviation Investors Inc,"Jacksonville Executive at Craig Airport, FL (CRG)",0,Medium
+19-12-2020,British Aerospace BAe-125-700A,(N326TD),private,Parque Nacional Sierra de Lacandon,1,High
+20-12-2020,Raytheon Hawker 800XP,N412JA,Talon Air,"Farmingdale-Republic Airport, NY (FRG)",0,Medium
+22-12-2020,Cessna 525 Citation M2,PR-HFT,La Barca Empreendimentos Ltda,"UberlÃ¢ndia, MG (SBUL)",0,Medium
+23-12-2020,Airbus A320-232,N463UA,United Airlines,"Houston, Texas",0,Low
+30-12-2020,Cessna 208B Supervan 900,PZ-TSK,Blue Wing Airlines,Kawemhaken-Lawa Anapaike Airstrip,0,Medium
+07-01-2019,Saab 340B,YL-RAF,RAF-AVIA,Savonlinna Airport (SVL),0,Medium
+12-01-2019,Boeing 737-524 (WL),VQ-BJP,UTair Aviation,Moskva-Vnukovo Airport (VKO),0,Medium
+12-01-2019,Canadair CL-600-2A12 Challenger 601,N813WT,TW 601-C Investment LLC,"Uvalde-Ox Ranch Airport ,TX",0,Medium
+14-01-2019,Boeing 707-3J9C,EP-CPP,"Saha Air, lsf Islamic Republic of Iran Air Force - IRIAF",Fat'h Airport,15,High
+16-01-2019,Cessna 208B Grand Caravan,8R-YAC,Air Services Limited - ASL,Georgetown-Ogle International Airport (OGL),0,Medium
+18-01-2019,Boeing 777-212ER,9V-SQL,Singapore Airlines,en route Melbourne-Wellington,0,Low
+21-01-2019,Aero Modifications AMI DC-3-65TP,N467KS,Priority Air Charter,"SE of Kidron-Stoltzfus Airfield, OH",2,Medium
+22-01-2019,Boeing 737-8LJ (WL),VP-BRR,Aeroflot Russian International Airlines,Khanty-Mansiysk International Airport (HMA),0,Low
+23-01-2019,de Havilland Canada DHC-8-102 Dash 8,C-GTCO,Air Creebec,"Rouyn Airport, QC (YUY)",0,Medium
+26-01-2019,Airbus A321-231,TC-OEB,Onur Air,Antalya Airport (AYT/LTAI),0,Medium
+28-01-2019,Airbus A320-214 (WL),N220FR,Frontier Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Medium
+28-01-2019,Boeing 727-2B6 Adv. (F),N720CK,Kalitta Charters,"Tuscaloosa Regional Airport, AL (TCL)",0,Medium
+28-01-2019,ATR 72-500 (72-212A),EC-LYJ,"Air Europa, opb Swiftair",Palma de Mallorca Airport (PMI),0,Medium
+29-01-2019,Beechcraft B200 King Air,N13LY,Guardian Flight,"32 km W off Kake, AK",3,High
+30-01-2019,Beechcraft 200 Super King Air,C-GTUC,Air Tindi,"39 km ESE of WhatÃ¬/Lac La Martre Airport, NT (YLE)",2,High
+03-02-2019,Boeing 787-8 Dreamliner,N26909,United Airlines,"Pacific Ocean, Pacific Ocean",0,Low
+04-02-2019,Boeing 737-332,ST-TAL,"Tarco Air, opf Sudan Airways",Khartoum-Civil Airport,0,Low
+05-02-2019,Boeing 737-823 (WL),N852NN,American Airlines,Bluefields,0,Low
+08-02-2019,Airbus A321-251N,SE-RKA,Novair,Billund Airport (BLL),0,Medium
+08-02-2019,Convair C-131B Samaritan,N145GT,Conquest Air Cargo,"21 km E off Bay Harbor Islands, FL",1,High
+09-02-2019,Cessna 208 Caravan I,PR-RTA,RICO Taxi Aéreo,"231 km SSW of Caracaraí, RR",0,Medium
+09-02-2019,Embraer ERJ 190AR (ERJ-190-100 IGW),5Y-FFF,Kenya Airways,Nairobi-Jomo Kenyatta International Airport (NBO),0,Medium
+09-02-2019,Embraer ERJ 190AR (ERJ-190-100 IGW),5Y-KYR,Kenya Airways,Nairobi-Jomo Kenyatta International Airport (NBO),0,Medium
+11-02-2019,Raytheon Beechjet 400A,N750TA,Stein's Aircraft Services,"Richmond Municipal Airport, IN (RID)",0,Medium
+13-02-2019,Embraer ERJ-175LR (ERJ-170-200 LR),N613CZ,"Delta Airlines, opb Compass Airlines","near Reno-Tahoe International Airport (KRNO), Washoe County, NV",0,Low
+13-02-2019,de Havilland Canada DHC-6 Twin Otter 300,PJ-WII,Winair,Saint-Barthélémy-Rémy de Haenen Airport (SBH/TFFJ),0,Low
+13-02-2019,Boeing 787-9 Dreamliner,PH-BHA,KLM Royal Dutch Airlines,Amsterdam-Schiphol International Airport (AMS/EHAM),0,Low
+13-02-2019,Boeing 747-406M,PH-BFV,KLM Royal Dutch Airlines,Amsterdam-Schiphol International Airport (AMS/EHAM),0,Low
+17-02-2019,Boeing 737-832 (WL),N3730B,Delta Air Lines,"Franklin, Tennessee",0,Low
+23-02-2019,Boeing 767-375ER (BCF) (WL),N1217A,"Amazon Air, opb Atlas Air","Trinity Bay, near Anahuac, TX",3,High
+24-02-2019,Boeing 737-8E9 (WL),S2-AHV,Biman Bangladesh Airlines,Chittagong-Shah Amanat International Airport (CGP),1,Low
+25-02-2019,de Havilland Canada EO-5C (DHC-7-102),N89068,United States Army,Pyongtaek-Desiderio AAF (RKSG),0,Medium
+26-02-2019,Gulfstream G200 Galaxy,4K-AZ88,Silk Way Business Aviation,Moskva-Sheremetyevo Airport (SVO),0,Medium
+27-02-2019,Boeing 777-223ER,N771AN,American Airlines,"near Honolulu, Oahu, HI",0,Low
+28-02-2019,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEJ,Flybe,Exeter Airport (EXT/EGTE),0,Low
+02-03-2019,de Havilland Canada DHC-8-402Q Dash 8,G-JECN,Flybe,Southampton-Eastleigh Airport (SOU/EGHI),0,Medium
+03-03-2019,Bombardier BD-100 Challenger 350,N715CG,private,"Eufaula-Weedon Field, AL (EUF/KEUF)",0,High
+03-03-2019,Airbus A320-214 (WL),PR-OCW,Avianca Brasil,"Rio de Janeiro/GaleÃ£o-Antonio Carlos Jobim International Airport, RJ",0,Medium
+03-03-2019,Honda HA-420 HondaJet,N105HJ,Banyan Jet Service,"Eufaula-Weedon Field, AL (EUF/KEUF)",0,High
+03-03-2019,Beechcraft 1900D,7T-VIO,Tassili Airlines,Ouargla-Ain Beida Airport (OGX),0,Medium
+04-03-2019,Cessna 208B Grand Caravan,C-FAFV,Amik Aviation,"1,4 km S of Little Grand Rapids Airport, MB (ZGR)",0,Medium
+04-03-2019,Embraer EMB-145XR,N14171,"United Express, opb CommutAir","Presque Isle International Airport, ME (PQI)",0,Medium
+07-03-2019,Learjet 35A,LV-BNR,Baires Fly,"Buenos Aires-Jorge Newbery Airport, BA (AEP)",0,Medium
+09-03-2019,Gulfstream G-IV,N505GF,Waffle House Inc.,"Atlanta-DeKalb Peachtree Airport, GA (PDK)",0,Medium
+09-03-2019,Douglas DC-3,HK-2494,LASER Aéreo Colombia,"Finca La Bendición, San Martín",14,High
+10-03-2019,Boeing 737-832 (WL),N3756,Delta Air Lines,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",0,Medium
+10-03-2019,Bombardier CRJ-900LR,N569NN,"PSA Airlines, opf American Eagle","Charlotte-Douglas International Airport, NC (CLT/KCLT)",0,Medium
+10-03-2019,Bombardier CL-600-2C10 Regional Jet CRJ-702ER,N530EA,"PSA Airlines, opf American Eagle","Charlotte-Douglas International Airport, NC (CLT/KCLT)",0,Medium
+10-03-2019,Hawker Siddeley HS-125-600A,fake reg.,private,"near San Pedro Peralta, Chetumal, Quintana Roo",1,High
+10-03-2019,Boeing 737 MAX 8,ET-AVJ,Ethiopian Airlines,50 km ESE of Addis Ababa-Bole Airport (ADD),157,High
+11-03-2019,de Havilland Canada CC-138 Twin Otter (DHC-6),13803,Royal Canadian Air Force - RCAF,"140 km N Inuvik, NT",0,Medium
+12-03-2019,Beechcraft A100 King Air,N945WS,Golden Wings Aviation Inc.,"Latrobe-Westmoreland County Airport, PA (LBE)",0,Medium
+14-03-2019,Cessna 650 Citation III,N220CM,RP Sales and Leasing Inc.,"Orlando Sanford International Airport, FL (SFB)",0,Medium
+18-03-2019,IAI 1124 Westwind,N4MH,Sundance Airport FBO LLC,"Oklahoma City-Sundance Airport, OK (HSD)",2,High
+18-03-2019,Bombardier BD-100-1A10 Challenger 300,9M-TST,Berjaya Air,Kuala Lumpur-Sultan Abdul Aziz Shah Airport (SZB),1,Medium
+19-03-2019,Fokker 100,EP-IDG,Iran Air,Tehran-Mehrabad Airport (THR/OIII),0,Medium
+21-03-2019,ATR 72-500 (72-212A),TR-ABS,Afrijet,SÃ£o Tomé Island Airport (TMS/FPST),0,Medium
+22-03-2019,Rockwell Sabreliner 60,N990PA,private,ca 14 km E of Bajamar,0,High
+23-03-2019,Airbus A320-232,HA-LPL,Wizz Air,Bristol Airport (BRS/EGGD),0,Low
+23-03-2019,Beechcraft B200 Super King Air,A2-MBM,Major Blue Air,Matsieng Aerodrome,1,High
+27-03-2019,Boeing 737-7H4 (WL),N249WN,Southwest Airlines,"near Nashville International Airport, TN (BNA)",0,Medium
+27-03-2019,Antonov An-2,CU-A1825,Empresa Nacional de Servicios Aéreos-ENSA,Alonso de Rojas,0,Medium
+03-04-2019,Airbus A320-214,G-EZWC,easyJet,Belfast International Airport (BFS/EGAA),0,Low
+04-04-2019,McDonnell Douglas MD-88,N977DL,Delta Air Lines,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",0,Medium
+04-04-2019,de Havilland Canada DHC-8-402Q Dash 8,OE-LGM,Austrian Airlines,Innsbruck-Kranebitten Airport (INN),0,Medium
+08-04-2019,British Aerospace 4100 Jetstream 41,HI1038,Sky High Aviation Services,Dominica Douglas-Charles Airport (DOM),0,Medium
+10-04-2019,Airbus A321-231 (WL),N114NN,American Airlines,"New York-John F. Kennedy International Airport, NY (JFK)",0,Medium
+11-04-2019,Boeing 737-924ER (WL),N31412,United Airlines,"Fort Myers, FL",0,Low
+13-04-2019,Rockwell Sabreliner 65,N265DS,Classic Aviation,"near New Albany, MS",3,High
+14-04-2019,Let L-410UVP-E20,9N-AMH,Summit Air,Lukla-Tenzing-Hillary Airport (LUA),3,High
+16-04-2019,Bombardier BD-700-1A11 Global 5000,14+01,Luftwaffe,Berlin-SchÃ¶nefeld Airport (SXF/EDDB),0,Medium
+16-04-2019,Pilatus Britten-Norman BN-2B-27 Islander,CC-CYR,Archipiélagos Servicios Aéreos,"0,4 km W of Puerto Montt-Marcel Marchant Airport (SCPF)",6,High
+22-04-2019,Airbus A320-232 (WL),HS-TXK,Thai Smile,"Sung Noen District, Nakhon Ratchasima Province",0,Low
+22-04-2019,Antonov An-26,EY-322,Asia Airways,64 km from Khartoum,0,Medium
+23-04-2019,Cessna 208 Caravan I,N366TA,private,"Dry Tortugas National Park, FL",0,Medium
+24-04-2019,Beechcraft B200 Super King Air,C-FRMV,Keewatin Air,"Gillam Airport, MB (YGX)",0,Medium
+24-04-2019,Cessna 551 Citation II/SP,D-IADV,private,Siegen-Siegerland Airport (SGE/EDGS),0,Medium
+30-04-2019,Boeing 737-33A (WL),G-GDFB,Jet2,East Midlands Airport (EMA),0,Medium
+30-04-2019,Boeing 737-73S (WL),EI-SEV,Ryanair,East Midlands Airport (EMA/EGNX),0,Medium
+02-05-2019,Boeing 737-8GJ (WL),HL8021,T'way Air,115km north of Tokyo/Narita International Airport (NRT/RJAA),0,Low
+03-05-2019,Douglas C-47A-25-DK (DC-3C),C-GJKM,Buffalo Airways,"6,5 km SE of Hay River Airport, NT (YHY)",0,Medium
+03-05-2019,Boeing 737-81Q (WL),N732MA,Miami Air International,"Jacksonville Naval Air Station, FL (NIP)",0,Medium
+04-05-2019,Antonov An-2R,RA-01443,Voskhod LLC,"Vyun, Tomponsky region",0,Medium
+05-05-2019,Canadair CL-600-2B16 Challenger 601-3A,N601VH,Compañia de Aviación y Logística Empresarial,257 km NW of Monclova,13,High
+05-05-2019,Sukhoi Superjet 100-95B,RA-89098,Aeroflot Russian International Airlines,Moskva-Sheremetyevo Airport (SVO),41,High
+07-05-2019,Antonov An-2R,YV2354,private,13 km from Uriman Airport (URM),0,High
+07-05-2019,de Havilland Canada DHC-6 Twin Otter 300,C-GNDO,Air Inuit,"57 km NNE of Kuujjuarapik Airport, QC (YGW)",0,Medium
+08-05-2019,de Havilland Canada DHC-8-402Q Dash 8,S2-AGQ,Biman Bangladesh Airlines,Yangon-Mingaladon Airport (RGN/VYYY),0,High
+10-05-2019,de Havilland Canada DHC-8-311 Dash 8,C-FJXZ,"Air Canada Express, opb Jazz Aviation","Torontoâ€“Lester B. Pearson International Airport, Ontario (YYZ)",0,Medium
+11-05-2019,Cessna 208B Supervan 900,C-FCPM,Parachutisme Nouvel Air,"Saint-Esprit Aerodrome, QC",0,Medium
+12-05-2019,Embraer ERJ-190LR,XY-AGQ,Myanmar National Airlines,Mandalay International Airport (MDL),0,Low
+13-05-2019,Boeing 737-9B5,HL7726,Korean Air,30NM W of Incheon International Airport,0,Low
+13-05-2019,de Havilland Canada DHC-3T Vazar Turbine Otter,N959PA,Taquan Air,"15 km NE of Ketchikan, AK",6,Medium
+18-05-2019,Gulfstream American G-1159 Gulfstream II SP,unreg.,private,"Chico de Chamorro, Retalhuleu",0,High
+22-05-2019,Cessna S550 Citation S/II,N311G,private,"near Indianapolis Regional Airport, IN (KMQJ)",2,High
+22-05-2019,Antonov An-2R,RA-68161,private,Zhuravskoye,0,High
+24-05-2019,Cessna 560 Citation Encore,N832R,Jet Sales LLC,"500 km E off Fort Lauderdale, Florida, USA",1,High
+25-05-2019,Boeing 737-8H4 (WL),N8697C,Southwest Airlines,"Waycross, Georgia",0,Low
+25-05-2019,Airbus A320-214 (WL),PK-LZJ,Batik Air,Makassar-Sultan Hasanuddin International Airport (WAAA),0,Low
+28-05-2019,Airbus A320-232,N507JT,Jetblue Airways,"Fort Lauderdale, Florida",0,Low
+29-05-2019,Antonov An-124-100,5A-DKN,Libyan Air Cargo,Tripoli International Airport (TIP),0,High
+03-06-2019,Antonov An-32,K2752,Indian Air Force - IAF,16 km N of Lipo,13,High
+07-06-2019,Antonov An-2T,UR-KAU,TSO Ukrayiny,"Svyatoshyns'kyi District, Kiev",0,Medium
+09-06-2019,Boeing 737-924ER (WL),N75436,United Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Medium
+09-06-2019,Antonov An-2R,RA-81519,Feniks,"50 km NE of Kyren, Tunkinsky District",0,Medium
+11-06-2019,CASA C-212 Aviocar 200,N603AR,EP Aviation,Kiunga Airport (KIU),0,Medium
+13-06-2019,Beechcraft B200 Super King Air,others,Unknown,"Río Chixoy, La Máquina",0,High
+15-06-2019,ATR 42-320,PR-MPN,MAP Linhas Aéreas,"Manaus-Eduardo Gomes International Airport, AM (MAO)",0,Medium
+15-06-2019,Boeing 757-224 (WL),N26123,United Airlines,"Newark-Liberty International Airport, NJ (EWR)",0,Medium
+17-06-2019,Boeing 737-8H4 (WL),N8608N,Southwest Airlines,"Pittsburgh-Greater Pittsburgh International Airport, PA (PIT)",0,Medium
+17-06-2019,Cessna 680 Citation Sovereign,LV-CIQ,Banco Macro,"Joaquín V. González-Agropecuaria Río Juramento Airstrip, SA",0,Medium
+18-06-2019,Airbus A330-243,B-LHA,Hong Kong Airlines,"Nansha District, Guangzhou, Guangdong Province",0,Low
+20-06-2019,Antonov An-2R,UP-A0116,Navigator,"10 km from Rodina village, Tselinograd district",1,High
+21-06-2019,Basler BT-67 Turbo 67 (DC-3T),C-FKGL,North Star Air,"off Fort Hope Airport, ON (YFH)",0,Medium
+23-06-2019,Antonov An-2R,UR-43983,Phoenix Air LLC,"near Mlyny, Poltava region",0,High
+24-06-2019,Hawker Siddeley HS-125-400,others,Unknown,"Parque Nacional Laguna del Tigre, Petén",0,High
+26-06-2019,Rockwell Sabreliner 65,N65HH,Yankee Dawdle LLC,"Sacramento-McClellan Airfield, CA (MCC)",0,Low
+27-06-2019,Cessna 560 Citation V,N318RW,Mueller Aero Inc,"Janesville, Wisconsin",0,Low
+27-06-2019,British Aerospace 3212 Jetstream 31,YV2536,Transmandu,Canaima Airport (CAJ),0,High
+27-06-2019,Antonov An-24RV,RA-47366,Angara Airlines,Nizhneangarsk Airport (UIUN),2,High
+28-06-2019,Saab 340A,C6-VIP,Western Air,Nassau-Lynden Pindling International Airport (NAS),0,Medium
+29-06-2019,Cessna 208B Supervan 900,N80JF,ISR Aviation LLC,"Plant City-Blackwater Creek Ultralight Flightpark, FL",0,Medium
+30-06-2019,Dassault Falcon 900B,N908CA,Warren Transportation LLC,"Dallas-Addison Airport, TX (ADS/KADS)",0,High
+30-06-2019,Antonov An-2T,RF-00105,"DOSAAF, Gvardeysky ATSK",near Gvardeysky,0,Medium
+30-06-2019,Beechcraft B300 King Air 350i,N534FF,EE Operations LLC,"Dallas-Addison Airport, TX (ADS/KADS)",10,High
+01-07-2019,Boeing 737-85R,VT-SYK,SpiceJet,Mumbai-Chhatrapati Shivaji International Airport (BOM),0,Medium
+08-07-2019,Canadair CL-215-6B11 (CL-415),C-FAWQ,Gouvernement du Québec,"83 km NW of Roberval Airport, QC (YRJ)",0,Medium
+08-07-2019,Cessna 208B Grand Caravan,N9448B,Grant Aviation,"Bethel Airport, AK (BET)",0,High
+08-07-2019,Airbus A320-214,5A-ONA,Afriqiyah Airways,Tripoli-Mitiga International Airport (MJI),0,Low
+09-07-2019,Antonov An-2,unreg.,Unknown,"near Raduga, Novoaleksandrovsk District",0,Medium
+09-07-2019,Boeing 737-8K2 (WL),PH-BXH,KLM Royal Dutch Airlines,Amsterdam-Schiphol International Airport (AMS/EHAM),0,Low
+09-07-2019,Airbus A320-214 (WL),OE-IVQ,easyJet Europe,Amsterdam-Schiphol International Airport (AMS/EHAM),0,Low
+10-07-2019,Airbus A380-861,A6-EEM,Emirates,Bay of Bengal,0,Low
+12-07-2019,ATR 42-500,SX-FOR,Sky Express,Naxos Island National Airport (JNX/LGNX),0,Medium
+12-07-2019,Cessna 525 CitationJet,N262BK,"Omicron Business Services, LLC","Orlando Executive Airport, FL (ORL)",0,Medium
+13-07-2019,Beechcraft B200 Super King Air,others,Unknown,"Graham Creek, Toledo",0,High
+16-07-2019,Antonov An-2,RA-3098K,Unknown,"Novoshchedrinskaya, Chechnya",0,High
+17-07-2019,Cessna 550 Citation II,N320JT,Avia Jet LLC,"Mesquite Municipal Airport, NV",0,High
+19-07-2019,de Havilland Canada DHC-8-402Q Dash 8,C-FKWE,WestJet Encore,"Edmonton International Airport, AB (YEG)",0,Medium
+20-07-2019,ATR 42-500,AP-BHP,Pakistan International Airlines - PIA,Gilgit Airport (GIL),0,Medium
+22-07-2019,Boeing 767-322ER (WL),N663UA,United Airlines,"200 nm N of San Juan, Puerto Rico",0,Low
+23-07-2019,Boeing 757-324 (WL),N57852,United Airlines,"San Francisco International Airport, CA (SFO)",0,Medium
+23-07-2019,Boeing 737-36N (WL),5N-BQO,Air Peace,Lagos-Murtala Muhammed International Airport (LOS),0,Medium
+24-07-2019,Boeing 777-333ER,C-FNNQ,Air Canada,Paris-Charles de Gaulle Airport (CDG/LFPG),0,Low
+25-07-2019,Ilyushin Il-76TD,UR-CMC,Europe Air,Al Jufra Airbase,1,High
+25-07-2019,Ilyushin Il-76TD,UR-CRP,Europe Air,Al Jufra Airbase,0,High
+26-07-2019,Cessna 208 Caravan 675,C-GURL,Seair Seaplanes,"Addenbroke Island, BC",4,High
+27-07-2019,Fairchild SA227-AC Metro III,N681TR,Sierra West Airlines,"El Paso International Airport, TX (ELP)",0,Medium
+30-07-2019,Avro RJ85,VH-NJW,Cobham Aviation Services,"Perth Airport, WA (PER)",0,Medium
+30-07-2019,Airbus A319-114,D-AILR,Lufthansa,Frankfurt International Airport (FRA/EDDF),0,Medium
+30-07-2019,unknown,others,Fuerza Aérea de Guinea Ecuatorial,off Grand Batanga,0,High
+30-07-2019,Beechcraft B300 King Air 350i,766,Pakistan Army Aviation Corps,"Mora Kalu, Rawalpindi",19,High
+31-07-2019,Douglas DC-3C,N59314,Bush Air Fuel,"Drift River Airport (3AK5), AK",0,Medium
+31-07-2019,Bombardier CRJ-900ER,N947LR,"American Eagle, opb Mesa Airlines","Dallas/Fort Worth International Airport, TX (DFW/KDFW)",0,Medium
+01-08-2019,Douglas C-118A Liftmaster (DC-6A),N451CE,Everts Air Cargo,"Candle 2 Airport, AK",0,Medium
+02-08-2019,Airbus A330-243,G-MLJL,Thomas Cook Airlines,near SUMRS waypoint,0,Low
+02-08-2019,Shijiazhuang Y-5B(D),B-50OC,Liaoning Star General Aviation,"Longmen Farm, Wudalianchi, Heilongjiang Province",0,Medium
+02-08-2019,Boeing 787-8 Dreamliner,C-GHPU,Air Canada,"Vancouver International Airport, BC (YVR/CYVR)",0,Low
+02-08-2019,Airbus A340-313,HB-JMF,Edelweiss Air,"Vancouver International Airport, BC (YVR/CYVR)",0,Medium
+04-08-2019,Antonov An-2,RT-15-305,DOSAAF Tajikistan,near Fakhrabad,1,High
+05-08-2019,Airbus A320-232,N432UA,United Airlines,"San Francisco International Airport, CA (SFO)",0,Medium
+06-08-2019,Cessna 510 Citation Mustang,CC-ANR,private,"0,4 km N of Los Ángeles-María Dolores Airport (LSQ)",1,High
+06-08-2019,Cessna 208B Supervan 900,C-FSKF,Alkan Air,"46 km ENE of Mayo Airport, YT (YMA)",2,High
+06-08-2019,Cessna 208B Grand Caravan,5H-NOW,Tropical Air,Mafia Airport (MFA),0,High
+06-08-2019,Ilyushin Il-76TD,UR-COZ,SkyAviatrans,Misrata International Airport (MRA),0,High
+06-08-2019,Cessna 560XLS+ Citation XLS+,D-CAWM,Aerowest,Aarhus Airport (AAR/EKAH),0,High
+07-08-2019,British Aerospace 3201 Jetstream 32,HK-4540,SARPA - Servicios Aéreos Panamericanos,Bahía Solano-José Celestino Mutis Airport (BSC),0,Medium
+07-08-2019,HS-125/BAe-125,others,unknown,"Las Pilas, Champerico, Retalhuleu",0,High
+08-08-2019,Airbus A320-232,N505JB,Jetblue Airways,"Charlottesville, Virginia",0,Low
+08-08-2019,Bombardier CL-600-2B16 Challenger 604,N237QS,Netjets,"Lubbock, Texas",0,Low
+08-08-2019,Airbus A321-211 (WL),N717FR,Frontier Airlines,"Orlando International Airport, FL (MCO)",0,Medium
+10-08-2019,Canadair CL-600-2B16 Challenger 601,N602TS,private,Nassau-Lynden Pindling International Airport (NAS),0,Medium
+12-08-2019,Boeing 787-9 Dreamliner,G-CKWB,Norwegian Air UK,London-Gatwick Airport (LGW),0,Low
+14-08-2019,de Havilland Canada DHC-6 Twin Otter 200,T-82,Fuerza Aérea Argentina - FAA,54 km from Base Marambio,0,Medium
+14-08-2019,Beechcraft Super King Air,XB-...,Unknown,"El Ramonal, Chetumal, Quintana Roo",0,High
+15-08-2019,Boeing 787-8 Dreamliner,JA808A,All Nippon Airways - ANA,"Over Chengde, Hebei Province",0,Low
+15-08-2019,de Havilland Canada DHC-6 Twin Otter 300,N322AV,Berry Aviation,"San Marcos Regional Airport, TX",0,Medium
+15-08-2019,Cessna 680A Citation Latitude,N8JR,JRM Air LLC,"Elizabethton Municipal Airport, TN",0,High
+15-08-2019,Airbus A321-211,VQ-BOZ,Ural Airlines,ca 5 km SE of Zhukovsky International Airport (ZIA),0,Medium
+16-08-2019,de Havilland Canada DHC-8-200,5Y-SLM,SafariLink,Kichwa Tembo Airstrip,0,Medium
+18-08-2019,Cessna 208B Grand Caravan EX,N879MA,Mokulele Airlines,"Kapalua Airport, HI (JHM)",0,Medium
+18-08-2019,Boeing 757-251 (WL),N543US,Delta Air Lines,"Ponta Delgada-JoÃ£o Paulo II Airport, Azores (PDL)",0,Medium
+21-08-2019,Airbus A340-642,G-VFIT,Virgin Atlantic Airways,over Black Sea,0,Low
+21-08-2019,Cessna 750 Citation X,1060,Fuerza Aérea Venezolana - FAV,Caracas/La Carlota-Gen. Francisco de Miranda Air Base (SVFM),0,High
+21-08-2019,Cessna 208B Super Cargomaster,C-FEXE,Morningstar Air Express,"Vancouver International Airport, BC (YVR/CYVR)",0,Medium
+21-08-2019,Cessna 560XL Citation Excel,N91GY,Delta Private Jets,"Oroville Airport, CA (OVE)",0,High
+22-08-2019,Airbus A380-861,A6-EOP,Emirates,Dubai Airport (DXB),0,Medium
+23-08-2019,Antonov An-2T,OK-TIR,Club Tiroler Adler,Gmunden Airfield,0,Medium
+25-08-2019,Lockheed C-130A Hercules,N119TG,International Air Response,"Santa Barbara Airport, CA (SBA)",0,Medium
+26-08-2019,McDonnell Douglas MD-88,N911DL,Delta Air Lines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+27-08-2019,Airbus A320-251N,N328FR,Frontier Airlines,"near Denver, CO",0,Low
+27-08-2019,Airbus A330-343,B-5958,Air China,Beijing-Capital International Airport (PEK),0,Medium
+27-08-2019,Cessna 560XL Citation Excel,VT-AVV,Air Charter Services,Aligarh Airport,0,High
+28-08-2019,Cessna 525 CitationJet CJ1+,D-ICEY,Lenox Handels und Speditions GmbH,Egelsbach Airfield (EDFE),0,Medium
+28-08-2019,Antonov An-2R,RA-40389,private,"Selektsionny, Lgovsky district, Kursk region",0,Medium
+30-08-2019,Antonov An-2R,RA-33061,private,Lake Syuryun-Kyuel area,2,High
+31-08-2019,Cessna 510 Citation Mustang,N551WH,Star Jet LLC,"El Monte-San Gabriel Valley Airport, CA (EMT)",0,Medium
+01-09-2019,Airbus A330-202,5A-LAU,Libyan Airlines,Tripoli-Mitiga International Airport (MJI),0,Low
+01-09-2019,Beechcraft B300 King Air 350,RP-C2296,Lionair Inc.,"Pansol, Calamba, Laguna",9,High
+02-09-2019,British Aerospace BAe-125-700A,XB-PTW,private,near Nueva Cajolá,2,High
+05-09-2019,Cessna 560XLS+ Citation XLS+,OE-GES,Jet 24 GmbH,Milano-Malpensa Airport (MXP),0,Medium
+06-09-2019,Airbus A319-132,N515NK,Spirit Airlines,"Fort Myers, Florida",0,Low
+07-09-2019,ATR 72-600 (72-212A),HK-5041,"Regional Express Américas, opf Avianca",Manizales-La Nubia Airport (MZL),0,Medium
+09-09-2019,Airbus A319-112,D-AKNL,Eurowings,near Berlin,0,Low
+11-09-2019,Bombardier CRJ-701ER,N765SK,"Skywest Airlines, opf American Eagle","Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+11-09-2019,Bombardier CRJ-701ER,N710SK,"Skywest Airlines, opf American Eagle","Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+11-09-2019,Cessna 208 Supervan 900,D-FIDI,GoJump,near Gransee Airfield,1,High
+11-09-2019,Convair CV-440,N24DR,Ferreteria e Implementos San Francisco,"1 km ENE of Toledo-Express Airport, OH (TOL)",2,High
+16-09-2019,Cessna 208B Grand Caravan,PT-MHC,TwoFlex,"0,6 km W of Manaus-Eduardo Gomes International Airport, AM (MAO/SBEG)",0,High
+18-09-2019,Britten-Norman BN-2A-21 Islander,V6-03FM,Caroline Islands Air,"Ta Island Airstrip, Caroline Islands",0,High
+18-09-2019,Viking Air DHC-6 Twin Otter 400,PK-CDC,"Rimbun Air, opb Carpediem Aviation","10 km from Kampung Mamontoga, Hoeya District, Mimika Regency",4,High
+20-09-2019,Cessna 208B Grand Caravan,N895SF,private,"Pepperell Airport, MA",0,Medium
+23-09-2019,Britten-Norman BN-2A-27 Islander,VP-MNI,FlyMontserrat,Montserrat-John A. Osborne Airport (MNI),0,Medium
+23-09-2019,Cessna 208B Grand Caravan EX,5H-AAM,Auric Air,Seronera Airstrip (SEU),2,High
+24-09-2019,Cessna 208B Grand Caravan,YVO134,Gobernación del Estado Bolívar,San Salvador de Paúl Airstrip,0,Medium
+24-09-2019,Cessna 208 Caravan,1917,Department of Royal Rainmaking and Agricultural Aviation,Village no.9 Lum Sum Sai Yok District Kanchanaburi Province,2,High
+30-09-2019,Antonov An-12BK,UR-CKL,Cavok Air,Liverpool International Airport (LPL),0,Medium
+30-09-2019,Gulfstream American G-1159 Gulfstream II B,XB-PVO,private,"Blue Creek, Orange Walk",0,High
+01-10-2019,Boeing 777-31HER,A6-EBU,Emirates,near Batam Island,0,Low
+02-10-2019,Boeing B-17G Flying Fortress,N93012,The Collings Foundation,"Windsor Locks-Bradley International Airport, CT (BDL)",7,High
+04-10-2019,Antonov An-12BK,UR-CAH,Ukraine Air Alliance,"1,1 km SE of Lviv-Danylo Halytskyi International Airport (LWO)",5,Medium
+07-10-2019,Hawker 800XP,N86MN,Delta Private Jets,"Fort Myers-Southwest Florida International Airport, FL (RSW)",0,Medium
+07-10-2019,Honda HA-420 HondaJet,N166HJ,Pro by Air,"Charleston International Airport, SC (CHS)",0,Medium
+10-10-2019,Antonov An-72,EK-72903,Air Force of the Democratic Republic of the Congo,near Kole,8,High
+11-10-2019,de Havilland Canada DHC-6 Twin Otter 100,N166DH,Skydive Georgia,"Cedartown-Polk County Airport, GA",0,Medium
+11-10-2019,Fokker 50,5Y-IZO,Silverstone Air Services,near Nairobi-Wilson Airport (WIL),0,High
+12-10-2019,Embraer EMB-110P1 Bandeirante,C6-KMC,Pineapple Air,Nassau-Lynden Pindling International Airport (NAS/MYNN),0,Low
+12-10-2019,ATR 42-600,JA01JC,Japan Air Commuter,65 km north-northwest of Tanegashima Airport (TNE/RJFG),0,Low
+16-10-2019,Bombardier Global Express,N307KP,Elite Air Inc,"Augusta-Bush Field, GA (AGS/KAGS)",0,Low
+17-10-2019,Saab 2000,N686PA,PenAir - Peninsula Airways,"Unalaska-Tom Madsen Airport, AK (DUT)",1,Medium
+18-10-2019,Airbus CC-150 Polaris (A310-300),15001,Royal Canadian Air Force - RCAF,"Trenton Canadian Forces Base, ON (YTR)",0,Medium
+22-10-2019,Canadair CL-600-2B19 Regional Jet CRJ-200LR,N8837B,"Delta Connection, opb Endeavor Air","near Atlanta Hartsfield-Jackson International Airport, GA (ATL)",0,Medium
+22-10-2019,Basler BT-67 Turbo 67 (DC-3T),FAS116,Fuerza Aérea Salvadoreña,San Salvador/Ilopango International Airport (SAL),0,Medium
+25-10-2019,Rockwell Sabreliner 65,N465BC,private,"Sipacate, Escuintla",0,High
+25-10-2019,Beechcraft 200 Super King Air,others,private,"Palajuyú, Sipacate, Escuintla",0,Medium
+26-10-2019,de Havilland Canada DHC-3T/M601 Turbine Otter,C-GBTU,Blue Water Aviation Services,"Family Lake, Little Grand Rapids First Nation, MB",3,High
+26-10-2019,Airbus A330-341,PK-GPE,Garuda Indonesia Airways,near Banda Aceh (BTJ),0,Low
+27-10-2019,Gulfstream American G-1159 Gulfstream II SP,(N530GA),private,"Vista Hermosa, Ixcán",0,High
+27-10-2019,Let L-410UVP,YI-BYO,Abeer Air Services,Kolnyang County,0,High
+29-10-2019,de Havilland Canada DHC-8-402Q Dash 8,N402QX,Horizon Air,"near Boise, ID",0,Medium
+31-10-2019,Cessna 208B Super Cargomaster,N926FE,"Corporate Air, opf FedEx","Honolulu-Daniel K. Inouye International Airport, HI (HNL)",0,Low
+03-11-2019,Boeing 787-8 Dreamliner,N796AV,Avianca,near Barcelona,0,Low
+05-11-2019,Learjet 35A,XA-VBD,USMX AirLink,San Jose Cabo-Los Cabos Airport (SJD),0,Medium
+11-11-2019,Boeing 747-428ERF,TC-ACR,ACT Airlines,Istanbul-AtatÃ¼rk Airport (ISL/LTBA),0,Low
+11-11-2019,British Aerospace BAe-125-700A,(N237DX),private,Petén,0,High
+11-11-2019,Embraer EMB-145LR (ERJ-145LR),N619AE,"American Eagle, opb Envoy Air","Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+14-11-2019,Cessna 550 Citation II,PT-LTJ,José JoÃ£o Abdalla Filho,"Maraú-Barra Grande Airport, BA (SIRI)",5,High
+15-11-2019,Cessna 560 Citation Encore,N777HW,ETG Aviation LLC,"San Antonio International Airport, TX (SAT)",0,Medium
+15-11-2019,Cessna 525B CitationJet CJ3,N973CG,Pilot Point Consultancy LLC,"San Antonio International Airport, TX (SAT)",0,Medium
+16-11-2019,Bombardier CRJ-900,others,others,DÃ¼sseldorf International Airport (DUS/EDDL),0,Medium
+16-11-2019,Airbus A330-243,V5-ANO,Air Namibia,Frankfurt International Airport (FRA/EDDF),0,Low
+16-11-2019,Boeing 777-3B5ER,HL7204,Korean Air,Frankfurt International Airport (FRA/EDDF),0,Medium
+21-11-2019,Boeing 737-8F2 (WL),TC-JGZ,THY Turkish Airlines,Odessa-Central Airport (ODS),0,Medium
+21-11-2019,Gulfstream G150,TC-AEH,Tahe Havacilik,Odessa-Central Airport (ODS),0,Medium
+22-11-2019,Boeing 737-401,YV3012,Avior Airlines,Bogotá-Eldorado Airport (BOG/SKBO),0,Medium
+23-11-2019,Boeing 737-800,others,others,NÃ¼rnberg Airport (NUE/EDDN),0,Low
+23-11-2019,Beechcraft B200 King Air,(XB-PYB),private,Saint-Jean du Sud,0,High
+24-11-2019,Dornier 228-201,9S-GNH,Busy Bee Congo,1 km S of Goma Airport (GOM),27,High
+25-11-2019,de Havilland Canada DHC-8-311 Dash 8,9J-PZB,Proflight Air Services,near Lusaka,0,Medium
+25-11-2019,McDonnell Douglas MD-88,N975DL,Delta Air Lines,Atlanta Hartsfield - Jackson (ATL / KATL),0,Medium
+26-11-2019,Cessna 208B Grand Caravan,others,Tropicair,Gasmata,0,Low
+01-12-2019,British Aerospace BAe-125-700A,N949CL,private,"near El Picudo, San Andrés",0,High
+01-12-2019,Beechcraft B99 Airliner,C6-FER,Flamingo Air Charter,Black Point Airstrip (MYEB),0,Medium
+02-12-2019,British Aerospace BAe-125-700A,false reg.,private,near San Andrés Villa Seca,0,High
+03-12-2019,British Aerospace BAe-125-800A,N469RJ,Business Jet Managers Inc,"Detroit-Coleman A. Young International Airport, MI (DET)",0,Medium
+03-12-2019,Basler BT-67 Turbo 67 (DC-3T),C-FKAL,North Star Air,"0,5 km SW of Sachigo Lake Airport, ON (ZPB)",0,Medium
+04-12-2019,Beechcraft 200 Super King Air,others,private,"Sayaxché, Petén",2,High
+06-12-2019,British Aerospace BAe-125-800A,(N293WB),private,"0,4 km NW of Chan Chen, Corozal",0,High
+09-12-2019,Lockheed C-130H Hercules,990,Fuerza Aérea de Chile,520 km NW off King George Island,38,High
+09-12-2019,Cessna 208B Super Cargomaster,N4602B,Martinaire,"ca 11 km NE of Victoria Regional Airport, TX (VCT)",1,High
+10-12-2019,de Havilland Canada DHC-8-402Q Dash 8,ET-AQC,Ethiopian Airlines,Juba Airport (JUB),0,Medium
+15-12-2019,Airbus A330-202,VH-EBC,Qantas,"69 km south east Bathurst, NSW",0,Low
+15-12-2019,Embraer EMB-145LR,N648AE,"Piedmont Airlines, opf American Eagle","Philadelphia, Pennsylvania",0,Low
+15-12-2019,Grumman American G-1159 Gulfstream IISP,(XB-BZH),private,Quiché,0,High
+16-12-2019,Embraer ERJ-140LR,N805AE,"Envoy Air, opf American Eagle","Alexandria, Louisiana",0,Low
+16-12-2019,Airbus A330-243,EC-LQO,Air Europa,near Madrid-Barajas Adolfo Suárez Airport (MAD/LEMD),0,Low
+16-12-2019,Beechcraft 200 Super King Air,others,private,Sarteneja airstrip,0,High
+17-12-2019,Beechcraft B300 King Air 350,N160RW,Ritch Air LLC,"Visalia Airport, CA (VIS)",0,Medium
+18-12-2019,Embraer ERJ-190AR,N959UW,American Airlines,"Disputanta, Virginia",0,Low
+18-12-2019,Beechcraft 200 Super King Air,N72MM,WL Aviation LLC,"Fresno Yosemite International Airport, CA (FAT)",0,Medium
+18-12-2019,Cessna 525A CitationJet CJ2,C-GOJG,C-GHGR Holdings,"near Scottsbluff, NE",0,Medium
+18-12-2019,Beechcraft 200 Super King Air,others,private,"El Chico, Retalhuleu",0,High
+19-12-2019,Boeing 737-924ER (WL),N68802,United Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+19-12-2019,Beechcraft A100 King Air,YV1104,Representaciones Aero3,near Charallave-Ã“scar Machado Zuloaga Airport,9,High
+21-12-2019,Boeing 737-7BD (WL),N7739A,Southwest Airlines,"near Kansas City International Airport, MO (MCI)",0,Medium
+22-12-2019,Boeing 737-824 (WL),N87513,United Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Medium
+24-12-2019,Cessna 208B Grand Caravan,XA-TWN,Calafia Airlines,near Tastiota,2,High
+25-12-2019,Airbus A320-232 (WL),B-50001,Tigerair Taiwan,100 km NNE of Miyazaki Airport,0,Low
+27-12-2019,Cirrus SF50 Vision Jet,N52CV,private,"Santa Monica Airport, CA (SMO)",0,Medium
+27-12-2019,Fokker 100,UP-F1007,Bek Air,near Almaty Airport (ALA),12,High
+28-12-2019,Let L-410UVP-E,9S-GDX,Air Fast Congo,Kamina Airport (KMN),0,Medium
+29-12-2019,Cessna 560XL Citation XLS,LV-FQD,Sunny Sky,"6 km from Otamendi, BA",0,Medium
+01-01-2018,Airbus A319-111,G-EZII,Easyjet,80 nm NE of Barcelona Airport (LEBL),0,Low
+03-01-2018,Airbus A319-131,G-DBCA,British Airways,near Verona Villafranca,0,Low
+04-01-2018,Gulfstream G150,OE-GKA,Private Airlines Germany,KittilÃ¤ Airport (KTT),1,Medium
+05-01-2018,Boeing 737-8FH (WL),C-FPRP,Sunwing Airlines,"Toronto-Pearson International Airport, ON (YYZ)",0,Medium
+05-01-2018,Boeing 737-8CT (WL),C-FDMB,WestJet,"Torontoâ€“Lester B. Pearson International Airport, Ontario (YYZ)",0,Medium
+06-01-2018,Boeing 777-369ER,9K-AOC,Kuwait Airways,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",0,Medium
+06-01-2018,Antonov An-2TP,YV1944,Unknown,La Paragua Airport,0,High
+07-01-2018,Cessna 208B Grand Caravan,5Y-FDC,Unknown,Akobo Airport (HSAK),1,High
+09-01-2018,Embraer EMB-110P1 Bandeirante,C6-MIC,Pineapple Air,Governor's Harbour Airport (GHB),0,Medium
+10-01-2018,de Havilland Canada DHC-8-402Q Dash 8,SP-EQG,LOT Polskie Linie Lotnicze,Warszawa-Frédéric Chopin Airport (WAW/EPWA),0,Medium
+10-01-2018,Gulfstream G200,RP-C280,Air Taxi PH,Legazpi-Bicol International Airport (LGP),0,Medium
+10-01-2018,Fairchild SA227-AT Merlin IVC,N561UP,Ameriflight,"Rock Springs-Sweetwater County Airport, WY (RKS)",0,Medium
+13-01-2018,Boeing 737-82R (WL),TC-CPF,Pegasus Airlines,Trabzon Airport (TZX),0,Medium
+15-01-2018,Airbus A319-111,5A-ONC,Afriqiyah Airways,Tripoli-Mitiga International Airport (MJI),0,Medium
+16-01-2018,Antonov An-2,others,Kazakhstan Air Defence Force,near Zhetygen Air Base,0,High
+16-01-2018,British Aerospace BAe-748-347 Srs. 2A,S2-AAX,Bismillah Airlines,Jessore Airport (JSR),0,Medium
+17-01-2018,Embraer ERJ-190AR,5H-FJI,Fastjet,"Mwanza International Airport (HTMW), Mwanza",1,Low
+17-01-2018,IPTN/CASA CN-235M-100,98-148,TÃ¼rk Hava Kuvvetleri (Turkish Air Force),"Hodulluca Mevkii, YalvaÃ§ district",3,High
+18-01-2018,Convair CV-580F,XA-TRB,Air Tribe,"Brownsville-South Padre Island International Airport, TX (BRO)",0,Medium
+20-01-2018,Let L-410UVP,UR-VTV,Galeyr Airline,Mogadishu Aden Adde International Airport (MGQ),0,Medium
+25-01-2018,Airbus A320,others,Unknown,Berlin-SchÃ¶nefeld Airport (SXF/EDDB),0,Medium
+25-01-2018,Gulfstream G200,5N-BTF,Nestoil,Abuja-Nnamdi Azikiwe International Airport (ABV/DNAA),0,Medium
+29-01-2018,Shaanxi Y-8GX-3,30513,People's Liberation Army - Air Force - PLAAF,"Zhengchang, Suiyang County, Guizhou Province",12,High
+01-02-2018,Airbus A330-202,VH-...,Qantas,"Sydney-Kingsford Smith International Airport, NSW (SYD/YSSY)",0,Low
+04-02-2018,Raytheon Beechjet 400A,N570TM,"Travel Management, Inc","Cleveland-Burke Lakefront Airport, OH (BKL)",0,Medium
+10-02-2018,Boeing 737-8AS (WL),EI-EKI,Ryanair,Canaries airspace,0,Low
+11-02-2018,Antonov An-148-100B,RA-61704,Saratov Airlines,"near Stepanovskoye, Ramenskoye district",71,High
+13-02-2018,Airbus A330-223,N858NW,Delta Air Lines,Lagos-Murtala Muhammed International Airport (LOS/DNMM),0,Low
+16-02-2018,Fokker 100,EP-FQF,Qeshm Air,Mashhad Airport (MHD),0,Medium
+18-02-2018,ATR 72-212,EP-ATS,Iran Aseman Airlines,15 km NE of Yasuj Airport (YES),66,High
+20-02-2018,McDonnell Douglas MD-83,5N-SRI,Dana Air,Port Harcourt Airport (PHC),0,Medium
+21-02-2018,Cessna 208B Grand Caravan,G-BZAH,Army Parachute Association,Netheravon Airport (EGDN),0,Low
+23-02-2018,Beechcraft B100 King Air,C-GIAE,Island Express Air,"Abbotsford Airport, BC (YXX/CYXX)",0,Medium
+24-02-2018,Airbus A330-323,N817NW,Delta Air Lines,"Minneapolis, Minnesota",0,Low
+26-02-2018,Beechcraft A100 King Air,C-GJXF,Strait Air,"Havre-Saint-Pierre Airport, QC (YGV)",0,Medium
+28-02-2018,Airbus A320-214,ES-SAN,SmartLynx Airlines Estonia,Tallinn-Lennart Meri Airport (TLL),0,Medium
+01-03-2018,Beechcraft 200 Super King Air,YV1909,Unknown,Charallave-Ã“scar Machado Zuloaga Airport (SVCS),0,Medium
+04-03-2018,Boeing 737-322 (SF),9S-ASG,Serve Air,Lubumbashi International Airport (FBM),0,Medium
+06-03-2018,Antonov An-26,RF-92955/52,Russian Air Force,"0,5 km from Latakia-Khmeimim Air Base (LTK)",39,High
+10-03-2018,Learjet 31,N500MP,N500MP LLC,"Mount Pleasant Municipal Airport, MI (KMOP)",0,Medium
+11-03-2018,Bombardier CL-600-2B16 Challenger 604,TC-TRB,MC Aviation,130 km SW of Shahr-e Kurd,11,High
+12-03-2018,de Havilland Canada DHC-8-402Q Dash 8,S2-AGU,US-Bangla Airlines,Kathmandu-Tribhuvan Airport (KTM),51,High
+14-03-2018,Boeing 777-31HER,A6-EGU,Emirates,Entebbe Airport (EBB/HUEN),1,Low
+15-03-2018,Cessna 208 Caravan I,VH-PGA,West Coast Air Services,"Talbot Bay, WA",0,High
+15-03-2018,Beechcraft B200 Super King Air,YV3284 ?,Unknown,"near Blue Creek, Orange Walk Town",0,High
+16-03-2018,Beechcraft C99 Commuter,N213AV,Ameriflight,"Hastings Airport, NE (HSI)",0,Medium
+17-03-2018,Canadair CL-600-2B19 Regional Jet CRJ-200ER,C-FDJA,"Air Canada Express, opb Jazz Aviation","Montreal-Pierre Elliott Trudeau International Airport, QC (YUL)",0,Medium
+20-03-2018,de Havilland Canada DHC-6 Twin Otter 300,N716JP,Bald Mountain Air Services,"225 km N of Deadhorse, AK",0,Medium
+21-03-2018,Gulfstream V,N90JE,Peyton Holdings LLC,"Miami, Florida",0,Low
+22-03-2018,Airbus A320-232,VH-...,others,"near Cairns, QLD",0,Low
+23-03-2018,Boeing 737-8K5 (WL),OK-TVP,"SmartWings, opf Israir",Budapest Ferenc Liszt International Airport (BUD/LHBP),0,Low
+26-03-2018,CASA C-212 Aviocar 200,N107BH,Bighorn Airways,"Sheridan Airport, WY (SHR)",0,Medium
+27-03-2018,Airbus A319-111,G-EZMK,easyJet,Murcia-San Javier Airport (MJV),0,Medium
+28-03-2018,Boeing 767-3Q8ER,4X-EAK,El Al Israel Airlines,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),0,Medium
+28-03-2018,Boeing 737-76J (WL),D-ABLB,Germania,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),0,Medium
+29-03-2018,Beechcraft 99 Airliner,N31TN,Lake Clark Air,"Pilot Point Airport, AK (PIP)",0,Medium
+29-03-2018,ATR 42-500,XA-UAV,Aeromar,Mexico City-Benito Juárez International Airport (MEX),0,Medium
+29-03-2018,ATR 72-600 (72-212A),XA-UYY,Aeromar,Mexico City-Benito Juárez International Airport (MEX),0,Medium
+29-03-2018,Fairchild SA227-DC Metro 23,CP-2459,Línea Aérea Amaszonas,Riberalta-Capitán Av. Selin Zeitun Lopez Airport (RIB),0,Medium
+30-03-2018,Antonov An-12BK,UR-KDM,Cavok Air,Gao Airport (GAQ),0,Medium
+30-03-2018,Cessna 650 Citation III,N126MT,2M Leasing LLC,"Orlando-Central Florida Regional Airport, FL (SFB)",0,Medium
+31-03-2018,Cessna 208B Grand Caravan,N9339B,Skydive the Ranch,"near Gardiner Airport, NY",0,Medium
+02-04-2018,Cessna 525C Citation CJ4,N511AC,Avis Industrial Corporation,"Marion Municipal Airport, IN (MZZ)",2,Medium
+04-04-2018,Dassault Falcon 2000EX,XA-CDT,Unknown,"Houston-William P. Hobby Airport, TX (HOU)",0,High
+04-04-2018,Learjet 60,N759SH,Henning Aviation LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,High
+04-04-2018,Cessna 560XL Citation Excel,N900WL,MTC Enterprises LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,High
+04-04-2018,Learjet 40XR,N626FX,Union Gas Air Ventures I LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,High
+04-04-2018,Learjet 45XR,N618CW,ERG Holdings LLC,"Houston-William P. Hobby Airport, TX (HOU)",0,High
+09-04-2018,Beechcraft 200 Super King Air,LN-NOA,Airwing,Stavanger-Sola Airport (SVG),0,Medium
+09-04-2018,Boeing 737-9B5,HL7725,Korean Air,Osaka-Kansai International Airport (KIX),0,Medium
+11-04-2018,Cessna 208B Grand Caravan,N814GV,"Hageland Aviation Services, opf Ravn Connect","3,2 km N of Atqasuk Airport, AK (ATK)",0,Medium
+11-04-2018,Ilyushin Il-76TD,7T-WIV,Al Quwwat al-Jawwiya al-Jaza'eriya,near Boufarik Air Base,257,High
+12-04-2018,Cessna 208B Grand Caravan,5Y-SAV,Penial Air,"El Barde, Somalia - Wajir, Kenya",0,Medium
+13-04-2018,Lockheed P-3C Orion,158567,United States Navy,"near Omaha, NE",0,High
+14-04-2018,Antonov An-74-200,EK-74036,Ayk Avia,Akola village,0,Medium
+15-04-2018,Saab 340B,C-GTWK,Transwest Air,"Prince Albert Airport, SK (YPA)",0,Medium
+15-04-2018,de Havilland Canada DHC-6 Twin Otter 100,C-FSCA,Transwest Air,"Prince Albert Airport, SK (YPA)",0,Medium
+15-04-2018,Bombardier CL-600-2B16 Challenger 605,C-FXWT,Morningstar Partners Ltd.,"Winnipeg-James Armstrong Richardson International Airport, MB (YWG)",0,Medium
+15-04-2018,Cessna 550 Citation Bravo,N4AT,Private,"Winnipeg-James Armstrong Richardson International Airport, MB (YWG)",0,Medium
+15-04-2018,Cessna 525 CitationJet,N525P,private,"NW of Crozet, VA",1,High
+15-04-2018,Airbus A321-213,B-6555,Air China,Zhengzhou-Xinzheng International Airport (CGO),0,Low
+16-04-2018,Cessna 525 CitationJet CJ1,D-ISWA,Herbert Waldmann Lichttechnik GmbH & Co. KG,Le Touquet Airport (LTQ),0,Medium
+17-04-2018,de Havilland Canada DHC-8-402Q Dash 8,G-JECX,Flybe,Newquay-Cornwall Airport (NQY),0,Medium
+17-04-2018,Boeing 737-7H4 (WL),N772SW,Southwest Airlines,"105 km NW of Philadelphia, PA",1,Medium
+18-04-2018,Airbus A330-323,N806NW,Delta Air Lines,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",0,Medium
+20-04-2018,McDonnell Douglas MD-83,N807WA,World Atlantic Airlines,"Alexandria International Airport, LA (AEX)",0,Medium
+23-04-2018,Antonov An-2R,HA-MBJ,SZEMP Air Kft.,Eperjes area,0,Medium
+29-04-2018,Beechcraft 1900C,N172GA,Alpine Aviation,"Sioux Falls Regional Airport (Jo Foss Field), SD (FSD)",0,Medium
+29-04-2018,Lockheed L-100-30 Hercules,111,Libyan Air Force,2 km from Sharara Airstrip,3,High
+29-04-2018,Boeing 737-8GP (WL),PK-LOO,Lion Air,Gorontalo-Jalaluddin Airport (GTO),0,Medium
+30-04-2018,Boeing 737-8AS (WL),EI-GDZ,Ryanair,London-Stansted Airport (STN),0,Medium
+01-05-2018,Boeing 767-332ER (WL),N172DN,Delta Air Lines,"New York-John F. Kennedy International Airport, NY (JFK)",0,Low
+01-05-2018,Bombardier CRJ-900LR,N606LR,"Delta Connection, opb Endeavor Air","New York-John F. Kennedy International Airport, NY (JFK)",0,Medium
+02-05-2018,Boeing 737-8K5 (WL),OO-JAY,TUI fly Belgium,Marrakech-Menara Airport (RAK),0,Medium
+02-05-2018,Beechcraft C99 Commuter,PNC0203,Servicio Aéreo de Policia,near Ibagué,4,High
+02-05-2018,Lockheed WC-130H Hercules,65-0968,United States Air Force - USAF,"ca 2 km NE of Savannah/Hilton Head International Airport, GA (SAV)",9,High
+03-05-2018,Dassault Falcon 900EX,ZS-DEX,Blueport Trade 121 (Pty) Ltd.,Johannesburg/Germiston-Rand Airport (QRA),0,Medium
+04-05-2018,Cessna 525C Citation CJ4,EC-MOQ,Aluminios Cortizo,Santiago de Compostela Airport (SCQ),0,Medium
+05-05-2018,Embraer KC-390,PT-ZNF,Embraer,"GaviÃ£o Peixoto-Embraer Unidade Airport, SP (SBGP)",0,Medium
+07-05-2018,Boeing 737-8H4 (WL),N8655D,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport, MD (BWI)",0,Medium
+12-05-2018,Boeing 737-8BK (WL),P2-PXE,Air Niugini,Port Moresby-Jacksons International Airport (POM),0,Medium
+12-05-2018,Lockheed L-100-30 Hercules,N403LC,"Lynden Air Cargo, opf PNG Air",Port Moresby-Jacksons International Airport (POM),0,Medium
+13-05-2018,Cessna 208B Grand Caravan,G-KNYS,"Irish Parachute Club, lsf Parachuting Caravan Leasing","4,6 km NW of Clonbullogue Aerodrome",2,High
+13-05-2018,Airbus A330-323,HL7792,Asiana Airlines,Istanbul-AtatÃ¼rk International Airport (IST),0,Medium
+13-05-2018,Airbus A321-231,TC-JMM,THY Turkish Airlines,Istanbul-AtatÃ¼rk International Airport (IST),0,Medium
+15-05-2018,Cessna 208B Grand Caravan,others,private,near Tuzantán,2,High
+16-05-2018,Cessna 208B Grand Caravan,9N-AJU,Makalu Air,Bahun Khark,2,High
+18-05-2018,Boeing 737-201 Advanced,XA-UHZ,"Cubana de Aviación, lsf Global Air",1 km E of Havana-José Martí International Airport (HAV/MUHA),112,High
+20-05-2018,Gulfstream G200 Galaxy,B-8129,Star Jet,Yangzhou Taizhou International Airport (YTY),0,Medium
+21-05-2018,Airbus A330-243,TC-OCH,"Saudi Arabian Airlines, lsf Onur Air",Jeddah-King Abdulaziz International Airport (JED),0,Medium
+22-05-2018,Gulfstream G200 Galaxy,N813WM,Silver Air,Tegucigalpa-Toncontin Airport (TGU),0,High
+22-05-2018,Cessna 208B Grand Caravan,PT-FLW,Amazonaves Táxi Aéreo,"near Manaus-Aeroclube de Flores Airport, AM",0,High
+23-05-2018,Beechcraft 200 Super King Air,N800HA,Titan Drilling,Kolwezi Airport (KWZ),0,Medium
+23-05-2018,Beechcraft 200 Super King Air,N905GP,Air Katanga,Kolwezi Airport (KWZ),0,Low
+24-05-2018,Fairchild SA227-AC Metro III,XA-UPP,Aeronaves TSM,Saltillo-Plan de Guadalupe International Airport (SLW),0,Medium
+30-05-2018,Cessna 208B Grand Caravan,5Y-ETY,Asure Air,4 km from Obo-Mission Airstrip,0,Medium
+30-05-2018,Cessna 208B Grand Caravan,5X-MRH,"Air Serv Limited, opf UNHAS",Kamonia Airstrip,0,Medium
+03-06-2018,Lockheed C-130H Hercules,7T-WHT,Al Quwwat al-Jawwiya al-Jaza'eriya,near Biskra Airport (BSK),1,High
+05-06-2018,Cessna 208B Grand Caravan,5Y-CAC,Fly-SAX,14 km NE of Njabini,10,High
+06-06-2018,Antonov An-2R,YR-DAX,Aeroserv,"Baleni, Galati County",0,High
+06-06-2018,Cessna 525A CitationJet CJ2+,D-IULI,ProAir,Saint Tropez-La MÃ´le Airport (LTT),0,Medium
+09-06-2018,de Havilland Canada DHC-6 Twin Otter 300,9N-AEV,Tara Air,Jumla Airport (JUM),0,Medium
+10-06-2018,Boeing 777-223ER,N750AN,American Airlines,"Decatur, Texas",0,Low
+10-06-2018,Boeing 737-8AL (WL),N276EA,"Swiftair, opf Smartwings",Heraklion-N. Kazantzakis Airport (HER/LGIR),0,Medium
+10-06-2018,Boeing 787-9 Dreamliner,N826AN,American Airlines,near Harbin,0,Low
+10-06-2018,de Havilland Canada DHC-8-402Q Dash 8,C-FNEN,WestJet Encore,"SE of Kamloops, BC",0,Low
+10-06-2018,Gulfstream G-IV,N450MB,private,Panama City Albrook-Marcos A. Gelabert International Airport (PAC),0,Medium
+11-06-2018,Pilatus Britten-Norman BN-2B-26 Islander,VP-FBM,Falkland Islands Government Air Service - FIGAS,Beaver Island Airstrip,0,Medium
+11-06-2018,Airbus A340-313,D-AIFA,Lufthansa,Frankfurt International Airport (FRA/EDDF),0,Medium
+12-06-2018,Boeing 737-8H4 (WL),N8693A,Southwest Airlines,"Phoenix, Arizona",0,Low
+14-06-2018,McDonnell Douglas MD-83,UR-CPR,Bravo Airways,Kyiv-Igor Sikorsky International Airport (IEV),0,Medium
+14-06-2018,de Havilland Canada DHC-8-202Q Dash 8,P2-ANX,LinkPNG,Mendi Airport (MDU),0,High
+16-06-2018,Embraer ERJ-175LR,N637CZ,"Delta Connection, opb Compass Airlines","Cut Bank, Montana",0,Low
+18-06-2018,Cessna 208B Grand Caravan,PK-FSL,Spirit Avia Sentosa,"6,7 km E of Nabire Airport (NBX)",0,Medium
+21-06-2018,Embraer ERJ 170LR (ERJ-170-100 LR),N876RW,"Delta Connection, opb Republic Airlines","Columbus-John Glenn International Airport, OH (CMH)",0,Medium
+22-06-2018,Boeing 737-8JP (WL),LN-DYE,Norwegian,Alta Airport (ALF/ENAT),0,Low
+22-06-2018,de Havilland Canada DHC-6 Twin Otter 300,PK-HVU,Dimonim Air,Kenyam Airstrip,0,Low
+24-06-2018,Boeing 777-346,JA8944,Japan Airlines (JAL),over Kurihara City,0,Low
+24-06-2018,Let L-410UVP,3X-AAK,Eagle Air (Guinea),"Souguéta, Kindia",4,High
+25-06-2018,de Havilland Canada DHC-6 Twin Otter 300,PK-YRU,Trigana Air Service,Kenyam Airstrip,0,Low
+26-06-2018,Ilyushin Il-76,others,Islamic Republic of Iran Air Force - IRIAF,Damascus International Airport (DAM),0,High
+26-06-2018,Learjet 60,N57,Federal Aviation Administration - FAA,"Salt Lake City International Airport, UT (SLC)",0,Medium
+26-06-2018,Airbus A330-323,HL8286,Asiana Airlines,Seoul-Gimpo (Kimpo) International Airport (SEL),0,Low
+26-06-2018,Boeing 777-2B5ER,HL7764,Korean Air,Seoul-Gimpo (Kimpo) International Airport (SEL),0,Medium
+27-06-2018,Antonov An-2R,RA-62524,Feniks,"Nizhneudinsk, Irkutsk region",0,Medium
+30-06-2018,Airbus A330-323,N278AY,American Airlines,"120 nm NE of Gander, NL",0,Low
+30-06-2018,IRMA/Pilatus Britten-Norman BN-2A-26 Islander,V3-HFB,Maya Island Air,San Pedro Airport (SPR),0,Medium
+30-06-2018,Cessna 208 Caravan I,others,others,Illertissen,0,Low
+04-07-2018,Cessna 208B Grand Caravan,N208EE,Air Choice One,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Medium
+05-07-2018,Dornier 228-202,VH-VJN,GAM - General Aviation Maintenance,"Thangool Airport, QLD (THG)",0,Medium
+05-07-2018,Cessna 208B Grand Caravan,5Y-BUC,Flex Air Charters,"1,2 km from Padek Airstrip",0,Medium
+06-07-2018,ATR 72-600 (72-212A),CS-DJG,"TAP Express, opb White Airways",Fez-Sais Airport (FEZ),0,Medium
+09-07-2018,ATR 72-600 (72-212A),CN-COH,RAM Express,"2,6 km N off Al Hoceima-Charif Al Idrissi Airport (AHU)",0,Medium
+09-07-2018,de Havilland Canada DHC-3T Texas Turbine Otter,C-GBQC,Ookpik Aviation,"Parker Lake, NU",0,Medium
+10-07-2018,de Havilland Canada DHC-3T Vazar Turbine Otter,N3952B,Taquan Air,"Mount Jumbo, Prince of Wales Island, AK",0,Medium
+10-07-2018,Convair CV-340,ZS-BRV,Rovos Air,6 km ESE of Pretoria-Wonderboom Airport (PRY),1,High
+11-07-2018,Douglas DC-3C,HK-3293,Air Colombia,San Felipe Airport,0,Medium
+16-07-2018,Boeing 737-8EH (WL),PR-GGD,Gol Linhas Aéreas,"Belo Horizonte-Tancredo Neves International Airport, MG (CNF)",0,Medium
+16-07-2018,Boeing 737-8F2 (WL),LV-HQY,Flybondi,"Cataratas del Iguazú-M.C.E. Krause Airport, MI (IGR)",0,Medium
+16-07-2018,Curtiss C-46F-1-CU Commando,N1822M,Everts Air Fuel,"Manley Hot Springs Airport, AK (MLY)",0,Medium
+20-07-2018,Boeing 767-3Q8ER,C-FJZK,Air Canada Rouge,"140 nm SSE of Lovelock, NV",0,Low
+20-07-2018,Antonov An-26B,UP-AN611,Kazairtrans Airline,50 km from Al Alamain,0,High
+21-07-2018,Douglas C-47B (DC-3),N47HL,"Commemorative Air Force, Highland Lakes Squadron","Burnet Municipal Kate Craddock Field, TX",0,High
+22-07-2018,Cessna 750 Citation X,N752TX,Textron Inc.,Cork Airport (ORK/EICK),0,Medium
+23-07-2018,McDonnell Douglas MD-88,N918DE,Delta Air Lines,"Charlotte-Douglas International Airport, NC (CLT/KCLT)",0,Low
+23-07-2018,Airbus A319-114,N328NB,Delta Air Lines,"West Palm Beach, Florida",0,Low
+23-07-2018,Cessna 560 Citation Encore,N866VP,OzAir Charter Service,"near Tulsa International Airport, OK (TUL)",0,Medium
+26-07-2018,Boeing 757-204,UP-B5705,"Sunday Airlines, opf SCAT Airlines",Almaty Airport (ALA/UAAA),0,Medium
+27-07-2018,Boeing 767-38EER,N641GT,Atlas Air,"Portsmouth International Airport at Pease, NH (PSM)",0,Medium
+27-07-2018,Antonov An-2R,9S-GFS,Air Kasai,3 km E of Kamako Airstrip,5,High
+28-07-2018,IRMA/Britten-Norman BN-2A-27 Islander,YJ-AL2,Air Taxi Vanuatu,Port Vila-Bauerfield Airport (VLI),0,Medium
+28-07-2018,Britten-Norman BN-2A-8 Islander,YJ-OO9,Unity Airlines,Port Vila-Bauerfield Airport (VLI),0,High
+28-07-2018,ATR 72-500 (72-212A),YJ-AV71,Air Vanuatu,Port Vila-Bauerfield Airport (VLI),0,Medium
+30-07-2018,Antonov An-2SX,RA-40649,private,"Evenki district, Krasnoyarsk Krai",0,Medium
+31-07-2018,Boeing 757-223,N192AN,American Airlines,"Philadelphia International Airport, PA (PHL/KPHL)",0,Medium
+31-07-2018,Embraer ERJ 190AR,XA-GAL,Aeroméxico Connect,Durango-Guadalupe Victoria Airport (DGO),0,High
+01-08-2018,Beechcraft B300 King Air 350,N557AP,Atlantic Transportation of Wilmington LLC,"near Wilmington-New Hanover County International Airport, NC (ILM)",0,Medium
+03-08-2018,Shijiazhuang Y-5B(D),B-50AA,Heilongjiang Kunpeng General Aviation Co.,32 km E of Tongjiang,0,Medium
+04-08-2018,Junkers Ju-52/3mg4e,HB-HOT,Ju-Air,"1,2 km SW of Piz Segnas",20,High
+05-08-2018,Airbus A320-200,others,others,Venice-Marco Polo Airport (VCE/LIPZ),0,Low
+06-08-2018,Airbus A321-231,PT-MXA,LATAM Airlines Brasil,"Choró, CE",0,Low
+07-08-2018,Dassault Falcon 20D,N961AA,Alliance Air Charter,ca 3 km from San Luis Potosí Airport (SLP),0,Medium
+07-08-2018,Cessna 208B Grand Caravan,VT-UDN,Supreme Airlines,Lalgarh Airport,0,Medium
+09-08-2018,Boeing 777-3F2ER,TC-JJZ,THY Turkish Airlines,Istanbul-AtatÃ¼rk International Airport (IST),0,Medium
+09-08-2018,Boeing 787-8 Dreamliner,CN-RGT,Royal Air Maroc - RAM,Istanbul-AtatÃ¼rk International Airport (IST),0,Medium
+10-08-2018,de Havilland Canada DHC-8-402Q Dash 8,N449QX,"Horizon Air, opf Alaska Airlines","Ketron Island, WA",1,High
+13-08-2018,Airbus A321-271N,N204HA,Hawaiian Airlines,"Los Angeles International Airport, CA (LAX)",0,Medium
+13-08-2018,Cessna 525 CitationJet,N526CP,Vancon Holdings,"Payson, UT",1,High
+15-08-2018,Boeing 777-367ER,B-KPY,Cathay Pacific Airways,Roma-Fiumicino Airport (FCO),0,Medium
+16-08-2018,Boeing 737-85C (WL),B-5498,Xiamen Airlines,Manila-Ninoy Aquino International Airport (MNL),0,Medium
+19-08-2018,de Havilland Canada DHC-8-402Q Dash 8,N404AV,LC Perú,Lima-Jorge Chávez International Airport (LIM),0,Medium
+19-08-2018,Antonov An-2T,D-FOJB,OstthÃ¼ringer Fallschirmsportclub - OFC,Gera-Leumnitz Airfield (EDAJ),0,Medium
+24-08-2018,Boeing 757-2Q8 (WL),EI-LBT,Aer Lingus,"Philadelphia International Airport, PA (PHL/KPHL)",0,Low
+25-08-2018,Grumman HU-16C Albatross,N1955G,Stargazer Aero,"680 km WNW off Cape Hatteras, NC",0,High
+26-08-2018,Harbin Y-12E,HK-5036,SATENA,Santafé del Caguán,0,Medium
+26-08-2018,Boeing 767-333ER (WL),C-FMWV,Air Canada Rouge,"31 km N of Vancouver International Airport, BC (YVR)",0,Medium
+26-08-2018,Cessna 208B Grand Caravan,5Y-BOP,Bush Air Safaris,Pieri Airstrip,0,Medium
+27-08-2018,Airbus A320-214 (WL),JA14VA,Vanilla Air,45 KM East of Miyazaki Airport,0,Low
+28-08-2018,Antonov An-2R,LZ-1409,Air Mizia,near Brusartsi,0,Medium
+28-08-2018,Airbus A320-214,B-6952,Beijing Capital Airlines,Macau Airport (MFM),0,Medium
+30-08-2018,de Havilland Canada DHC-6 Twin Otter 300,ET-AIU/808,Ethiopian Air Force,near Mojo,18,High
+31-08-2018,Cessna 680 Citation Sovereign,TC-OYD,Boydak Air,Bourgas Airport (BOJ),0,Medium
+01-09-2018,Boeing 737-8AS (WL),VQ-BJI,Utair,Adler/Sochi Airport (AER),0,High
+03-09-2018,Beechcraft B200 Super King Air,N97WC,West Coast Aviation Services,"Burbank-Bob Hope Airport, CA (BUR)",0,Medium
+06-09-2018,Boeing 757-223 (WL),N173AN,American Airlines,"near New York, NY",0,Low
+06-09-2018,Beechcraft A100 King Air,PT-LJN,VOAR AviaÃ§Ã£o,"Itapaci, GO",0,Medium
+09-09-2018,Let L-410UVP,UR-TWO,"South West Aviation, lsf Slav-Air","1,6 km W of Yirol Airstrip",20,High
+10-09-2018,Boeing 737-823 (WL),N950NN,American Airlines,"Phoenix-Sky Harbor International Airport, AZ (PHX/KPHX)",0,Low
+15-09-2018,Boeing 777-333ER,C-FNNW,Air Canada,NE of Nova Scotia,0,Low
+15-09-2018,Canadair CL-215-6B11 (CL-415),C-FOFI,Government of Newfoundland and Labrador,"Whitehead Pond, NL",0,Medium
+16-09-2018,Boeing 777-328ER,F-GSQL,Air France,Mauritius-Sir Seewoosagur Ramgoolam International Airport (MRU/FIMP),0,Low
+16-09-2018,Boeing 747-428FER,TC-ACM,"Saudi Arabian Airlines, lsf ACT Airlines",Frankfurt International Airport (FRA/EDDF),0,Medium
+17-09-2018,Ilyushin Il-20M,RF-93610,Russian Air Force,35 km W off Latakia-Khmeimim Air Base (LTK),15,High
+17-09-2018,Airbus A320-216,HS-ABI,Thai AirAsia,Bangkok-Don Muang International Airport (DMK/VTBD),0,Medium
+18-09-2018,Antonov An-2R,YU-BRK,STS Aviatsija,near Jagodina,0,Medium
+18-09-2018,British Aerospace BAe-125-700A,N109BG,Starjet Inc.,"Santa Fe Airport, NM (SAF)",0,Medium
+20-09-2018,Embraer EMB-120ER Brasilia,N233SW,Berry Aviation,"south of Lake Jackson, TX",0,Medium
+23-09-2018,Boeing 757-224 (WL),N13113,United Airlines,"Newark Liberty International Airport, NJ (ERW/KEWR)",0,Low
+24-09-2018,Honda HA-420 HondaJet,PR-TLZ,América Latina Tecnologia Agrícola - ALTA,"Foz do IguaÃ§u/Cataratas Airport, PR (IGU/SBFI)",0,Medium
+24-09-2018,Airbus A340-313,RP-C3435,Philippine Air Lines,"Vancouver International Airport, BC (YVR/CYVR)",0,Medium
+25-09-2018,Beechcraft 200 Super King Air,N241CK,Kalitta Charters,"6,4 km SW of Oscoda Wurtsmith Airport, MI",1,High
+26-09-2018,Airbus A321-231 (WL),N994AN,American Airlines,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",0,Low
+27-09-2018,Airbus A310-304,C-GFAT,Air Transat,over North Atlantic Ocean,0,Low
+27-09-2018,Cessna 208B Supervan 900,VH-FAY,CGG Aviation Australia,"120 km E off Sendai, Japan",1,High
+27-09-2018,Dassault Falcon 50,N114TD,Air America Flight Services,"Greenville Downtown Airport, SC (GMU)",2,Medium
+28-09-2018,Airbus A320-232,PT-MZJ,LATAM Airlines Brasil,"SÃ£o Paulo-Congonhas Airport, SP (CGH)",0,Medium
+28-09-2018,Boeing 737-8BK (WL),P2-PXE,Air Niugini,"0,5 km from Chuuk/Weno International Airport (TKK)",1,Medium
+01-10-2018,Antonov An-2T,YV1719,Inversiones Moraima,42 km SE of Uriman,0,Medium
+03-10-2018,Beechcraft 1900C,N575Q,"Ravn Connect, opb Frontier Flying Service","Gambell Airport, AK (GAM)",0,Medium
+03-10-2018,Antonov An-26,7706,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),Khartoum Airport (KRT),0,High
+03-10-2018,Antonov An-32A,7721,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),Khartoum Airport (KRT),0,High
+08-10-2018,Boeing 747-4D7,HS-TGF,Thai Airways International,Bangkok-Suvarnabhumi International Airport (BKK/VTBS),0,Medium
+09-10-2018,Boeing 737-7H4 (WL),N287WN,Southwest Airlines,"Nashville International Airport, TN (BNA/KBNA)",0,Low
+10-10-2018,Cessna 208B Grand Caravan EX,PK-JBR,Jhonlin Air Transport,Beoga Airstrip,0,Medium
+10-10-2018,Sukhoi Superjet 100-95B,RA-89011,Yakutia Airlines,Yakutsk Airport (YKS),0,Medium
+11-10-2018,Boeing 737-7H4 (WL),N734SA,Southwest Airlines,"San Jose, California",0,Low
+12-10-2018,Airbus A319-112,N926FR,Frontier Airlines,"Denver International Airport, CO (DEN/KDEN)",0,Low
+12-10-2018,ATR 72-202,5N-BPE,Overland Airways,Lagos-Murtala Muhammed International Airport (LOS),0,High
+12-10-2018,Boeing 737-8HG (WL),VT-AYD,Air India Express,Tiruchirappalli-Civil Airport (TRZ),0,Medium
+15-10-2018,Boeing 737-7L9 (WL),N7816B,Southwest Airlines,"Albany, New York",0,Low
+15-10-2018,Boeing 777-337ER,VT-ALN,Air India,Mumbai-Chhatrapati Shivaji International Airport (BOM/VABB),0,Low
+29-10-2018,Boeing 737 MAX 8,PK-LQP,Lion Air,15 km N off Tanjung Bungin,189,High
+31-10-2018,Airbus A330-323,N817NW,Delta Air Lines,Paris-Charles de Gaulle Airport (CDG),0,Medium
+31-10-2018,Airbus A330-203,F-GZCI,Air France,Paris-Charles de Gaulle Airport (CDG),0,Medium
+07-11-2018,Boeing 747-412F,N908AR,Sky Lease Cargo,"Halifax-Stanfield International Airport, NS (YHZ/CYHZ)",0,Medium
+08-11-2018,Antonov An-2R,RA-84674,2nd Arkhangelsk United Aviation Division,50 km NE of Arkhangelsk-Talaghy Airport (ARH),0,High
+09-11-2018,Lockheed C-130E Hercules,4180,Pakistan Air Force,Chaklala-PAF Base Nur Khan (RWP),0,High
+09-11-2018,Boeing 757-23N,N524AT,Fly Jamaica Airways,Georgetown-Cheddi Jagan International Airport (GEO),1,Medium
+11-11-2018,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCJ,Air Astana,NE of Lisbon,0,Medium
+12-11-2018,Hawker Siddeley HS-125-700A,N406J,Songbird Aviation LLC,"Winder-Barrow County Airport, GA (WDR)",0,Medium
+15-11-2018,de Havilland Canada DHC-8-315Q Dash 8,C-FPAE,PAL Airlines,"Stephenville International Airport, NL (YJT)",0,Medium
+16-11-2018,British Aerospace 3212 Jetstream 32,HK-4394,SARPA - Servicios Aéreos Panamericanos,Bahía Solano-José Celestino Mutis Airport (BSC),0,Medium
+20-11-2018,Boeing 737-8LJ (WL),VP-BCG,Aeroflot,Moskva-Sheremetyevo Airport (SVO/UUEE),1,Low
+21-11-2018,Fairchild SA227-AC Metro III,C-FYAG,Perimeter Aviation,"Deer Lake Airport, ON (YVZ)",0,Medium
+22-11-2018,Boeing 737-53C,OB-2041-P,Peruvian Airlines,La Paz-El Alto Airport (LPB),0,Medium
+24-11-2018,ATR 72-500 (72-212A),AP-BKW,Pakistan International Airlines - PIA,Karachi-Jinnah International Airport (KHI),0,Medium
+26-11-2018,Cessna 525 Citation M2,PP-OEG,ARG Ltda.,"near Jequitaí-Fazenda Fortaleza de Santa Terezinha Airport, MG",4,High
+30-11-2018,Cessna 550 Citation II,N941JM,"Dirt Dynamics, Inc.","Fargo-Hector International Airport, ND (FAR)",0,Medium
+30-11-2018,Cessna 525A CitationJet CJ2+,N525EG,Estoair LLC,"4 km WSW of Memphis, IN",3,High
+01-12-2018,Airbus A320-232 (WL),N632NK,Spirit Airlines,"near Las Vegas, NV",0,Low
+01-12-2018,Bombardier CRJ-200LR,N202PS,PSA Airlines,"New York-La Guardia Airport, NY (LGA)",0,Medium
+03-12-2018,Hawker 800XP,4X-CUZ,Arrow Aviation Ltd.,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),0,Medium
+03-12-2018,Boeing 737-823 (WL),N868NN,American Airlines,"Chicago-O'Hare International Airport, IL (ORD/KORD)",0,Low
+04-12-2018,Boeing 767-332ER (WL),N193DN,Delta Air Lines,"SUNNS intersection, Osaka",0,Low
+04-12-2018,Airbus A320-214,SX-EMY,Ellinair,Athens-Elefthérios Venizélos International Airport (ATH/LGAV),0,Medium
+06-12-2018,Lockheed Martin KC-130J,167981,United States Marine Corps,"100 km SSE off Muroto Cape, Japan",5,High
+08-12-2018,Airbus A320-232 (WL),HS-TXQ,Thai Smile,near Bangkok-Suvarnabhumi International Airport (BKK/VTBS),0,Low
+08-12-2018,Beechcraft 200 Super King Air,VH-ODI,Desert-Air Safaris,"Mount Gambier Airport, SA (MGB)",0,Medium
+08-12-2018,Beechcraft 200 Super King Air,others,Unknown,"Corozo, Sarstún",0,High
+08-12-2018,Pilatus Britten-Norman BN-2A-20 Islander,VH-OBL,Par-Avion,"101 km WSW of Hobart, TAS",1,High
+10-12-2018,Airbus A300B4-203 (F),XA-MRC,AeroUnion - Aerotransporte de Carga Union,Mexico City-Benito Juárez International Airport (MEX),0,Medium
+11-12-2018,Boeing 777-333ER,C-FITW,Air Canada,Hong Kong-Chek Lap Kok International Airport (HKG/VHHH),0,Medium
+15-12-2018,Learjet 35A,N55FN,Med Air LLC,"Key West International Airport, FL (EYW)",0,Medium
+18-12-2018,Boeing 787-9 Dreamliner,ET-AUP,Ethiopian Airlines,Oslo-Gardermoen Airport (OSL),0,Medium
+18-12-2018,Dornier 228-201,S9-AUN,Africa's Connection STP,SÃ£o Tomé Island Airport (TMS/FPST),0,Medium
+20-12-2018,Antonov An-26B,9S-AGB,Gomair,ca 37 km from Kinshasa-N'Djili Airport (FIH),7,High
+20-12-2018,Cessna 560 Citation V,N188CW,Chen Aircrafts LLC,"2 km NE of Atlanta-Fulton County Airport, GA (FTY)",4,High
+22-12-2018,PZL-Mielec M28 Skytruck,GNB-96107,Guardia Nacional Bolivariana de Venezuela - GNBV,Kamarata Airport (KTV),0,Medium
+24-12-2018,Antonov An-26B,9T-TAB,Air Force of the Democratic Republic of the Congo,Beni Airport (BNC),0,High
+31-12-2018,Boeing 757-2B7 (WL),N938UW,American Airlines,"Charlotte-Douglas International Airport, NC (CLT/KCLT)",0,Medium
