@@ -9,20 +9,27 @@ st.title("✈️ Flight Crash Analysis Dashboard")
 csv_path = "data/flight_crash_data.csv"  # adjust if needed
 
 try:
-    # Load CSV without headers
-    df = pd.read_csv(csv_path, header=None)
+    # Read CSV with proper handling of quotes and commas inside fields
+    df = pd.read_csv(
+        csv_path,
+        sep=",",
+        quotechar='"',
+        engine="python"
+    )
 except FileNotFoundError:
     st.error("CSV file not found. Please check the file path.")
     st.stop()
+except pd.errors.ParserError as e:
+    st.error(f"Error parsing CSV: {e}")
+    st.stop()
 
-# ----------------- Manually Assign Column Names -----------------
+# ----------------- Assign Column Names -----------------
 expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
-
 if df.shape[1] == len(expected_cols):
     df.columns = expected_cols
 else:
-    st.warning(f"CSV has {df.shape[1]} columns, expected {len(expected_cols)}. Assigning manually to first {df.shape[1]} columns.")
-    df.columns = expected_cols[:df.shape[1]]  # assign as many as possible
+    st.warning(f"CSV has {df.shape[1]} columns, expected {len(expected_cols)}. Assigning first {df.shape[1]} names.")
+    df.columns = expected_cols[:df.shape[1]]
 
 # Clean column names
 df.columns = df.columns.str.strip().str.lower()
