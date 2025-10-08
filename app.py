@@ -9,79 +9,90 @@ st.title("✈️ Flight Crash Analysis Dashboard")
 csv_path = "data/flight_crash_data.csv"  # adjust if needed
 
 try:
-    # Try reading CSV with headers first
-    df = pd.read_csv(csv_path)
-    df.columns = df.columns.str.strip().str.lower()
-    
-    expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
-    if not all(col in df.columns for col in expected_cols):
-        raise ValueError("Some expected columns are missing; trying without headers...")
-except (FileNotFoundError, ValueError):
-    try:
-        # Read CSV assuming no header and assign column names manually
-        df = pd.read_csv(csv_path, header=None)
-        df.columns = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
-        st.info("Loaded CSV without headers and assigned default column names.")
-    except FileNotFoundError:
-        st.error("CSV file not found. Please check the file path.")
-        st.stop()
+    # Load CSV without headers
+    df = pd.read_csv(csv_path, header=None)
+except FileNotFoundError:
+    st.error("CSV file not found. Please check the file path.")
+    st.stop()
+
+# ----------------- Manually Assign Column Names -----------------
+expected_cols = ["date", "type", "reg", "operator", "fat", "location", "dmg_level"]
+
+if df.shape[1] == len(expected_cols):
+    df.columns = expected_cols
+else:
+    st.warning(f"CSV has {df.shape[1]} columns, expected {len(expected_cols)}. Assigning manually to first {df.shape[1]} columns.")
+    df.columns = expected_cols[:df.shape[1]]  # assign as many as possible
+
+# Clean column names
+df.columns = df.columns.str.strip().str.lower()
 
 # ----------------- Parse Date Column -----------------
-df["date"] = pd.to_datetime(df["date"], errors="coerce", dayfirst=True)
-if df["date"].isna().any():
-    st.warning("Some dates could not be parsed and are set as NaT.")
+if "date" in df.columns:
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", dayfirst=True)
+    if df["date"].isna().any():
+        st.warning("Some dates could not be parsed and are set as NaT.")
+else:
+    st.warning("'date' column not found in CSV.")
 
 # ----------------- Sidebar Filters -----------------
 st.sidebar.header("🔍 Filters")
 
 # Operator filter
-operators = ["All"] + sorted(df["operator"].dropna().unique().tolist())
-selected_operator = st.sidebar.selectbox("Operator", operators)
-if selected_operator != "All":
-    df = df[df["operator"] == selected_operator]
+if "operator" in df.columns:
+    operators = ["All"] + sorted(df["operator"].dropna().unique().tolist())
+    selected_operator = st.sidebar.selectbox("Operator", operators)
+    if selected_operator != "All":
+        df = df[df["operator"] == selected_operator]
 
 # Damage Level filter
-dmg_levels = ["All"] + sorted(df["dmg_level"].dropna().unique().tolist())
-selected_dmg = st.sidebar.selectbox("Damage Level", dmg_levels)
-if selected_dmg != "All":
-    df = df[df["dmg_level"] == selected_dmg]
+if "dmg_level" in df.columns:
+    dmg_levels = ["All"] + sorted(df["dmg_level"].dropna().unique().tolist())
+    selected_dmg = st.sidebar.selectbox("Damage Level", dmg_levels)
+    if selected_dmg != "All":
+        df = df[df["dmg_level"] == selected_dmg]
 
 # Year filter
-df["year"] = df["date"].dt.year
-years = ["All"] + sorted(df["year"].dropna().unique().astype(int).tolist())
-selected_year = st.sidebar.selectbox("Year", years)
-if selected_year != "All":
-    df = df[df["year"] == int(selected_year)]
+if "date" in df.columns:
+    df["year"] = df["date"].dt.year
+    years = ["All"] + sorted(df["year"].dropna().unique().astype(int).tolist())
+    selected_year = st.sidebar.selectbox("Year", years)
+    if selected_year != "All":
+        df = df[df["year"] == int(selected_year)]
 
 # ----------------- Summary Metrics -----------------
 st.subheader("📊 Summary Metrics")
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Crashes", len(df))
-col2.metric("Total Fatalities", int(df["fat"].sum()))
-col3.metric("Unique Operators", df["operator"].nunique())
-col4.metric("Unique Aircraft Types", df["type"].nunique())
+col2.metric("Total Fatalities", int(df["fat"].sum()) if "fat" in df.columns else 0)
+col3.metric("Unique Operators", df["operator"].nunique() if "operator" in df.columns else 0)
+col4.metric("Unique Aircraft Types", df["type"].nunique() if "type" in df.columns else 0)
 
 # ----------------- Interactive Charts -----------------
 st.subheader("📈 Crash Analysis")
 
 # 1. Crashes by Aircraft Type
-fig_type = px.histogram(df, x="type", title="Crashes by Aircraft Type", color="type")
-st.plotly_chart(fig_type, use_container_width=True)
+if "type" in df.columns:
+    fig_type = px.histogram(df, x="type", title="Crashes by Aircraft Type", color="type")
+    st.plotly_chart(fig_type, use_container_width=True)
 
 # 2. Crashes by Damage Level
-fig_dmg = px.histogram(df, x="dmg_level", title="Crashes by Damage Level", color="dmg_level")
-st.plotly_chart(fig_dmg, use_container_width=True)
+if "dmg_level" in df.columns:
+    fig_dmg = px.histogram(df, x="dmg_level", title="Crashes by Damage Level", color="dmg_level")
+    st.plotly_chart(fig_dmg, use_container_width=True)
 
 # 3. Fatalities over Time
-fig_fat = px.line(df.groupby("date")["fat"].sum().reset_index(),
-                  x="date", y="fat", title="Fatalities Over Time")
-st.plotly_chart(fig_fat, use_container_width=True)
+if "date" in df.columns and "fat" in df.columns:
+    fig_fat = px.line(df.groupby("date")["fat"].sum().reset_index(),
+                      x="date", y="fat", title="Fatalities Over Time")
+    st.plotly_chart(fig_fat, use_container_width=True)
 
 # 4. Crashes by Location (Top 10)
-top_locations = df["location"].value_counts().nlargest(10).reset_index()
-top_locations.columns = ["location", "count"]
-fig_loc = px.bar(top_locations, x="location", y="count", title="Top 10 Crash Locations", color="location")
-st.plotly_chart(fig_loc, use_container_width=True)
+if "location" in df.columns:
+    top_locations = df["location"].value_counts().nlargest(10).reset_index()
+    top_locations.columns = ["location", "count"]
+    fig_loc = px.bar(top_locations, x="location", y="count", title="Top 10 Crash Locations", color="location")
+    st.plotly_chart(fig_loc, use_container_width=True)
 
 # ----------------- Raw Data Display -----------------
 st.subheader("📋 Raw Data")
