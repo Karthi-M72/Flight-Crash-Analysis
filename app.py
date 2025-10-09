@@ -1,108 +1,125 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
-st.set_page_config(page_title="Flight Crash Analysis", layout="wide")
-st.title("✈️ Flight Crash Analysis Dashboard")
+# -------------------------------------------------
+# CONFIG
+# -------------------------------------------------
+st.set_page_config(page_title="Flight Crash Dashboard", layout="wide")
+st.title("✈️ Flight Crash Dashboard (Interactive Replica)")
 
-# ----------------- Load Data -----------------
-csv_path = "data/flight_crash_data.csv"
+DATA_PATH = "data/flight_crash_data.csv"
 
-try:
-    df = pd.read_csv(csv_path, sep="\t", engine="python")
-except FileNotFoundError:
-    st.error("CSV file not found. Please check the file path.")
+# -------------------------------------------------
+# LOAD DATA
+# -------------------------------------------------
+if not os.path.exists(DATA_PATH):
+    st.error("❌ No dataset found at data/flight_crash_data.csv.")
     st.stop()
-except pd.errors.ParserError as e:
-    st.error(f"Error parsing CSV: {e}")
-    st.stop()
 
-# ----------------- Normalize Columns -----------------
-df = df.rename(columns={"fatalities": "fat", "damage_level": "dmg_level"})
+df = pd.read_csv(DATA_PATH)
 df.columns = df.columns.str.strip().str.lower()
 
-# ----------------- Clean Data -----------------
-# Strip whitespace and normalize text columns
-for col in ["type", "operator", "dmg_level", "location"]:
-    if col in df.columns:
-        df[col] = df[col].astype(str).str.strip().str.title()
+# Ensure consistency
+df.rename(columns={
+    "type": "aircraft_type",
+}, inplace=True)
 
-# Ensure numeric columns
-df["fat"] = pd.to_numeric(df["fat"], errors="coerce").fillna(0)
+# Parse date + year
+df["date"] = pd.to_datetime(df["date"], errors="coerce", dayfirst=True)
+df["year"] = df["date"].dt.year
 
-# Parse date
-if "date" in df.columns:
-    df["date"] = pd.to_datetime(df["date"], dayfirst=True, errors="coerce")
-    if df["date"].isna().any():
-        st.warning("Some dates could not be parsed and are set as NaT.")
+# Normalize text columns
+df["damage_level"] = df["damage_level"].str.capitalize().fillna("Unknown")
+df["operator"] = df["operator"].fillna("Unknown")
+df["fatalities"] = pd.to_numeric(df["fatalities"], errors="coerce").fillna(0)
 
-# ----------------- Sidebar Filters -----------------
-st.sidebar.header("🔍 Filters")
-
-# Operator filter
-if "operator" in df.columns:
-    operators = ["All"] + sorted(df["operator"].dropna().unique())
-    selected_operator = st.sidebar.selectbox("Operator", operators)
-    if selected_operator != "All":
-        df = df[df["operator"] == selected_operator]
-
-# Damage Level filter
-if "dmg_level" in df.columns:
-    dmg_levels = ["All"] + sorted(df["dmg_level"].dropna().unique())
-    selected_dmg = st.sidebar.selectbox("Damage Level", dmg_levels)
-    if selected_dmg != "All":
-        df = df[df["dmg_level"] == selected_dmg]
-
-# Year filter
-if "date" in df.columns:
-    df["year"] = df["date"].dt.year
-    years = ["All"] + sorted(df["year"].dropna().unique().astype(int))
-    selected_year = st.sidebar.selectbox("Year", years)
-    if selected_year != "All":
-        df = df[df["year"] == int(selected_year)]
-
-# Warn if no data after filters
-if df.empty:
-    st.warning("No data available for the selected filters.")
-
-# ----------------- Summary Metrics -----------------
-st.subheader("📊 Summary Metrics")
+# -------------------------------------------------
+# KPIs
+# -------------------------------------------------
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Total Crashes", len(df))
-col2.metric("Total Fatalities", int(df["fat"].sum()) if "fat" in df.columns else 0)
-col3.metric("Unique Operators", df["operator"].nunique() if "operator" in df.columns else 0)
-col4.metric("Unique Aircraft Types", df["type"].nunique() if "type" in df.columns else 0)
+col1.metric("Total Accidents", f"{len(df):,}")
+col2.metric("Total Fatalities", f"{int(df['fatalities'].sum()):,}")
+col3.metric("Unique Operators", f"{df['operator'].nunique():,}")
+col4.metric("Max Fatalities (Single Accident)", f"{int(df['fatalities'].max())}")
 
-# ----------------- Interactive Charts -----------------
-st.subheader("📈 Crash Analysis")
+# -------------------------------------------------
+# SIDEBAR FILTERS
+# -------------------------------------------------
+with st.sidebar:
+    st.header("🧭 Filters")
+    years = st.multiselect("Year(s)", sorted(df["year"].dropna().unique()),
+                           default=sorted(df["year"].dropna().unique()))
+    dmg = st.multiselect("Damage Level(s)", sorted(df["damage_level"].unique()),
+                         default=sorted(df["damage_level"].unique()))
+    ops = st.multiselect("Operator(s)", sorted(df["operator"].unique())[:20])
 
-# 1. Crashes by Aircraft Type
-if "type" in df.columns and not df.empty:
-    fig_type = px.histogram(df, x="type", title="Crashes by Aircraft Type", color="type")
-    st.plotly_chart(fig_type, use_container_width=True)
+filtered = df[df["year"].isin(years) & df["damage_level"].isin(dmg)]
+if ops:
+    filtered = filtered[filtered["operator"].isin(ops)]
 
-# 2. Crashes by Damage Level
-if "dmg_level" in df.columns and not df.empty:
-    fig_dmg = px.histogram(df, x="dmg_level", title="Crashes by Damage Level", color="dmg_level")
-    st.plotly_chart(fig_dmg, use_container_width=True)
+# -------------------------------------------------
+# CHARTS
+# -------------------------------------------------
 
-# 3. Fatalities over Time
-if "date" in df.columns and "fat" in df.columns and not df.empty:
-    df_time = df.groupby("date")["fat"].sum().reset_index()
-    fig_fat = px.line(df_time, x="date", y="fat", title="Fatalities Over Time")
-    st.plotly_chart(fig_fat, use_container_width=True)
+# 1️⃣ Accidents Over Time
+st.subheader("📅 Accidents Over Time")
+acc_by_year = filtered.groupby("year").size().reset_index(name="accidents")
+fig1 = px.bar(acc_by_year, x="year", y="accidents",
+              title="Yearly Accident Count",
+              labels={"year": "Year", "accidents": "Number of Accidents"},
+              color="accidents", color_continuous_scale="Blues")
+fig1.update_layout(xaxis=dict(dtick=1))
+st.plotly_chart(fig1, use_container_width=True)
 
-# 4. Top 10 Crash Locations
-if "location" in df.columns and not df.empty:
-    top_locations = df["location"].value_counts().nlargest(10).reset_index()
-    top_locations.columns = ["location", "count"]
-    fig_loc = px.bar(top_locations, x="location", y="count", title="Top 10 Crash Locations", color="location")
-    st.plotly_chart(fig_loc, use_container_width=True)
+# 2️⃣ Fatalities Trend
+st.subheader("☠️ Fatalities Trend Over Years")
+fatal_trend = filtered.groupby("year")["fatalities"].sum().reset_index()
+fig2 = px.line(fatal_trend, x="year", y="fatalities", markers=True,
+               title="Total Fatalities by Year")
+st.plotly_chart(fig2, use_container_width=True)
 
-# ----------------- Raw Data Display -----------------
-st.subheader("📋 Raw Data")
-st.dataframe(df)
+# 3️⃣ Damage Level Distribution
+st.subheader("💥 Damage Level Distribution")
+damage_counts = filtered["damage_level"].value_counts().reset_index()
+damage_counts.columns = ["damage_level", "count"]
+fig3 = px.pie(damage_counts, names="damage_level", values="count",
+              title="Distribution of Damage Levels",
+              color_discrete_sequence=px.colors.sequential.RdBu)
+st.plotly_chart(fig3, use_container_width=True)
 
-# ----------------- Footer -----------------
+# 4️⃣ Top 10 Operators
+st.subheader("🏢 Top 10 Operators by Number of Accidents")
+top_ops = filtered["operator"].value_counts().nlargest(10).reset_index()
+top_ops.columns = ["operator", "accidents"]
+fig4 = px.bar(top_ops, x="operator", y="accidents",
+              color="accidents", color_continuous_scale="Blues",
+              title="Top 10 Operators")
+st.plotly_chart(fig4, use_container_width=True)
+
+# 5️⃣ Top 10 Aircraft Types
+st.subheader("🛩️ Aircraft Types Most Involved in Accidents")
+top_aircraft = filtered["aircraft_type"].value_counts().nlargest(10).reset_index()
+top_aircraft.columns = ["aircraft_type", "accidents"]
+fig5 = px.bar(top_aircraft, x="aircraft_type", y="accidents",
+              color="accidents", color_continuous_scale="Purples",
+              title="Top 10 Aircraft Types Involved")
+st.plotly_chart(fig5, use_container_width=True)
+
+# 6️⃣ Damage Level by Year (Clustered Bar)
+st.subheader("📊 Damage Level by Year")
+dmg_by_year = filtered.groupby(["year", "damage_level"]).size().reset_index(name="accidents")
+fig6 = px.bar(dmg_by_year, x="year", y="accidents", color="damage_level",
+              barmode="group", title="Accidents by Damage Level and Year")
+st.plotly_chart(fig6, use_container_width=True)
+
+# 7️⃣ Accident Table
+st.subheader("📋 Recent Accidents (Filtered)")
+st.dataframe(filtered.sort_values("date", ascending=False)[
+    ["date", "operator", "aircraft_type", "location", "fatalities", "damage_level"]
+], use_container_width=True)
+
+# Footer
 st.markdown("---")
-st.markdown("© 2025 Flight Crash Analysis Dashboard")
+st.caption("Created by [Your Name] | Powered by Streamlit + Plotly")
